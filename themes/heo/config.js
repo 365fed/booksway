@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '点我教你0元0基础搭建与本站一模一样的网站', url: 'https://isharehubs.com/about' },
+    { title: '点我教你0元0基础搭建与本站一模一样的网站', url: 'https://bukeba.com/about' },
     { title: '点我玩个游戏放松一下吧', url: 'https://ipoodle.top' }
   ],
 
@@ -20,10 +20,10 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享云盘资源',
   HEO_HERO_TITLE_2: '与视频教程',
-  HEO_HERO_TITLE_3: 'isharehubs.com',
+  HEO_HERO_TITLE_3: 'bukeba.com',
   HEO_HERO_TITLE_4: '资源推荐',
   HEO_HERO_TITLE_5: '最新推荐资源',
-  HEO_HERO_TITLE_LINK: 'https://isharehubs.com/',
+  HEO_HERO_TITLE_LINK: 'https://bukeba.com/',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
@@ -120,7 +120,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '电子书、影视剧下载，副业搞钱资源下载',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://t.me/isharehubs',
+  HEO_SOCIAL_CARD_URL: 'https://t.me/booksway',
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: '文章数:',
