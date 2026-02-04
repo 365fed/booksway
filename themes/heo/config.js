@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '点我教你0元0基础搭建与本站一模一样的网站', url: 'https://bukeba.com/about' },
+    { title: '关于布客之道的故事初衷', url: 'https://bukeba.com/about' },
     { title: '点我玩个游戏放松一下吧', url: 'https://ipoodle.top' }
   ],
 
