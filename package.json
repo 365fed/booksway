@@ -18,6 +18,7 @@
     "start": "next start",
     "post-build": "next-sitemap --config next-sitemap.config.js",
     "export": "cross-env EXPORT=true next build && next-sitemap --config next-sitemap.config.js",
+    "cf:build": "next-on-pages build",
     "bundle-report": "cross-env ANALYZE=true next build",
     "build-all-in-dev": "cross-env VERCEL_ENV=production next build",
     "version": "echo $npm_package_version"
@@ -35,7 +36,7 @@
     "js-md5": "^0.7.3",
     "lodash.throttle": "^4.1.1",
     "memory-cache": "^0.2.0",
-    "next": "14.2.4",
+    "next": "15.5.2",
     "notion-client": "6.15.6",
     "notion-utils": "6.15.6",
     "react": "^18.2.0",
@@ -47,6 +48,7 @@
     "react-tweet-embed": "~2.0.0"
   },
   "devDependencies": {
+    "@cloudflare/next-on-pages": "^1.13.16",
     "@types/react": "18.3.10",
     "@typescript-eslint/eslint-plugin": "^7.16.0",
     "@typescript-eslint/parser": "^7.16.0",
@@ -66,7 +68,8 @@
     "prettier": "^3.3.2",
     "tailwindcss": "^3.3.2",
     "typescript": "5.6.2",
-    "webpack-bundle-analyzer": "^4.5.0"
+    "webpack-bundle-analyzer": "^4.5.0",
+    "wrangler": "^4.68.1"
   },
   "resolutions": {
     "axios": ">=0.21.1"
