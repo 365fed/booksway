@@ -38,6 +38,15 @@ export async function getStaticProps({ locale }) {
       props.post = post
     }
   }
+  // 兜底：避免 getStaticProps 返回的 props 中出现 undefined 字段（Next.js 序列化会报错）
+  if (props?.allPages?.length) {
+    props.allPages = props.allPages.map(p => ({
+      ...p,
+      pageCoverThumbnail:
+        p?.pageCoverThumbnail === undefined ? null : p.pageCoverThumbnail
+    }))
+  }
+
   // 无法获取文章
   if (!props?.post) {
     props.post = null
