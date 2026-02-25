@@ -27,20 +27,20 @@ export const Footer = props => {
           {/* <a href="#" className="text-black no-underline hover:underline">Privacy Policy</a> */}
           {siteConfig('BEI_AN') && (
             <a
-              href='https://beian.miit.gov.cn/'
+              href={siteConfig('BEI_AN_LINK')}
               className='text-black dark:text-gray-200 no-underline hover:underline ml-4'>
               {siteConfig('BEI_AN')}
             </a>
           )}
           <BeiAnGongAn />
-          {/* <span className='dark:text-gray-200 no-underline ml-4'>
+          <span className='dark:text-gray-200 no-underline ml-4'>
             Powered by
             <a
               href='https://github.com/tangly1024/NotionNext'
               className=' hover:underline'>
               NotionNext {siteConfig('VERSION')}
             </a>
-          </span> */}
+          </span>
         </div>
       </div>
     </footer>

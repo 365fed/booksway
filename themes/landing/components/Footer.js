@@ -1,5 +1,5 @@
 import { subscribeToNewsletter } from '@/lib/plugins/mailchimp'
-import Link from 'next/link'
+import SmartLink from '@/components/SmartLink'
 import { useEffect, useRef, useState } from 'react'
 import CONFIG from '../config'
 import Logo from './Logo'
@@ -45,7 +45,7 @@ export default function Footer() {
                             <Logo />
                         </div>
                         <div className="text-sm text-gray-600">
-                            <Link href="/terms-of-use" className="text-gray-600 hover:text-gray-900 hover:underline transition duration-150 ease-in-out">服务条款</Link> · <Link href="/privacy-policy" className="text-gray-600 hover:text-gray-900 hover:underline transition duration-150 ease-in-out">隐私政策</Link>
+                            <SmartLink href="/terms-of-use" className="text-gray-600 hover:text-gray-900 hover:underline transition duration-150 ease-in-out">服务条款</SmartLink> · <SmartLink href="/privacy-policy" className="text-gray-600 hover:text-gray-900 hover:underline transition duration-150 ease-in-out">隐私政策</SmartLink>
                         </div>
                     </div>
 
@@ -76,16 +76,16 @@ export default function Footer() {
                         <h6 className="text-gray-800 font-medium mb-2">资源</h6>
                         <ul className="text-sm">
                             <li className="mb-2">
-                                <a href="https://docs.bukeba.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">技术文档</a>
+                                <a href="https://docs.tangly1024.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">技术文档</a>
                             </li>
                             <li className="mb-2">
-                                <a href="https://docs.bukeba.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">教程指南</a>
+                                <a href="https://docs.tangly1024.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">教程指南</a>
                             </li>
                             <li className="mb-2">
-                                <a href="https://blog.bukeba.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">博客</a>
+                                <a href="https://blog.tangly1024.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">博客</a>
                             </li>
                             <li className="mb-2">
-                                <a href="https://blog.bukeba.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">支持中心</a>
+                                <a href="https://blog.tangly1024.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">支持中心</a>
                             </li>
                             <li className="mb-2">
                                 <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">合作方</a>
@@ -150,9 +150,9 @@ export default function Footer() {
                     {/* Social as */}
                     <ul className="flex mb-4 md:order-1 md:ml-4 md:mb-0">
                         <li>
-                          {/* <div className='h-full flex justify-center items-center text-gray-600 hover:text-gray-900 bg-white hover:bg-white-100'>
+                          <div className='h-full flex justify-center items-center text-gray-600 hover:text-gray-900 bg-white hover:bg-white-100'>
                              Powered by<a href='https://github.com/tangly1024/NotionNext' className='mx-1 hover:underline font-semibold'>NotionNext {siteConfig('VERSION')}</a>
-                          </div> */}
+                          </div>
                         </li>
                         {/* <li>
               <a href="#0" className="flex justify-center items-center text-gray-600 hover:text-gray-900 bg-white hover:bg-white-100 rounded-full shadow transition duration-150 ease-in-out" aria-label="Twitter">

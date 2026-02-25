@@ -22,7 +22,7 @@ function SiteInfo({ title }) {
         {siteConfig('BEI_AN') && (
           <>
             <i className='fas fa-shield-alt' />
-            <a href='https://beian.miit.gov.cn/' className='mr-2'>
+            <a href={siteConfig('BEI_AN_LINK')} className='mr-2'>
               {siteConfig('BEI_AN')}
             </a>
             <br />
@@ -38,14 +38,14 @@ function SiteInfo({ title }) {
           <span className='px-1 busuanzi_value_site_uv'> </span>
         </span>
         <br />
-        {/* <span className='text-xs font-serif'>
+        <span className='text-xs font-serif'>
           Powered by
           <a
             href='https://github.com/tangly1024/NotionNext'
             className='underline'>
             NotionNext {siteConfig('VERSION')}
           </a>
-        </span> */}
+        </span>
         <br />
       </span>
       <h1>{title}</h1>

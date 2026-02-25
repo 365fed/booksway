@@ -9,6 +9,7 @@ import SocialButton from './SocialButton'
  */
 const Footer = () => {
   const BEI_AN = siteConfig('BEI_AN')
+  const BEI_AN_LINK = siteConfig('BEI_AN_LINK')
   const BIO = siteConfig('BIO')
   return (
     <footer className='relative flex-shrink-0 bg-white dark:bg-[#1a191d] justify-center text-center m-auto w-full leading-6  text-gray-600 dark:text-gray-100 text-sm'>
@@ -38,9 +39,7 @@ const Footer = () => {
               className='underline font-semibold dark:text-gray-300 '>
               {siteConfig('AUTHOR')}
             </a>
-            {BIO && <span className='mx-1'>
-                  <span>本站所有资源收集整理于网络,本站不参与制作,用于互联网爱好者学习和研究,如不慎侵犯了您的权利,请及时联系站长处理删除。敬请谅解！ 侵权删帖/违法举报/投稿等联系邮箱（#替换成@）：entrepreneurchief#hotmail.com</span>  
-               | {BIO}</span>}
+            {BIO && <span className='mx-1'> | {BIO}</span>}
           </div>
         </div>
 
@@ -48,7 +47,7 @@ const Footer = () => {
           {BEI_AN && (
             <>
               <i className='fas fa-shield-alt' />{' '}
-              <a href='https://beian.miit.gov.cn/' className='mr-2'>
+              <a href={BEI_AN_LINK} className='mr-2'>
                 {siteConfig('BEI_AN')}
               </a>
             </>
