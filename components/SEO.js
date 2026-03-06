@@ -48,7 +48,7 @@ const SEO = props => {
   }
   if (meta) {
     url = `${url}/${meta.slug}`
-    image = meta.image || '/bg_image.jpg'
+    image = meta.image || 'https://img.ipoodle.top/file/isharehubs/1770190724936_banner.png'
   }
   const TITLE = siteConfig('TITLE')
   const title = meta?.title || TITLE
