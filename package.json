@@ -1,19 +1,19 @@
 {
   "name": "notion-next",
   "version": "4.9.3.1",
-  "homepage": "https://github.com/tangly1024/NotionNext.git",
+  "homepage": "https://github.com/bukeba/NotionNext.git",
   "license": "MIT",
   "engines": {
     "node": ">=20"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tangly1024/NotionNext.git"
+    "url": "https://github.com/bukeba/NotionNext.git"
   },
   "author": {
     "name": "tangly",
-    "email": "mail@tangly1024.com",
-    "url": "http://tangly1024.com"
+    "email": "mail@bukeba.com",
+    "url": "http://bukeba.com"
   },
   "scripts": {
     "dev": "next dev",

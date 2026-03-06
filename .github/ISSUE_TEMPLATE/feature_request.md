@@ -3,7 +3,7 @@ name: Feature request （新特性建议）
 about: Suggest an idea for Notion Next.
 title: ''
 labels: enhancement
-assignees: tangly1024
+assignees: bukeba
 ---
 
 <!--

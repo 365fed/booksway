@@ -34,7 +34,7 @@ const CONFIG = {
   MAGZINE_SOCIAL_CARD_TITLE_1: '交流频道',
   MAGZINE_SOCIAL_CARD_TITLE_2: '加入社群讨论分享',
   MAGZINE_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  MAGZINE_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/chat-community',
+  MAGZINE_SOCIAL_CARD_URL: 'https://bukeba.com/article/chat-community',
 
   // 页脚菜单
   MAGZINE_FOOTER_LINKS: [
@@ -43,33 +43,33 @@ const CONFIG = {
       menus: [
         {
           title: 'Tangly的学习笔记',
-          href: 'https://blog.tangly1024.com'
+          href: 'https://bukeba.com'
         },
         {
           title: 'NotionNext',
-          href: 'https://www.tangly1024.com'
+          href: 'https://www.bukeba.com'
         }
       ]
     },
     {
       name: '开发者',
       menus: [
-        { title: 'Github', href: 'https://github.com/tangly1024/NotionNext' },
+        { title: 'Github', href: 'https://github.com/bukeba/NotionNext' },
         {
           title: '开发帮助',
-          href: 'https://docs.tangly1024.com/article/how-to-develop-with-notion-next'
+          href: 'https://bukeba.com/article/how-to-develop-with-notion-next'
         },
         {
           title: '功能反馈',
-          href: 'https://github.com/tangly1024/NotionNext/issues/new/choose'
+          href: 'https://github.com/bukeba/NotionNext/issues/new/choose'
         },
         {
           title: '技术讨论',
-          href: 'https://github.com/tangly1024/NotionNext/discussions'
+          href: 'https://github.com/bukeba/NotionNext/discussions'
         },
         {
           title: '关于作者',
-          href: 'https://blog.tangly1024.com/about'
+          href: 'https://bukeba.com/about'
         }
       ]
     },
@@ -78,28 +78,28 @@ const CONFIG = {
       menus: [
         {
           title: '站长社群',
-          href: 'https://docs.tangly1024.com/article/chat-community'
+          href: 'https://bukeba.com/article/chat-community'
         },
         {
           title: '咨询与定制',
-          href: 'https://docs.tangly1024.com/article/my-service'
+          href: 'https://bukeba.com/article/my-service'
         },
         {
           title: '升级手册',
-          href: 'https://docs.tangly1024.com/article/my-service'
+          href: 'https://bukeba.com/article/my-service'
         },
         {
           title: '安装教程',
-          href: 'https://docs.tangly1024.com/article/how-to-update-notionnext'
+          href: 'https://bukeba.com/article/how-to-update-notionnext'
         },
-        { title: 'SEO推广', href: 'https://seo.tangly1024.com/' }
+        { title: 'SEO推广', href: 'https://seo.bukeba.com/' }
       ]
     },
     {
       name: '解决方案',
       menus: [
-        { title: '建站工具', href: 'https://www.tangly1024.com/' },
-        { title: 'NotionNext', href: 'https://docs.tangly1024.com/about' }
+        { title: '建站工具', href: 'https://www.bukeba.com/' },
+        { title: 'NotionNext', href: 'https://bukeba.com/about' }
       ]
     }
   ],
