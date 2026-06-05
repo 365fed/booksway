@@ -1,0 +1,11 @@
+# 仅高影响路径请求 Founder 过目，降低日常 PR 对管理者的打扰。
+# 文档与主题 PR 无 CODEOWNERS → 由具备 Write 的维护者按 GOVERNANCE 合并即可。
+# 详见 docs/developer/MAINTAINER_RUNBOOK.zh-CN.md
+
+/lib/db/                    @bukeba
+/pages/api/                 @bukeba
+/next.config.js             @bukeba
+/blog.config.js             @bukeba
+/package.json               @bukeba
+/yarn.lock                  @bukeba
+/.github/workflows/         @bukeba

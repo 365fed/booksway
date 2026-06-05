@@ -48,7 +48,7 @@ const SEO = props => {
   }
   if (meta) {
     url = `${url}/${meta.slug}`
-    image = meta.image || 'https://img.ipoodle.top/file/isharehubs/1770190724936_banner.png'
+    image = meta.image || '/bg_image.jpg'
   }
   const TITLE = siteConfig('TITLE')
   const title = meta?.title || TITLE
@@ -206,9 +206,6 @@ const SEO = props => {
       <link rel='dns-prefetch' href='//www.google-analytics.com' />
       <link rel='dns-prefetch' href='//www.googletagmanager.com' />
       <link rel='preconnect' href='https://fonts.gstatic.com' crossOrigin='anonymous' />
-
-      {/* 预加载关键资源 */}
-      <link rel='preload' href='/fonts/inter-var.woff2' as='font' type='font/woff2' crossOrigin='anonymous' />
 
       {children}
     </Head>

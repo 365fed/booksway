@@ -7,13 +7,14 @@ export function EmptyData(pageId?: string): SiteData {
     siteInfo: {
       title: 'NotionNext BLOG',
       description: '无法获取 Notion 数据',
-      pageCover: 'https://img.ipoodle.top/file/isharehubs/1770190724936_banner.png',
+      pageCover: '/bg_image.jpg',
       icon: '/avatar.svg',
       link: BLOG.LINK
     },
     notice: null,
     allPages: [],
     allNavPages: [],
+    allLinkPages: [],
     latestPosts: [],
     categoryOptions: [],
     tagOptions: [],

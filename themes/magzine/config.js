@@ -12,6 +12,8 @@ const CONFIG = {
     '借助NotionNext，获得助您开创、经营和扩展业务所需的全部工具和帮助。',
   MAGZINE_HOME_TIPS: 'AI时代来临，这是属于超级个体的狂欢盛宴！',
 
+  MAGZINE_HERO_SUB_POST_COUNT: 2, // 首屏英雄区次要文章数量，通常2篇，如果关闭Banner，推荐改为3篇
+
   // 首页底部推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   MAGZINE_RECOMMEND_POST_TAG: '推荐',
   MAGZINE_RECOMMEND_POST_COUNT: 6,
@@ -34,7 +36,7 @@ const CONFIG = {
   MAGZINE_SOCIAL_CARD_TITLE_1: '交流频道',
   MAGZINE_SOCIAL_CARD_TITLE_2: '加入社群讨论分享',
   MAGZINE_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  MAGZINE_SOCIAL_CARD_URL: 'https://bukeba.com/article/chat-community',
+  MAGZINE_SOCIAL_CARD_URL: 'https://docs.bukeba.com/article/chat-community',
 
   // 页脚菜单
   MAGZINE_FOOTER_LINKS: [
@@ -43,7 +45,7 @@ const CONFIG = {
       menus: [
         {
           title: 'Tangly的学习笔记',
-          href: 'https://bukeba.com'
+          href: 'https://blog.bukeba.com'
         },
         {
           title: 'NotionNext',
@@ -57,7 +59,7 @@ const CONFIG = {
         { title: 'Github', href: 'https://github.com/bukeba/NotionNext' },
         {
           title: '开发帮助',
-          href: 'https://bukeba.com/article/how-to-develop-with-notion-next'
+          href: 'https://docs.bukeba.com/article/how-to-develop-with-notion-next'
         },
         {
           title: '功能反馈',
@@ -69,7 +71,7 @@ const CONFIG = {
         },
         {
           title: '关于作者',
-          href: 'https://bukeba.com/about'
+          href: 'https://blog.bukeba.com/about'
         }
       ]
     },
@@ -78,19 +80,19 @@ const CONFIG = {
       menus: [
         {
           title: '站长社群',
-          href: 'https://bukeba.com/article/chat-community'
+          href: 'https://docs.bukeba.com/article/chat-community'
         },
         {
           title: '咨询与定制',
-          href: 'https://bukeba.com/article/my-service'
+          href: 'https://docs.bukeba.com/article/my-service'
         },
         {
           title: '升级手册',
-          href: 'https://bukeba.com/article/my-service'
+          href: 'https://docs.bukeba.com/article/my-service'
         },
         {
           title: '安装教程',
-          href: 'https://bukeba.com/article/how-to-update-notionnext'
+          href: 'https://docs.bukeba.com/article/how-to-update-notionnext'
         },
         { title: 'SEO推广', href: 'https://seo.bukeba.com/' }
       ]
@@ -99,7 +101,7 @@ const CONFIG = {
       name: '解决方案',
       menus: [
         { title: '建站工具', href: 'https://www.bukeba.com/' },
-        { title: 'NotionNext', href: 'https://bukeba.com/about' }
+        { title: 'NotionNext', href: 'https://docs.bukeba.com/about' }
       ]
     }
   ],
