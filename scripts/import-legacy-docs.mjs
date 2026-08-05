@@ -8,7 +8,7 @@ import { NotionAPI } from 'notion-client'
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const ROOT = path.join(__dirname, '..')
 const USER_GUIDE = path.join(ROOT, 'docs', 'user-guide')
-const BASE = 'https://docs.bukeba.com'
+const BASE = 'https://docs.tangly1024.com'
 const notion = new NotionAPI({ userAgent: 'Mozilla/5.0' })
 
 const explicitPathMap = {
@@ -303,7 +303,7 @@ async function writeArticleIndex(rows) {
   const lines = [
     '# 官方文档迁移索引',
     '',
-    '源站：https://docs.bukeba.com',
+    '源站：https://docs.tangly1024.com',
     '',
     '本表由 `node scripts/import-legacy-docs.mjs` 从旧站导航和文章数据生成。正文已迁移到 `docs/user-guide/`，每篇文末保留旧站原文链接。',
     '',

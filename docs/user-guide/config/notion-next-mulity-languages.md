@@ -1,5 +1,5 @@
 # 多数据库：多语言/多板块
-> 迁移自：[多数据库：多语言/多板块](https://docs.bukeba.com/article/notion-next-mulity-languages)
+> 迁移自：[多数据库：多语言/多板块](https://docs.tangly1024.com/article/notion-next-mulity-languages)
 > 发布日期：2024-4-12
 > 最后编辑：2024-6-18
 > 原栏目：🛠 站点配置
@@ -33,24 +33,28 @@ xxxxxxx**,en:xxxxx,zh:xxxxx,blog:xxxxxx,product:xxxxx,docs:xxxxxx**
 ### 效果预览
 
 - 根据url路径不同访问到不同的数据库；例如
-[https://preview.bukeba.com/](https://preview.bukeba.com/)是中文站；
-[https://preview.bukeba.com/en](https://preview.bukeba.com/en#google_vignette)是英文站 ， 两个站点的数据库是独立隔离的。
+[https://preview.tangly1024.com/](https://preview.tangly1024.com/)是中文站；
+[https://preview.tangly1024.com/en](https://preview.tangly1024.com/en#google_vignette)是英文站 ， 两个站点的数据库是独立隔离的。
 ![Untitled](/legacy/33ab3cc22d1a940c.png)
 ![Untitled](/legacy/0287f598b771d396.png)
 
 - 自动化多语言跳转：
-> **💡** 最新版中默认关闭。如需开启请在NOTION_CONFIG 中添加`REDIRECT_LANG`=`true`。
+::: tip 提示
+最新版中默认关闭。如需开启请在NOTION_CONFIG 中添加`REDIRECT_LANG`=`true`。
 访问首页时，会检测用户的默认语言进行自动跳转。
-> 默认语言取自用户浏览器中的偏好语言(`window.navigator.language`)
+默认语言取自用户浏览器中的偏好语言(`window.navigator.language`)
 例如用户的浏览器默认语言如果是英文 ， 则会跳转到 /en目录；否则就不会自动跳转，当然用户可以选择从菜单栏自行选择切换语言。
 ![Untitled](/legacy/a37b23756c9ba3ae.png)
+:::
 
 - 理论上可以配置无数种语言。
 
 
 ## 使用方法
 
-> **⚠️** 注意：多语言功能不支持`静态导出`的部署方案：例如 yarn export，cloudflarePage、4Everland等都不支持多种语言。
+::: warning 注意
+注意：多语言功能不支持`静态导出`的部署方案：例如 yarn export，cloudflarePage、4Everland等都不支持多种语言。
+:::
 
 若要用静态导出方案，可以用多域名站点解决：例如创建多个不同的域名：`xxx.cn `,` xxx.en`, `xxx.jp` 等； 或者用二级域名 `cn.xxx.com` , `jp.xxx.com`, cn.xxx.com
 
@@ -115,7 +119,7 @@ NOTION_PAGE_ID = 'xxJPxx,en:xxENxx,zh:xxZHxx,es:xxESxx'
 
 但是多语言的菜单处理会比较特殊，不能使用相对路径，例如  /en , /zh , /jp 这种作为菜单的slug，而是要用全路径。
 
-例如默认中文主页是 [https://preview.bukeba.com/](https://preview.bukeba.com/) ， 则要切换成英文，则需要创建一个菜单，slug是 [https://preview.bukeba.com/en](https://preview.bukeba.com/en)。 否则会切换异常。
+例如默认中文主页是 [https://preview.tangly1024.com/](https://preview.tangly1024.com/) ， 则要切换成英文，则需要创建一个菜单，slug是 [https://preview.tangly1024.com/en](https://preview.tangly1024.com/en)。 否则会切换异常。
 
 
 ## 其它
@@ -141,4 +145,4 @@ NOTION_PAGE_ID = 'xxJPxx,en:xxENxx,zh:xxZHxx,es:xxESxx'
 
 ## 原文链接
 
-https://docs.bukeba.com/article/notion-next-mulity-languages
+https://docs.tangly1024.com/article/notion-next-mulity-languages

@@ -1,5 +1,5 @@
 # NotionNext项目运行原理
-> 迁移自：[NotionNext项目运行原理](https://docs.bukeba.com/article/vercel-notionnext-notion)
+> 迁移自：[NotionNext项目运行原理](https://docs.tangly1024.com/article/vercel-notionnext-notion)
 > 发布日期：2024-11-18
 > 最后编辑：2025-10-15
 > 原栏目：🚀 安装部署
@@ -168,9 +168,9 @@ Vercel店员有一个特点，他们都是外包的临时工，或称共享员�
 
 品牌维护、运营中心都在tangly的中央仓库中，tangly日常负责规划设计NotionNext的工作流程、打造NotionNext旗舰店铺的装修样板。并把这些跑通的流程记录在**运营手册**，也就是**代码**中。
 
-> **⚠️**
->
+::: warning 注意
 NotionNext店铺的**运营手册**指的就是项目的代码。
+:::
 
 ![image.png](/legacy/80c114972a483bd5.png)
 
@@ -193,9 +193,9 @@ NotionNext店铺的**运营手册**指的就是项目的代码。
 
 通常这里会有几种处理方法；
 
-> **⚠️**
->
+::: warning 注意
 这里的手册比喻的是你的Github代码。
+:::
 
 1. 加盟商备份自己的手册，先完全照搬Tangly的手册运营店铺覆盖自己当前的手册、确保店铺能正常运营。然后再按照自己备份的个性化手册，一点点微调新版的手册内容。
 
@@ -203,9 +203,9 @@ NotionNext店铺的**运营手册**指的就是项目的代码。
 
 1. 请总部过来指导，tangly会根据加盟商自定义手册的方式，为加盟商量身定做出最适合加盟商的版本。
 
-> **💡**
->
+::: tip 提示
 加盟商只需要做好手册的更新，Vercel会自动派店小二来按照手册装修店铺、培训小二。
+:::
 
 
 ### 一些优化的体验
@@ -229,4 +229,4 @@ NOTION_CONFIG中可以支持用户配置自己的装修样式和运行规则，�
 
 ## 原文链接
 
-https://docs.bukeba.com/article/vercel-notionnext-notion
+https://docs.tangly1024.com/article/vercel-notionnext-notion

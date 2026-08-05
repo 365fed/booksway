@@ -19,7 +19,7 @@ const Footer = () => {
         <p className='mt-1'>
           Powered by{' '}
           <a
-            href='https://github.com/bukeba/NotionNext'
+            href='https://github.com/tangly1024/NotionNext'
             target='_blank'
             rel='noopener noreferrer'
             className='fuwari-link font-semibold'>

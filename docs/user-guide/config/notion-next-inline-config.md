@@ -1,5 +1,5 @@
 # 批量配置 INLINE_CONFIG
-> 迁移自：[批量配置 INLINE_CONFIG](https://docs.bukeba.com/article/notion-next-inline-config)
+> 迁移自：[批量配置 INLINE_CONFIG](https://docs.tangly1024.com/article/notion-next-inline-config)
 > 发布日期：2024-4-12
 > 最后编辑：2024-12-28
 > 原栏目：🛠 站点配置
@@ -65,4 +65,4 @@ config.json
 
 ## 原文链接
 
-https://docs.bukeba.com/article/notion-next-inline-config
+https://docs.tangly1024.com/article/notion-next-inline-config

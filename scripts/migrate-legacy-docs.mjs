@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * 从 docs.bukeba.com 拉取旧站文章，合并到 docs/user-guide 对应路径。
+ * 从 docs.tangly1024.com 拉取旧站文章，合并到 docs/user-guide 对应路径。
  * 用法：
  *   node scripts/migrate-legacy-docs.mjs --slug notionnext-twikoo
  *   node scripts/migrate-legacy-docs.mjs --all --dry-run
@@ -14,7 +14,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const ROOT = path.join(__dirname, '..')
 const USER_GUIDE = path.join(ROOT, 'docs', 'user-guide')
 const PUBLIC_LEGACY = path.join(ROOT, 'docs', 'public', 'legacy')
-const BASE = 'https://docs.bukeba.com/article'
+const BASE = 'https://docs.tangly1024.com/article'
 
 /** slug → 相对 user-guide 的路径 */
 const SLUG_MAP = {

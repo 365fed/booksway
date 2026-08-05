@@ -1,6 +1,6 @@
 # Fuwari 主题
 
-> 主题 ID：`fuwari` · 预览：[preview.bukeba.com/?theme=fuwari](https://preview.bukeba.com/?theme=fuwari)
+> 主题 ID：`fuwari` · 预览：[preview.tangly1024.com/?theme=fuwari](https://preview.tangly1024.com/?theme=fuwari)
 
 ## 主题预览
 
@@ -15,7 +15,7 @@
 - **定位**：日系轻量双栏与主题色板。
 - **适用场景**：日系双栏、色板定制
 - **配置前缀**：`FUWARI_*`（共 **50** 项，见下方配置表）
-- **在线预览**：[preview.bukeba.com/?theme=fuwari](https://preview.bukeba.com/?theme=fuwari)
+- **在线预览**：[preview.tangly1024.com/?theme=fuwari](https://preview.tangly1024.com/?theme=fuwari)
 
 ## 适用场景
 
@@ -35,6 +35,20 @@
 
 配置文件：[`themes/fuwari/config.js`](https://github.com/notionnext-org/NotionNext/blob/main/themes/fuwari/config.js)  
 也可在 **Notion Config** 表中填写同名键（对象/数组用 JSON）。
+
+### Fuwari 主题调色
+
+Fuwari 使用单主色色相模型，推荐通过 `FUWARI_THEME_COLOR_HUE` 调整主色：
+
+```js
+FUWARI_THEME_COLOR_HUE: 52
+```
+
+取值范围为 `0` 到 `360`。主题工具中的调色板会显示当前主色对应的实际色值，复制配置时会复制 hue 数字，便于直接写入 Notion Config。若需要固定站内颜色并隐藏顶部调色按钮，可设置：
+
+```js
+FUWARI_THEME_COLOR_FIXED: true
+```
 
 <!-- theme-config-table -->
 

@@ -1,11 +1,13 @@
 # 站点统计相关
-> 迁移自：[站点统计相关](https://docs.bukeba.com/article/notion-next-analytics)
+> 迁移自：[站点统计相关](https://docs.tangly1024.com/article/notion-next-analytics)
 > 发布日期：2023-8-4
 > 最后编辑：2024-4-28
 > 原栏目：📊 网站统计
 > 标签：NotionNext、站点统计
 
-> **💡** 作为站长，站点统计功能对于管理和优化你的网站非常重要。它可以提供有关访问者行为、流量来源和网站性能的关键信息，帮助你做出数据驱动的决策和改进网站体验。
+::: tip 提示
+作为站长，站点统计功能对于管理和优化你的网站非常重要。它可以提供有关访问者行为、流量来源和网站性能的关键信息，帮助你做出数据驱动的决策和改进网站体验。
+:::
 
 站点统计功能的一些主要作用：
 
@@ -75,4 +77,4 @@ ANALYTICS_GOOGLE_ID: process.env.NEXT_PUBLIC_ANALYTICS_GOOGLE_ID || '', // 谷�
 
 ## 原文链接
 
-https://docs.bukeba.com/article/notion-next-analytics
+https://docs.tangly1024.com/article/notion-next-analytics

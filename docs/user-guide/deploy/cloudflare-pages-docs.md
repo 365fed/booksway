@@ -1,6 +1,6 @@
 ﻿# Cloudflare Pages 部署文档站（VitePress）
 
-本仓库教程通过 **VitePress** 构建为静态站（例如 `notionnext.bukeba.com`）。
+本仓库教程通过 **VitePress** 构建为静态站（例如 `notionnext.tangly1024.com`）。
 
 > 与 `yarn export` 博客静态站不同：文档站**不**需要 `NOTION_PAGE_ID`。
 
@@ -71,7 +71,7 @@ Cloudflare → **我的个人资料** → **API 令牌** → **创建令牌** �
 
 仍在 Cloudflare **Pages 项目**里操作（与 Git 无关）：
 
-**自定义域** → 添加 `notionnext.bukeba.com`（DNS 在 Cloudflare 时通常自动添加 CNAME）。
+**自定义域** → 添加 `notionnext.tangly1024.com`（DNS 在 Cloudflare 时通常自动添加 CNAME）。
 
 ---
 
@@ -119,7 +119,7 @@ npx wrangler pages deploy .vitepress/dist --project-name=notionnext-docs
 | --- | --- |
 | 构建命令 | `yarn install && yarn docs:site:build` |
 | 输出目录 | `.vitepress/dist` |
-| Node | `20` |
+| Node | `22` |
 
 组织仓库更建议用上文 **Actions** 流程。
 

@@ -1,13 +1,13 @@
 # 图标库-IconFont
-> 迁移自：[图标库-IconFont](https://docs.bukeba.com/article/notion-next-iconfont)
+> 迁移自：[图标库-IconFont](https://docs.tangly1024.com/article/notion-next-iconfont)
 > 发布日期：2025-4-11
 > 最后编辑：2025-4-12
 > 原栏目：🛠 站点配置
 > 摘要：如何在notionnext中配置iconfont
 
-> **💡**
->
+::: tip 提示
 如需使用IconFont图标，请先将NotionNext 升级至 ≥4.8.4
+:::
 
 
 ## IconFont
@@ -143,4 +143,4 @@ id从iconfont后台获取
 
 ## 原文链接
 
-https://docs.bukeba.com/article/notion-next-iconfont
+https://docs.tangly1024.com/article/notion-next-iconfont

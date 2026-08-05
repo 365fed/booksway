@@ -1,10 +1,10 @@
 ﻿# 官方文档迁移状态
 
-源站：[https://docs.bukeba.com](https://docs.bukeba.com/about)
+源站：[https://docs.tangly1024.com](https://docs.tangly1024.com/about)
 
 目标：`docs/user-guide/`
 
-**状态：旧站导航中的 104 个页面已全部迁入本地 Markdown**；正文、图片链接、原文 URL 与基础元数据已从 `docs.bukeba.com` 的 NotionNext 页面数据导入。对照表：[ARTICLE_INDEX.md](./ARTICLE_INDEX.md)。
+**状态：旧站导航中的 104 个页面已全部迁入本地 Markdown**；正文、图片链接、原文 URL 与基础元数据已从 `docs.tangly1024.com` 的 NotionNext 页面数据导入。对照表：[ARTICLE_INDEX.md](./ARTICLE_INDEX.md)。
 
 ## 已迁移（按栏目）
 

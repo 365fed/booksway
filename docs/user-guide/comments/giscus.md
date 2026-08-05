@@ -1,5 +1,5 @@
 # Giscus
-> 迁移自：[Giscus](https://docs.bukeba.com/article/notion-next-giscus)
+> 迁移自：[Giscus](https://docs.tangly1024.com/article/notion-next-giscus)
 > 发布日期：2023-6-29
 > 最后编辑：2024-1-31
 > 原栏目：📩 评论插件
@@ -78,4 +78,4 @@ giscus的三项配置参数： `data-repo,data-repo-id`,`data-category-id` 添�
 
 ## 原文链接
 
-https://docs.bukeba.com/article/notion-next-giscus
+https://docs.tangly1024.com/article/notion-next-giscus

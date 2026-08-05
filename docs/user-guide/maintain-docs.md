@@ -2,7 +2,7 @@
 
 > 第一次参与？先看 **[参与社区](./community-participate.md)**（提问、PR、维护者路径）。
 
-在线文档站：[https://notionnext.bukeba.com](https://notionnext.bukeba.com)
+在线文档站：[https://notionnext.tangly1024.com](https://notionnext.tangly1024.com)
 
 源码与 GitHub 上的 Markdown **一一对应**；改仓库 → 合并 `main` → 自动发布。
 
@@ -27,6 +27,12 @@
 3. 本地预览：`yarn docs:site:dev`。  
 4. 提交 PR，合并 **`main`** 后由 GitHub Actions 部署。  
 
+## 代码 PR 也要检查文档
+
+代码改动只要影响站长使用方式，就应该同步更新文档。常见场景包括新增或修改主题配置、环境变量、Notion Config 键、插件开关、部署步骤、默认行为和可见 UI 交互。
+
+PR 模板中的“用户文档不适用”只适合内部重构、测试、CI、依赖维护、拼写修正等不改变使用方式的改动。新增用户可配置项时，请至少补充对应主题或配置文档，并在 PR 描述里说明文档位置。
+
 详细检查清单：[MAINTENANCE_WORKFLOW.md](./MAINTENANCE_WORKFLOW.md) · 策略：[DOCUMENTATION_POLICY.md](../DOCUMENTATION_POLICY.md)
 
 ## 部署原理（简述）
@@ -37,11 +43,9 @@ push main（docs/user-guide/ 等变更）
     → .vitepress/dist → Cloudflare Pages
 ```
 
-详见 [cloudflare-pages-docs.md](./deploy/cloudflare-pages-docs.md)。
-
 ## 与旧版在线手册
 
-[docs.bukeba.com](/user-guide/intro) 为历史 Notion 托管；**以 `docs/user-guide/` 与 notionnext.bukeba.com 为准**。
+[docs.tangly1024.com](/user-guide/intro) 为历史 Notion 托管；**以 `docs/user-guide/` 与 notionnext.tangly1024.com 为准**。
 
 - slug 对照与旧站直达：[help/legacy-docs.md](./help/legacy-docs.md) · [ARTICLE_INDEX.md](./ARTICLE_INDEX.md)
 - 可选批量拉取旧文：`node scripts/migrate-legacy-docs.mjs --slug <slug>`（加 `--images` 下载图片到 `docs/public/legacy/`）

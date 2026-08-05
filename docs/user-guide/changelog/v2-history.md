@@ -1,5 +1,5 @@
 # V2.0 → V2.9.1
-> 迁移自：[V2.0 → V2.9.1](https://docs.bukeba.com/article/V2.0)
+> 迁移自：[V2.0 → V2.9.1](https://docs.tangly1024.com/article/V2.0)
 > 发布日期：2024-9-20
 > 最后编辑：2024-9-20
 > 原栏目：✨ 更新日志
@@ -208,4 +208,4 @@ Next 主题
 
 ## 原文链接
 
-https://docs.bukeba.com/article/V2.0
+https://docs.tangly1024.com/article/V2.0

@@ -1,5 +1,5 @@
 # Hexo/Matery主题
-> 迁移自：[Hexo/Matery主题](https://docs.bukeba.com/article/notion-next-greetings)
+> 迁移自：[Hexo/Matery主题](https://docs.tangly1024.com/article/notion-next-greetings)
 > 发布日期：2023-6-27
 > 最后编辑：2024-9-12
 > 原栏目：⭐ 主题参数
@@ -128,6 +128,20 @@ GREETING_WORDS: process.env.NEXT_PUBLIC_GREETING_WORDS || 'Hi，我是一个程�
 GREETING_WORDS: process.env.NEXT_PUBLIC_GREETING_WORDS || '您好，欢迎访问我的网站,我是张三,我是一个设计师',
 ```
 
+### 速度的设置
+
+修改blog.config.js中的 GREETING_WORDS_TYPE_SPEED 和 GREETING_WORDS_BACK_SPEED 配置：
+
+```JavaScript
+  // 欢迎语打字效果类型速度
+  GREETING_WORDS_TYPE_SPEED:
+    process.env.NEXT_PUBLIC_GREETING_WORDS_TYPE_SPEED || 200,
+
+  // 欢迎语打字效果回退速度
+  GREETING_WORDS_BACK_SPEED:
+    process.env.NEXT_PUBLIC_GREETING_WORDS_BACK_SPEED || 100,
+    
+```
 
 ### 注意点
 
@@ -154,4 +168,4 @@ GREETING_WORDS:  process.env.NEXT_PUBLIC_GREETING_WORDS || 'Hi，我是一个程
 
 ## 原文链接
 
-https://docs.bukeba.com/article/notion-next-greetings
+https://docs.tangly1024.com/article/notion-next-greetings

@@ -44,7 +44,7 @@ async function download(url) {
     headers: {
       'user-agent': 'NotionNext-docs-image-localizer/1.0',
       accept: 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
-      referer: 'https://docs.bukeba.com/'
+      referer: 'https://docs.tangly1024.com/'
     }
   })
   if (!res.ok) throw new Error(`HTTP ${res.status}`)

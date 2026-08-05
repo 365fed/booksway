@@ -44,12 +44,12 @@ A static blog system built with NextJS and Notion API, deployed on Vercel. Desig
 | **Contributing** | [CONTRIBUTING.md](./CONTRIBUTING.md) |
 | **Governance** | [GOVERNANCE.md](./GOVERNANCE.md) · [MAINTAINERS.md](./MAINTAINERS.md) |
 | **Code of Conduct** | [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) |
-| **Docs site** | [notionnext.bukeba.com](https://notionnext.bukeba.com) |
+| **Docs site** | [notionnext.tangly1024.com](https://notionnext.tangly1024.com) |
 
 ## 3-Minute Quick Start
 
 ```bash
-# 1) Use Node 20 (nvm recommended)
+# 1) Use Node 22 (nvm recommended; Node 20 cannot install current dependencies)
 nvm use || nvm install
 
 # 2) Install Yarn if needed
@@ -79,7 +79,7 @@ To help new contributors get started quickly, the project keeps docs bilingual w
 
 ## Themes & preview
 
-- **Live theme switcher**: [preview.bukeba.com](https://preview.bukeba.com/)
+- **Live theme switcher**: [preview.tangly1024.com](https://preview.tangly1024.com/)
 - **All 25 themes**: [THEMES_CATALOG.md](./docs/user-guide/themes/THEMES_CATALOG.md)
 - New theme? See [CONTRIBUTING.md](./CONTRIBUTING.md) and [Theme Migration Guide](./docs/developer/THEME_MIGRATION_GUIDE.md)
 

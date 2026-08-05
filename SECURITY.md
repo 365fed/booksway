@@ -12,7 +12,7 @@
 
 **请勿在公开 Issue 或 Discussion 中披露可利用的细节。**
 
-请使用 GitHub **[Private vulnerability reporting](https://github.com/notionnext-org/NotionNext/security/advisories/new)**（仓库 **Security → Advisories → Report a vulnerability**），或发邮件至 **mail@bukeba.com**（可 PGP，如需要请在邮件中说明）。
+请使用 GitHub **[Private vulnerability reporting](https://github.com/notionnext-org/NotionNext/security/advisories/new)**（仓库 **Security → Advisories → Report a vulnerability**），或发邮件至 **mail@tangly1024.com**（可 PGP，如需要请在邮件中说明）。
 
 报告中请尽量包含：
 

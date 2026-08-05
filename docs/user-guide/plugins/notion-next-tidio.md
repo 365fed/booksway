@@ -1,5 +1,5 @@
 # TIDIO聊天插件
-> 迁移自：[TIDIO聊天插件](https://docs.bukeba.com/article/notion-next-tidio)
+> 迁移自：[TIDIO聊天插件](https://docs.tangly1024.com/article/notion-next-tidio)
 > 发布日期：2024-9-21
 > 最后编辑：2024-9-21
 > 原栏目：🧷 外部扩展
@@ -43,4 +43,4 @@ Convert more leads, provide stellar support, and boost your revenue with Tidio�
 
 ## 原文链接
 
-https://docs.bukeba.com/article/notion-next-tidio
+https://docs.tangly1024.com/article/notion-next-tidio

@@ -1,5 +1,5 @@
 # UMAMI统计
-> 迁移自：[UMAMI统计](https://docs.bukeba.com/article/notion-next-umami)
+> 迁移自：[UMAMI统计](https://docs.tangly1024.com/article/notion-next-umami)
 > 发布日期：2025-8-27
 > 最后编辑：2025-8-27
 > 原栏目：📊 网站统计
@@ -78,4 +78,4 @@ umami后台获取的HOST地址：
 
 ## 原文链接
 
-https://docs.bukeba.com/article/notion-next-umami
+https://docs.tangly1024.com/article/notion-next-umami

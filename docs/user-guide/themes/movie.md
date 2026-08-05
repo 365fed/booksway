@@ -1,5 +1,5 @@
 # Movie主题
-> 迁移自：[Movie主题](https://docs.bukeba.com/article/notionnext-movie)
+> 迁移自：[Movie主题](https://docs.tangly1024.com/article/notionnext-movie)
 > 发布日期：2024-3-17
 > 最后编辑：2024-9-12
 > 原栏目：⭐ 主题参数
@@ -9,7 +9,7 @@
 
 ![Movie 主题预览](/images/themes-preview/movie.webp)
 
-可以搭建影视网站的主题。在线预览：[https://movie.bukeba.com/](https://movie.bukeba.com/) 。
+可以搭建影视网站的主题。在线预览：[https://movie.tangly1024.com/](https://movie.tangly1024.com/) 。
 
 对应示例数据库：
 
@@ -22,6 +22,17 @@ NotionNext搭建的影视分享网站
 
 更新代码至最新的4.4.0；并配置主题为movie即可。
 
+### Movie 主题调色
+
+Movie 支持通过语义色变量调整主色和深色主色：
+
+```js
+MOVIE_COLOR_PRIMARY: '#2563eb',
+MOVIE_COLOR_PRIMARY_DARK: '#ca8a04'
+```
+
+主题工具中的调色板会展示当前值，并可直接复制配置项到 Notion Config。
+
 
 ## Movie 主题
 
@@ -30,16 +41,20 @@ NotionNext搭建的影视分享网站
 
 ### 视频聚合功能
 
-> **💡** movie主题，默认开启了视频聚合功能，如需关闭，请在/themes/movie/config.js中操作。
+::: tip 提示
+movie主题，默认开启了视频聚合功能，如需关闭，请在/themes/movie/config.js中操作。
+:::
 
 什么是视频聚合功能？
 
 如果一篇文章中有多个视频，且每个视频标注了caption，它们会被从文章的所有位置摘出来，移动至网站的顶部显示。
 
-> **💡** 什么是caption？指视频的标题、说明、题注等。
+::: tip 提示
+什么是caption？指视频的标题、说明、题注等。
 如何配置caption？在嵌入元素的右上角点击Caption按钮，即可添加，caption默认显示在左下角。
->
+
 ![Untitled](/legacy/5d5cbc7715b2065f.png)
+:::
 
 以下图一是我给每个视频添加的caption，图二是在网页中聚合在顶部显示：
 
@@ -69,17 +84,19 @@ NotionNext项目内置了一个视频播放器，代码在/public/dplayer.htm中
 
 #### 示例
 
-例如： 站点是 https://[movie.bukeba.com](http://movie.bukeba.com) ,  视频地址是 `[https://yzzy.play-cdn2.com/20220407/8233_5a57bac6/index.m3u8](https://yzzy.play-cdn2.com/20220407/8233_5a57bac6/index.m3u8)`
+例如： 站点是 https://[movie.tangly1024.com](http://movie.tangly1024.com) ,  视频地址是 `[https://yzzy.play-cdn2.com/20220407/8233_5a57bac6/index.m3u8](https://yzzy.play-cdn2.com/20220407/8233_5a57bac6/index.m3u8)`
 
-此时，只要将这个地址嵌入Notion即可播放 [https://movie.bukeba.com/dplayer.htm?n=https%3A%2F%2Fyzzy.play-cdn2.com%2F20220407%2F8233_5a57bac6%2Findex.m3u8](https://movie.bukeba.com/dplayer.htm?n=https%3A%2F%2Fyzzy.play-cdn2.com%2F20220407%2F8233_5a57bac6%2Findex.m3u8)。
+此时，只要将这个地址嵌入Notion即可播放 [https://movie.tangly1024.com/dplayer.htm?n=https%3A%2F%2Fyzzy.play-cdn2.com%2F20220407%2F8233_5a57bac6%2Findex.m3u8](https://movie.tangly1024.com/dplayer.htm?n=https%3A%2F%2Fyzzy.play-cdn2.com%2F20220407%2F8233_5a57bac6%2Findex.m3u8)。
 
 ![Untitled](/legacy/1981d04882f53412.png)
 
-> **💡** 注意：
->
+::: tip 提示
+注意：
+
   1. 要先部署上线一次您的站点，才可以用`http://[你的域名]/dplayer.htm?n=[视频地址]`
->   1. 请用您自己的域名，我的这个网站不一定常开。
+  1. 请用您自己的域名，我的这个网站不一定常开。
+:::
 
 ## 原文链接
 
-https://docs.bukeba.com/article/notionnext-movie
+https://docs.tangly1024.com/article/notionnext-movie

@@ -1,5 +1,5 @@
 # 字体字号
-> 迁移自：[字体字号](https://docs.bukeba.com/article/notion-next-web-font)
+> 迁移自：[字体字号](https://docs.tangly1024.com/article/notion-next-web-font)
 > 发布日期：2023-7-30
 > 最后编辑：2024-6-17
 > 原栏目：🛠 站点配置
@@ -7,8 +7,10 @@
 
 > 原文此处为 GitHub 用户附件图片，迁移时源链接已过期，暂以文字说明保留上下文。
 
-> **💡** 在4.4.3及以前的版本中，字体只能通过修改blog.config.js修改，在4.4.4以后得新版本可以用 NOTION_CONFIG配置。
+::: tip 提示
+在4.4.3及以前的版本中，字体只能通过修改blog.config.js修改，在4.4.4以后得新版本可以用 NOTION_CONFIG配置。
 具体配置方式请参阅文档底部的，NOTION_CONFIG 修改部分
+:::
 
 
 ## 默认字体
@@ -153,9 +155,11 @@ FONT_AWESOME: process.env.NEXT_PUBLIC_FONT_AWESOME_PATH || 'https://cdnjs.cloudf
 // END ************网站字体*****************
 ```
 
-> **💡** 注意，如果字体名称中间有空格，则要用双引号包装，对比如下：
+::: tip 提示
+注意，如果字体名称中间有空格，则要用双引号包装，对比如下：
 无空格的字体：’Bitter’
 有空格的字体:  '"LXGW WenKai"'
+:::
 
 
 ### NOTION_CONFIG修改字体
@@ -223,4 +227,4 @@ fontSize: {
 
 ## 原文链接
 
-https://docs.bukeba.com/article/notion-next-web-font
+https://docs.tangly1024.com/article/notion-next-web-font

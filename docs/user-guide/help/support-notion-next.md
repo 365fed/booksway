@@ -1,11 +1,13 @@
 # 支持NotionNext
-> 迁移自：[支持NotionNext](https://docs.bukeba.com/article/support-notion-next)
+> 迁移自：[支持NotionNext](https://docs.tangly1024.com/article/support-notion-next)
 > 发布日期：2023-7-27
 > 最后编辑：2024-11-20
 > 原栏目：💪 支持我们
 > 标签：支持NotionNext
 
-> **💡** NotionNext完全开源免费，欢迎您赞助或贡献代码，支持此项目。
+::: tip 提示
+NotionNext完全开源免费，欢迎您赞助或贡献代码，支持此项目。
+:::
 
 
 ## 1. 贡献代码（PR）
@@ -20,13 +22,13 @@
 
 关于任务的认领，参考此Discussions
 
-[想参与 5.0 版本的开发吗？来报名吧！😎 · bukeba NotionNext · Discussion #2140](https://github.com/bukeba/NotionNext/discussions/2140)
+[想参与 5.0 版本的开发吗？来报名吧！😎 · tangly1024 NotionNext · Discussion #2140](https://github.com/tangly1024/NotionNext/discussions/2140)
 
 大家好，近期我们发布了4.3 版本，你可以在这里找到发布信息：NotionNext-Release 🎉 但 版本还有很多待完善的功能，我们非常期待能与社区的伙伴们一起共同构建 NotionNext 的生态，与社区一起发布最终的版本。为此，我们希望能够吸引更多对此感兴趣的同学们加入到 NotionNext 新版本的开发中来🥳。 如果你对参与这些任务感兴趣，可以在讨论区看到内容，待修复的bug ...
 
 关于项目的计划，参考此RoadMap：
 
-[Roadmap](https://github.com/bukeba/NotionNext/wiki/Roadmap)
+[Roadmap](https://github.com/tangly1024/NotionNext/wiki/Roadmap)
 
 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold t...
 
@@ -53,10 +55,10 @@
 ![Untitled](/legacy/0cde8511b8a8302f.png)
 ![Untitled](/legacy/d53ef97487b78719.png)
 
-[Buy Tangly a Coffee. ko-fi.com/bukeba](https://ko-fi.com/bukeba)
+[Buy Tangly a Coffee. ko-fi.com/tangly1024](https://ko-fi.com/tangly1024)
 
 Become a supporter of Tangly today! ❤️ Ko-fi lets you support the creators you love with no fees on donations.
 
 ## 原文链接
 
-https://docs.bukeba.com/article/support-notion-next
+https://docs.tangly1024.com/article/support-notion-next

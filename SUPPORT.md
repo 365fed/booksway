@@ -2,7 +2,7 @@
 
 | 需求 | 渠道 |
 | --- | --- |
-| 部署、配置、使用教程 | [notionnext.bukeba.com](https://notionnext.bukeba.com) |
+| 部署、配置、使用教程 | [notionnext.tangly1024.com](https://notionnext.tangly1024.com) |
 | 提问、讨论 | [GitHub Discussions](https://github.com/notionnext-org/NotionNext/discussions) |
 | Bug（可复现） | [Bug Issue](https://github.com/notionnext-org/NotionNext/issues/new/choose) |
 | 参与贡献 | [community-participate.md](./docs/user-guide/community-participate.md) |

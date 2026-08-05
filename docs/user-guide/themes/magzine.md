@@ -1,5 +1,5 @@
 # Magzine主题
-> 迁移自：[Magzine主题](https://docs.bukeba.com/article/notion-next-magzine)
+> 迁移自：[Magzine主题](https://docs.tangly1024.com/article/notion-next-magzine)
 > 发布日期：2024-9-14
 > 最后编辑：2024-9-14
 > 原栏目：⭐ 主题参数
@@ -9,9 +9,9 @@
 
 ![Magazine 主题预览](/images/themes-preview/magzine.webp)
 
-> **💡**
->
+::: tip 提示
 新主题，需要升级到V4.7.1之后的版本才能使用
+:::
 
 ![桌面端](/legacy/e5089e1db6109fc0.png)
 ![移动端](/legacy/aa0f0b759ff50dec.png)
@@ -89,11 +89,25 @@ Notion中排名靠前的文章，除了首屏展示的文章，剩下的依次�
 
 在/themes/magzine/config.js 中可以找到该主题支持的所有配置，主要内容和说明如下：
 
+### Magzine 主题调色
+
+Magzine 支持通过语义色变量调整页面背景和滚动条：
+
+```js
+MAGZINE_COLOR_BG: '#f6f6f1',
+MAGZINE_COLOR_SCROLLBAR: '#4e4e4e'
+```
+
+主题工具中的调色板会展示当前值，并可直接复制配置项到 Notion Config。
+
 <details>
 <summary>主题支持配置的相关代码，点击展开：</summary>
 
 ```JavaScript
 const CONFIG = {
+  MAGZINE_COLOR_BG: '#f6f6f1',
+  MAGZINE_COLOR_SCROLLBAR: '#4e4e4e',
+
   // 首屏信息栏按钮文字
   MAGZINE_HOME_BANNER_ENABLE: true, // 首屏右上角的宣传位是否开启
   MAGZINE_HOME_BUTTON: true,
@@ -136,7 +150,7 @@ const CONFIG = {
     {
       name: '友情链接',
       menus: [
-        { title: 'tangly博客', href: 'https://blog.bukeba.com' },
+        { title: 'tangly博客', href: 'https://blog.tangly1024.com' },
         { title: '尘世の歌', href: 'https://chenge.ink' },
         { title: 'LUCEN', href: 'https://www.lucenczz.top/' }
       ]
@@ -144,7 +158,7 @@ const CONFIG = {
     {
       name: '开发者',
       menus: [
-        { title: 'Github', href: 'https://github.com/bukeba/NotionNext' },
+        { title: 'Github', href: 'https://github.com/tangly1024/NotionNext' },
         { title: '关于作者', href: '/about' }
       ]
     },
@@ -161,7 +175,7 @@ const CONFIG = {
     {
       name: '解决方案',
       menus: [
-        { title: '建站工具', href: 'https://www.bukeba.com/' },
+        { title: '建站工具', href: 'https://www.tangly1024.com/' },
         { title: 'NotionNext', href: '/user-guide/intro' }
       ]
     }
@@ -187,7 +201,7 @@ export default CONFIG
     {
       name: '友情链接',
       menus: [
-        { title: 'tangly博客', href: 'https://blog.bukeba.com' },
+        { title: 'tangly博客', href: 'https://blog.tangly1024.com' },
         { title: '尘世の歌', href: 'https://chenge.ink' },
         { title: 'LUCEN', href: 'https://www.lucenczz.top/' }
       ]
@@ -195,7 +209,7 @@ export default CONFIG
     {
       name: '开发者',
       menus: [
-        { title: 'Github', href: 'https://github.com/bukeba/NotionNext' },
+        { title: 'Github', href: 'https://github.com/tangly1024/NotionNext' },
         { title: '关于作者', href: '/about' }
       ]
     },
@@ -212,7 +226,7 @@ export default CONFIG
     {
       name: '解决方案',
       menus: [
-        { title: '建站工具', href: 'https://www.bukeba.com/' },
+        { title: '建站工具', href: 'https://www.tangly1024.com/' },
         { title: 'NotionNext', href: '/user-guide/intro' }
       ]
     }
@@ -239,11 +253,11 @@ export default CONFIG
         "menus": [
             {
                 "title": "Tangly博客",
-                "href": "https://blog.bukeba.com"
+                "href": "https://blog.tangly1024.com"
             },
             {
                 "title": "NotionNext",
-                "href": "https://bukeba.com/"
+                "href": "https://tangly1024.com/"
             }
         ]
     },
@@ -252,7 +266,7 @@ export default CONFIG
         "menus": [
             {
                 "title": "Github",
-                "href": "https://github.com/bukeba/NotionNext"
+                "href": "https://github.com/tangly1024/NotionNext"
             },
             {
                 "title": "开发帮助",
@@ -260,15 +274,15 @@ export default CONFIG
             },
             {
                 "title": "功能反馈",
-                "href": "https://github.com/bukeba/NotionNext/issues/new/choose"
+                "href": "https://github.com/tangly1024/NotionNext/issues/new/choose"
             },
             {
                 "title": "技术讨论",
-                "href": "https://github.com/bukeba/NotionNext/discussions"
+                "href": "https://github.com/tangly1024/NotionNext/discussions"
             },
             {
                 "title": "关于作者",
-                "href": "https://blog.bukeba.com/about"
+                "href": "https://blog.tangly1024.com/about"
             }
         ]
     },
@@ -293,7 +307,7 @@ export default CONFIG
             },
             {
                 "title": "SEO推广",
-                "href": "https://seo.bukeba.com/"
+                "href": "https://seo.tangly1024.com/"
             }
         ]
     },
@@ -302,7 +316,7 @@ export default CONFIG
         "menus": [
             {
                 "title": "建站工具",
-                "href": "https://www.bukeba.com/"
+                "href": "https://www.tangly1024.com/"
             },
             {
                 "title": "NotionNext",
@@ -330,4 +344,4 @@ export default CONFIG
 
 ## 原文链接
 
-https://docs.bukeba.com/article/notion-next-magzine
+https://docs.tangly1024.com/article/notion-next-magzine

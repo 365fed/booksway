@@ -1,5 +1,5 @@
 # 站点组合
-> 迁移自：[站点组合](https://docs.bukeba.com/article/notion-next-site-combine)
+> 迁移自：[站点组合](https://docs.tangly1024.com/article/notion-next-site-combine)
 > 发布日期：2024-5-29
 > 最后编辑：2024-6-3
 > 原栏目：🛠 站点配置
@@ -15,11 +15,11 @@
 
 我创建了很多网站，每个网站有各自的主题和功能：
 
-1. [www.bukeba.com](/user-guide/intro) 主页介绍
+1. [www.tangly1024.com](/user-guide/intro) 主页介绍
 
-1. [blog.bukeba.com](/user-guide/intro) 博客
+1. [blog.tangly1024.com](/user-guide/intro) 博客
 
-1. [docs.bukeba.com](/user-guide/intro) 文档
+1. [docs.tangly1024.com](/user-guide/intro) 文档
 
 1. xxx 等等。
 
@@ -55,4 +55,4 @@ NotionNext结合[《多数据库》](/user-guide/config/notion-next-mulity-langu
 
 ## 原文链接
 
-https://docs.bukeba.com/article/notion-next-site-combine
+https://docs.tangly1024.com/article/notion-next-site-combine

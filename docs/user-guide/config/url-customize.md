@@ -1,13 +1,15 @@
 # URL风格自定义
-> 迁移自：[URL风格自定义](https://docs.bukeba.com/article/notion-next-url-customize)
+> 迁移自：[URL风格自定义](https://docs.tangly1024.com/article/notion-next-url-customize)
 > 发布日期：2024-5-8
 > 最后编辑：2024-9-29
 > 原栏目：🛠 站点配置
 > 标签：NotionNext、SEO
 > 摘要：NotionNext 自定义url风格
 
-> **💡** 在4.5.0之后的版本中，支持将博文url前缀配置为 `%category%` ，即文章所属分类；从而语义化URL、有利于SEO。 参考文末教程。
+::: tip 提示
+在4.5.0之后的版本中，支持将博文url前缀配置为 `%category%` ，即文章所属分类；从而语义化URL、有利于SEO。 参考文末教程。
 在4.5.2之后，支持将url中的中文分类名，映射为英文单词，参考文末教程。
+:::
 
 
 ## URL构成
@@ -55,7 +57,7 @@ POST_URL_PREFIX: process.env.NEXT_PUBLIC_POST_URL_PREFIX || 'article',
 
 ### 使用示例
 
-例如《[SEO指南](https://seo.bukeba.com/)》 这个站点的url分格就是用的`分类`：访问文章的链接格式如下：[https://seo.bukeba.com/一、SEO概念入门/what-is-google-seo](https://seo.bukeba.com/%E4%B8%80%E3%80%81SEO%E6%A6%82%E5%BF%B5%E5%85%A5%E9%97%A8/what-is-google-seo)
+例如《[SEO指南](https://seo.tangly1024.com/)》 这个站点的url分格就是用的`分类`：访问文章的链接格式如下：[https://seo.tangly1024.com/一、SEO概念入门/what-is-google-seo](https://seo.tangly1024.com/%E4%B8%80%E3%80%81SEO%E6%A6%82%E5%BF%B5%E5%85%A5%E9%97%A8/what-is-google-seo)
 
 ![Untitled](/legacy/a26d1153c677587f.png)
 
@@ -81,12 +83,12 @@ url里分类名可以映射为自己想要的英文单词，便于统一url: `x
 
 配置中心使用说明
 
-> **⚠️**
->
+::: warning 注意
 注意，这里最常出现一个错误，因为Notion会自动将用户输入的英文双引号转成中文，从而导致配置无法读取。因此建议复制我上面的配置进行调整，而非手动输入双引号
-> ![正常的英文双引号](/legacy/e3e378816b3302cd.png)
-> ![中文双引号的格式是非法的](/legacy/68fbc620fe5389f4.png)
-> 与双引号相关的配置都要格外小心，在其他的配置中也会出现类似的问题。
+![正常的英文双引号](/legacy/e3e378816b3302cd.png)
+![中文双引号的格式是非法的](/legacy/68fbc620fe5389f4.png)
+与双引号相关的配置都要格外小心，在其他的配置中也会出现类似的问题。
+:::
 
 
 ## 组合使用
@@ -101,4 +103,4 @@ POST_URL_PREFIX 配置为： `%category%/%year%/%month%/%day%`
 
 ## 原文链接
 
-https://docs.bukeba.com/article/notion-next-url-customize
+https://docs.tangly1024.com/article/notion-next-url-customize

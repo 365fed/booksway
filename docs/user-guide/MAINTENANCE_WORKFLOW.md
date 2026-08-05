@@ -79,7 +79,7 @@ flowchart LR
 ```markdown
 # 标题
 
-> 迁移自：[源站标题](https://docs.bukeba.com/article/slug) · 最后同步：YYYY-MM
+> 迁移自：[源站标题](https://docs.tangly1024.com/article/slug) · 最后同步：YYYY-MM
 
 （正文：步骤用有序列表；配置用表格；命令用代码块）
 
@@ -89,7 +89,7 @@ flowchart LR
 
 ## 原文链接
 
-https://docs.bukeba.com/article/slug
+https://docs.tangly1024.com/article/slug
 ```
 
 3. **更新导航（必做）**  
@@ -135,7 +135,7 @@ https://docs.bukeba.com/article/slug
 - [ ] 无 .env、Token、个人域名 ID、真实 API Key 示例
 - [ ] 环境变量名与 conf/*.config.js 一致
 - [ ] 版本号与 package.json / Releases 一致（若提到版本）
-- [ ] 保留或更新了「原文链接」（若源自 bukeba 文档站）
+- [ ] 保留或更新了「原文链接」（若源自 tangly1024 文档站）
 - [ ] 站内相对链接可点击（`./` 或 `../`）
 - [ ] 未把开发者长篇文档重复粘贴到 user-guide
 ```

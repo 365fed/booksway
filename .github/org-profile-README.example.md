@@ -4,8 +4,8 @@
 
 | | |
 | --- | --- |
-| 📖 使用说明 | [notionnext.bukeba.com](https://notionnext.bukeba.com) |
-| 🤝 参与社区 | [community-participate](https://notionnext.bukeba.com/user-guide/community-participate) |
+| 📖 使用说明 | [notionnext.tangly1024.com](https://notionnext.tangly1024.com) |
+| 🤝 参与社区 | [community-participate](https://notionnext.tangly1024.com/user-guide/community-participate) |
 | 💬 讨论 | [Discussions](https://github.com/notionnext-org/NotionNext/discussions) |
 | 🛠️ 贡献 | [CONTRIBUTING](https://github.com/notionnext-org/NotionNext/blob/main/CONTRIBUTING.zh-CN.md) |
 

@@ -4,7 +4,7 @@
 
 ## 维护位置（权威来源）
 
-自 **2026 年起**，NotionNext 文档以本仓库 **`docs/`** 目录为**主维护面**，并逐步替代仅依赖 Notion 托管的在线手册（[docs.bukeba.com](https://docs.bukeba.com/about)）。
+自 **2026 年起**，NotionNext 文档以本仓库 **`docs/`** 目录为**主维护面**，并逐步替代仅依赖 Notion 托管的在线手册（[docs.tangly1024.com](https://docs.tangly1024.com/about)）。
 
 文档站不再把“站长教程”和“开发者文档”做成访问边界。`user-guide/` 负责从部署、配置、主题使用开始，`developer/` 继续承接架构、贡献、主题迁移和维护决策。借助 AI 开发后，修改主题、排查问题、补文档和提交 PR 的门槛已经降低，文档应鼓励每个使用者逐步成为贡献者。
 
@@ -25,7 +25,7 @@
 
 ## 与线上一致性
 
-- 已迁移文章文末保留 **「原文链接」**，指向 [docs.bukeba.com](https://docs.bukeba.com/about) 对应页面，便于对照与补图。
+- 已迁移文章文末保留 **「原文链接」**，指向 [docs.tangly1024.com](https://docs.tangly1024.com/about) 对应页面，便于对照与补图。
 - 官方 Notion 文档库在过渡期仍可能更新；**以本仓库 `docs/user-guide/` 最新提交为准** 作为 notionnext-org 主线推荐说明（fork 可自行同步）。
 
 ## 贡献者如何改文档
@@ -47,4 +47,4 @@
 
 ## English summary
 
-Documentation is **maintained in this repo** under `docs/`, as the long-term source of truth replacing Notion-only hosting at docs.bukeba.com. User guides and developer docs are both published to the VitePress site so users can gradually become contributors. Migrated pages link back to the legacy site during transition.
+Documentation is **maintained in this repo** under `docs/`, as the long-term source of truth replacing Notion-only hosting at docs.tangly1024.com. User guides and developer docs are both published to the VitePress site so users can gradually become contributors. Migrated pages link back to the legacy site during transition.

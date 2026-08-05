@@ -1,5 +1,5 @@
 # Notion嵌入B站视频
-> 迁移自：[Notion嵌入B站视频](https://docs.bukeba.com/article/notionnext-video)
+> 迁移自：[Notion嵌入B站视频](https://docs.tangly1024.com/article/notionnext-video)
 > 发布日期：2024-3-4
 > 最后编辑：2024-9-4
 > 原栏目：✒ Notion教程
@@ -28,7 +28,9 @@ Notion默认没有优化B站的视频；但您可以这样操作：
   - 直接输入链接，并点击 Embed link 即可：
 ![Untitled](/legacy/d102cb669a0c9d88.png)
 
-> **📖** 如果无法播放，可以在链接前面加上 https: 例如：
+::: info 说明
+如果无法播放，可以在链接前面加上 https: 例如：
+:::
 
 `**https:**`//player.bilibili.com/player.html?aid=1700928875&bvid=BV1aK42187hF&cid=1446312848&p=1
 
@@ -39,4 +41,4 @@ https://player.bilibili.com/player.html?aid=1700928875&bvid=BV1aK42187hF&cid=144
 
 ## 原文链接
 
-https://docs.bukeba.com/article/notionnext-video
+https://docs.tangly1024.com/article/notionnext-video

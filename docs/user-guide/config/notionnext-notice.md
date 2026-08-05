@@ -1,13 +1,15 @@
 # 网站公告
-> 迁移自：[网站公告](https://docs.bukeba.com/article/notionnext-notice)
+> 迁移自：[网站公告](https://docs.tangly1024.com/article/notionnext-notice)
 > 发布日期：2023-5-25
 > 最后编辑：2024-1-31
 > 原栏目：🛠 站点配置
 > 标签：NotionNext
 > 摘要：NotionNext在3.10以后的版本中支持在网站中挂一个公告栏，此功能在3.14版本中完善，所有主题都已支持公告。
 
-> **💡** NotionNext 3.10以后的版本开始支持网站公告，欢迎更新体验。
+::: tip 提示
+NotionNext 3.10以后的版本开始支持网站公告，欢迎更新体验。
 添加公告后，在网站显眼的位置会固定一个页面的内容。公告内容可以是文字视频、内嵌网页等等，有很大的自定义空间。
+:::
 
 
 ## 公告效果
@@ -67,4 +69,4 @@
 
 ## 原文链接
 
-https://docs.bukeba.com/article/notionnext-notice
+https://docs.tangly1024.com/article/notionnext-notice

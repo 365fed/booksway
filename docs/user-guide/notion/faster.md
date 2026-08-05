@@ -1,12 +1,14 @@
 # Notion-faster加速Notion
-> 迁移自：[Notion-faster加速Notion](https://docs.bukeba.com/article/notion-faster)
+> 迁移自：[Notion-faster加速Notion](https://docs.tangly1024.com/article/notion-faster)
 > 发布日期：2022-6-30
 > 最后编辑：2024-9-4
 > 原栏目：✒ Notion教程
 > 标签：Notion、国内访问
 > 摘要：加快Notion的访问速度，感谢国内大神分享的此项目
 
-> **💡** 由于政策等原因影响，Notion并没有在中国大陆架设服务器，导致国内访问Notion的速度堪忧，本文分享一个方案，有效提升Notion在国内的访问体验。
+::: tip 提示
+由于政策等原因影响，Notion并没有在中国大陆架设服务器，导致国内访问Notion的速度堪忧，本文分享一个方案，有效提升Notion在国内的访问体验。
+:::
 
 
 ## Notion-faster
@@ -118,4 +120,4 @@ notion 中文化. Contribute to Reamd7/notion-zh_CN development by creating an a
 
 ## 原文链接
 
-https://docs.bukeba.com/article/notion-faster
+https://docs.tangly1024.com/article/notion-faster

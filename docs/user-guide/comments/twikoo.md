@@ -1,5 +1,5 @@
 # Twikoo
-> 迁移自：[Twikoo](https://docs.bukeba.com/article/notionnext-twikoo)
+> 迁移自：[Twikoo](https://docs.tangly1024.com/article/notionnext-twikoo)
 > 发布日期：2022-12-20
 > 最后编辑：2024-7-31
 > 原栏目：📩 评论插件
@@ -12,7 +12,9 @@
 
 Twikoo支持支持即时通知反垃圾插件、隐私设置等功能，无需另外登录后台，并且配置方式也十分方便，在页面评论区就可以直接管理评论、配置插件。
 
-> **💡** Twikoo支持一键导入valine评论数据，您可以很方便地迁移评论数据。
+::: tip 提示
+Twikoo支持一键导入valine评论数据，您可以很方便地迁移评论数据。
+:::
 
 ![Untitled](/legacy/d93a06d972657351.png)
 
@@ -29,7 +31,9 @@ Twikoo支持支持即时通知反垃圾插件、隐私设置等功能，无需�
 
 ![Untitled](/legacy/ab22544ca490ee83.png)
 
-> **💡** 问题来了，twikoo的后台地址怎么获得呢？
+::: tip 提示
+问题来了，twikoo的后台地址怎么获得呢？
+:::
 
 借助vercel，您可以非常快速地部署自己的twikoo后台，用于储存评论数据。
 
@@ -38,7 +42,9 @@ Twikoo支持支持即时通知反垃圾插件、隐私设置等功能，无需�
 
 twikoo的后台数据存储是基于MongoDB数据库的，我们可以先注册创建一个免费的在线MongoDB数据库。
 
-> **💡** Twikoo我以经很久不重新部署了，除了参阅我下文的教程外，建议您参考官方最新的文档和视频。
+::: tip 提示
+Twikoo我以经很久不重新部署了，除了参阅我下文的教程外，建议您参考官方最新的文档和视频。
+:::
 
 关于Twikoo的部署建议您参考官方文档：
 
@@ -71,12 +77,14 @@ Products Solutions Developer Data Platform Innovate fast at scale with a unified
 ![选择最右边的免费方案即可](/legacy/64be60c684cf3ed0.png)
 ![选择一个地区，点击Create Cluster](/legacy/062721204e95de2e.png)
 ![创建用户名密码](/legacy/7287a4b355fd6b07.png)
-> **💡** 这里下方要设置一个允许访问该数据库的IP地址，推荐设置0.0.0.0，即所有地址都允许访问，毕竟我也不知道自己会用什么ip访问这个数据库。
+::: tip 提示
+这里下方要设置一个允许访问该数据库的IP地址，推荐设置0.0.0.0，即所有地址都允许访问，毕竟我也不知道自己会用什么ip访问这个数据库。
 依次点击：1.左侧菜单Network Access、2.右侧面板Add IP Adress，
->
+
 ![Untitled](/legacy/f9763ea59bc1f9cb.png)
-> 输入IP地址0.0.0.0/0并提交
-> ![Untitled](/legacy/a5ca6e95d8340747.png)
+输入IP地址0.0.0.0/0并提交
+![Untitled](/legacy/a5ca6e95d8340747.png)
+:::
 
 </details>
 
@@ -86,7 +94,9 @@ Products Solutions Developer Data Platform Innovate fast at scale with a unified
 ![面板首页点击Connect点击 MongoDB Drivers](/legacy/dec764bfa41f11ed.png)
 ![选择 Drivers类型](/legacy/1e3a3576ce8d49c9.png)
 ![这里的版本号无关紧要](/legacy/db6271ab043a058b.png)
-> **💡** 注意，**&lt;password&gt;**要手动替换成您设置的密码 ; 填写密码时去掉两侧的尖括号 &lt; &gt;
+::: tip 提示
+注意，**&lt;password&gt;**要手动替换成您设置的密码 ; 填写密码时去掉两侧的尖括号 &lt; &gt;
+:::
 
 示例 **mongodb+srv://username:123456@xx.com**
 
@@ -98,9 +108,11 @@ Products Solutions Developer Data Platform Innovate fast at scale with a unified
 <details>
 <summary>1.点击此链接导入代码</summary>
 
-> **💡** 部分网友反馈：部署到 Vercel的时候总是报错：An unexpected error occurred. Our team has already been notified and are working to resolve the issue, please try again shortly.而用Twikoo官方版本的一键部署就可以成功部署。
+::: tip 提示
+部分网友反馈：部署到 Vercel的时候总是报错：An unexpected error occurred. Our team has already been notified and are working to resolve the issue, please try again shortly.而用Twikoo官方版本的一键部署就可以成功部署。
 我很久不部署twikoo了，这里建议还是参阅官方的代码
 [云函数部署 | Twikoo 文档](https://twikoo.js.org/backend.html?fbclid=IwAR0DM3tX9I0zBlY9oYorxC_d9c0LcQYR6J1p4OS-kiNF2PcLkcEmShBCayQ)
+:::
 
 一个简洁、安全、免费的静态网站评论系统
 <details>
@@ -143,7 +155,7 @@ Create Git Repository To ensure you can easily update your project after deployi
 
 上述部署完成后，您将获得一个vercel的twikoo后台页面，在vercel后台的domain中可以看到平台为您分配的默认域名，您可以选择像我一样自定义绑定域名，详情参考《vercel绑定自定义域名》这一章节
 
-[https://twikoo.bukeba.com/](https://twikoo.bukeba.com/)
+[https://twikoo.tangly1024.com/](https://twikoo.tangly1024.com/)
 
 
 ## 配置在NotionNext
@@ -193,4 +205,4 @@ COMMENT_TWIKOO_COUNT_ENABLE:
 
 ## 原文链接
 
-https://docs.bukeba.com/article/notionnext-twikoo
+https://docs.tangly1024.com/article/notionnext-twikoo

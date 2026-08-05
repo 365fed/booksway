@@ -1,14 +1,18 @@
 # V1.0 → V1.5.0
-> 迁移自：[V1.0 → V1.5.0](https://docs.bukeba.com/article/v1.0)
+> 迁移自：[V1.0 → V1.5.0](https://docs.tangly1024.com/article/v1.0)
 > 发布日期：2023-3-7
 > 最后编辑：2024-9-20
 > 原栏目：✨ 更新日志
 > 标签：NotionNext、更新历史
 > 摘要：3.15.0已上线，记录NotionNext各个版本更新的更新日期和改动内容，方便以后回看。
 
-> **📔** 此文记录NotionNext所有版本的变化；
+::: info 说明
+此文记录NotionNext所有版本的变化；
+:::
 
-> **💡** 注意：版本跨度比较大时，更新您的仓库代码可能出现比较多的冲突，建议您备份自己分支的代码。请访问[更新手册](/user-guide/update)获取更多帮助。
+::: tip 提示
+注意：版本跨度比较大时，更新您的仓库代码可能出现比较多的冲突，建议您备份自己分支的代码。请访问[更新手册](/user-guide/update)获取更多帮助。
+:::
 
 
 ## V1.0 主要特性
@@ -104,4 +108,4 @@ DaoVoice 在线聊天组件
 
 ## 原文链接
 
-https://docs.bukeba.com/article/v1.0
+https://docs.tangly1024.com/article/v1.0

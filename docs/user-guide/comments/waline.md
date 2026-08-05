@@ -1,23 +1,25 @@
 # Waline
-> 迁移自：[Waline](https://docs.bukeba.com/article/notion-next-waline)
+> 迁移自：[Waline](https://docs.tangly1024.com/article/notion-next-waline)
 > 发布日期：2023-6-29
 > 最后编辑：2026-5-12
 > 原栏目：📩 评论插件
 > 标签：Waline、NotionNext、插件
 
-> **👉**
->
+::: tip 提示
 注意，本文中介绍的 LeanCloud 即将停止服务，因此文档已经过期，请参考Waline 官方文档部署
-> [Vercel 部署](https://waline.js.org/guide/deploy/vercel.html#%E9%83%A8%E7%BD%B2%E6%9C%8D%E5%8A%A1%E7%AB%AF)
->
-> 欢迎使用 Waline，只需几个步骤，你就可以在你的网站中启用 Waline 提供评论与浏览量服务。 部署服务端 VercelVercel 点击上方按钮，跳转至 Vercel 进行 Server 端部署。 注 如果你未登录的话，Vercel 会让你注册或登录，请使用 GitHub 账户进行快捷登录。 输入一个你喜欢的 Vercel 项目名称并点击 Cr...
+[Vercel 部署](https://waline.js.org/guide/deploy/vercel.html#%E9%83%A8%E7%BD%B2%E6%9C%8D%E5%8A%A1%E7%AB%AF)
+
+欢迎使用 Waline，只需几个步骤，你就可以在你的网站中启用 Waline 提供评论与浏览量服务。 部署服务端 VercelVercel 点击上方按钮，跳转至 Vercel 进行 Server 端部署。 注 如果你未登录的话，Vercel 会让你注册或登录，请使用 GitHub 账户进行快捷登录。 输入一个你喜欢的 Vercel 项目名称并点击 Cr...
+:::
 
 
 ## 1. 注册LeanCloud
 
 Valine和Waline两个插件均要借助LeanCloud提供的云函数，云数据存储等功能，对于普通开发者来说免费版已经足够使用。
 
-> **😀** 若您使用的是Zeabur的部署方案，则不需要额外注册一个LeanCloud。
+::: tip 提示
+若您使用的是Zeabur的部署方案，则不需要额外注册一个LeanCloud。
+:::
 
 
 ### 获取APP ID 和 APP Key
@@ -49,12 +51,12 @@ Valine和Waline两个插件均要借助LeanCloud提供的云函数，云数据�
 我不确定是否你也会遇到相同的问题：
 用vercel部署的评论插件，在电脑端进行评论时会提示“网络请求错误，由于CORS跨域错误，不允许请求waline服务” 。查看Vercedl后台日志则显示“响应超时”；同时，在手机端评论也提示错误“ Failed to fetch”。
 产生的原因有两种
-    1. URL配置错误，[https://waline.bukeba.com](https://waline.bukeba.com/) 结尾不能有斜杆。
+    1. URL配置错误，[https://waline.tangly1024.com](https://waline.tangly1024.com/) 结尾不能有斜杆。
     1. `Vercel`或`域名服务商`的问题导致触发了跨域限制。
 ![Untitled](/legacy/460fce1846c6e668.png)
 
 </details>
-  - 1. 点**[此链接](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fbukeba%2Fwaline&demo-title=WalineForNotionNext)**一键部署waline。
+  - 1. 点**[此链接](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ftangly1024%2Fwaline&demo-title=WalineForNotionNext)**一键部署waline。
 <details>
 <summary>2. 配置环境变量 （点击展开）</summary>
 
@@ -63,10 +65,12 @@ Valine和Waline两个插件均要借助LeanCloud提供的云函数，云数据�
 ![B60A41AC-6BC2-4F91-B3FB-FC742AD1BB27.png](/legacy/1a13c4dc8f6e6ea4.png)
     - 配置三个环境变量 `LEAN_ID`，`LEAN_KEY` ， `LEAN_MASTER_KEY` 。(它们的值分别对应上一步在 LeanCloud 中获得的 `APP ID`, `APP KEY`, `Master Key`。)，配置变量如下图：
 ![Untitled](/legacy/476b942890765788.png)
-> **💡** 注意：
-如果你使用 LeanCloud 国内版，请额外配置 `LEAN_SERVER` 环境变量，值为你绑定好的域名。否则可能会提示错误：”`serverURL option is required for apps from CN region`“，[详见此ISSUE](https://github.com/bukeba/NotionNext/issues/308#issuecomment-1157330084)。
+::: tip 提示
+注意：
+如果你使用 LeanCloud 国内版，请额外配置 `LEAN_SERVER` 环境变量，值为你绑定好的域名。否则可能会提示错误：”`serverURL option is required for apps from CN region`“，[详见此ISSUE](https://github.com/tangly1024/NotionNext/issues/308#issuecomment-1157330084)。
     - 最后要`redeploy`这个项目使配置生效。
 ![Untitled](/legacy/4ef8e75bf93a31c6.png)
+:::
 
 </details>
 <details>
@@ -111,7 +115,7 @@ Valine和Waline两个插件均要借助LeanCloud提供的云函数，云数据�
 
 ### 部署完成
 
-Waline本身是一个独立的评论页面，可以嵌入到任何网页中，例如我部署好的waline服务，映射为二级域名后地址如下：`https://waline.bukeba.com` 。
+Waline本身是一个独立的评论页面，可以嵌入到任何网页中，例如我部署好的waline服务，映射为二级域名后地址如下：`https://waline.tangly1024.com` 。
 
 
 #### Waline其他自定义配置
@@ -129,7 +133,9 @@ Valine需要在LeanCloud中配置`AKISMET_KEY`变量，而Waline则是在服务�
 
 - 邮件通知
 推荐搭配使用 [Valine-Admin](https://github.com/DesertsP/Valine-Admin) 几分钟就可以部署管理后台，从而支持Valine和Waline的邮件通知，部署配置方式不在此文赘述，可以请参阅 官方文档中的“[**云引擎一键部署**](https://github.com/DesertsP/Valine-Admin#%E4%BA%91%E5%BC%95%E6%93%8E%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2)”部分.
-> **💡** Waline的网络请求稳定性不如Valine，而且Valine-Admin支持在LeanCloud后台中查看详细的邮件发送记录，比较便于调试和排查问题
+::: tip 提示
+Waline的网络请求稳定性不如Valine，而且Valine-Admin支持在LeanCloud后台中查看详细的邮件发送记录，比较便于调试和排查问题
+:::
 
 - LeanCloud后台查看邮件发送状态如下图（如果邮件发送失败也可以在这里定位错误）：
 ![Untitled](/legacy/f199ad33ac8d676b.png)
@@ -145,4 +151,4 @@ Valine需要在LeanCloud中配置`AKISMET_KEY`变量，而Waline则是在服务�
 
 ## 原文链接
 
-https://docs.bukeba.com/article/notion-next-waline
+https://docs.tangly1024.com/article/notion-next-waline

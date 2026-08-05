@@ -1,5 +1,5 @@
 # Starter主题
-> 迁移自：[Starter主题](https://docs.bukeba.com/article/notionnext-starter)
+> 迁移自：[Starter主题](https://docs.tangly1024.com/article/notionnext-starter)
 > 发布日期：2024-3-4
 > 最后编辑：2025-7-11
 > 原栏目：⭐ 主题参数
@@ -20,7 +20,9 @@ V4.3版本中加入的免费主题：为公司、创业者、独立开发者、�
 
 ![Untitled](/legacy/a05df798fa2d3896.png)
 
-> **💡** 本文将介绍Starter主题的使用方式
+::: tip 提示
+本文将介绍Starter主题的使用方式
+:::
 
 
 ### 如何切换至Starter主题？
@@ -38,7 +40,9 @@ V4.3版本中加入的免费主题：为公司、创业者、独立开发者、�
 
 LOGO ， HERO，NAV、FEATURE、ABOUT、PRICING、TESTIMONIALS、TEAM、BLOG、CONTACT、FOOTERBRANDS
 
-> **💡** Starter主题需要自定配置的内容比较多，修改代码和配置环境变量会比较麻烦，您可以 借助《‣ 》来批量导入配置。
+::: tip 提示
+Starter主题需要自定配置的内容比较多，修改代码和配置环境变量会比较麻烦，您可以 借助《‣ 》来批量导入配置。
+:::
 
 
 ### 支持Notion_Config
@@ -46,9 +50,22 @@ LOGO ， HERO，NAV、FEATURE、ABOUT、PRICING、TESTIMONIALS、TEAM、BLOG、C
 在目前的版本中，所有的主题配置都支持在Notion_Config中配置了。例如要修改作者成员，可以直接在Notion_config中添加如下配置
 
 
-## Starter主题配色
+## Starter主题调色
 
-主题默认是蓝色，您可以通过修改GLOBAL_CSS的方式来调整主题的颜色：修改方式如下图：
+Starter 主题默认是蓝色。现在推荐优先使用主题色变量调色，不再建议用 `GLOBAL_CSS` 覆盖 `.bg-primary`、`.text-primary` 这类 Tailwind 语义类名。
+
+可在 Notion Config 表或 `themes/starter/config.js` 中配置：
+
+```js
+STARTER_COLOR_PRIMARY: '#3758f9'
+STARTER_COLOR_PRIMARY_HOVER: '#1b44c8'
+STARTER_COLOR_DARK: '#111928'
+STARTER_COLOR_TEXT_MUTED: '#637381'
+```
+
+也可以在全局主题工具中切换到 Starter 后查看当前调色板，复制需要覆盖的配置项。
+
+旧版本可以通过修改GLOBAL_CSS的方式来调整主题的颜色：修改方式如下图：
 
 ![image.png](/legacy/a3d3a1f5aa3ed592.png)
 
@@ -119,7 +136,7 @@ LOGO ， HERO，NAV、FEATURE、ABOUT、PRICING、TESTIMONIALS、TEAM、BLOG、C
   STARTER_HERO_BUTTON_1_TEXT: '开始体验', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL: '/user-guide/deploy-vercel', // 英雄区按钮
   STARTER_HERO_BUTTON_2_TEXT: '在Github上关注', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_URL: 'https://github.com/bukeba/NotionNext', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_URL: 'https://github.com/tangly1024/NotionNext', // 英雄区按钮
   STARTER_HERO_PREVIEW_IMAGE: '/images/starter/hero/hero-image.webp', // 产品预览图 ，默认读取public目录下图片； 您可以上传自己的图片至/public/starter/hero目录下；
 ```
 
@@ -157,7 +174,7 @@ LOGO ， HERO，NAV、FEATURE、ABOUT、PRICING、TESTIMONIALS、TEAM、BLOG、C
   STARTER_FEATURE_1_TITLE_1: '免费且开源', // 特性1
   STARTER_FEATURE_1_TEXT_1: '项目源码在Github上完全开放共享，遵循MIT协议', // 特性1
   STARTER_FEATURE_1_BUTTON_TEXT: '了解更多', // 特性1
-  STARTER_FEATURE_1_BUTTON_URL: 'https://github.com/bukeba/NotionNext', // 特性1
+  STARTER_FEATURE_1_BUTTON_URL: 'https://github.com/tangly1024/NotionNext', // 特性1
 
   STARTER_FEATURE_2_TITLE_1: '多种主题定制', // 特性2
   STARTER_FEATURE_2_TEXT_1: '数十种主题,适用于不同场景，总有一款适合你', // 特性2
@@ -200,9 +217,9 @@ LOGO ， HERO，NAV、FEATURE、ABOUT、PRICING、TESTIMONIALS、TEAM、BLOG、C
 
 ![Untitled](/legacy/d409016f312f9079.png)
 
-> **⚠️**
->
+::: warning 注意
 NotionNext不提供电商购买相关服务，这里的价格链接可以借助第三方支付平台，例如[Stripe](https://stripe.com/)、[Lemonsqueezy](https://www.lemonsqueezy.com/)、[千寻寄售](https://qianxun1688.com/)以及第三方的电商平台链接等。
+:::
 
 ```JavaScript
 // 首页价格区块
@@ -217,7 +234,7 @@ NotionNext不提供电商购买相关服务，这里的价格链接可以借助�
   STARTER_PRICING_1_HEADER: '功能点',
   STARTER_PRICING_1_FEATURES: '所有的主题,免费更新,帮助手册', // 英文逗号隔开
   STARTER_PRICING_1_BUTTON_TEXT: '立即购买',
-  STARTER_PRICING_1_BUTTON_URL: 'https://bukeba.lemonsqueezy.com/checkout/buy/c1a38a65-362e-44c5-8065-733fee39eb54',
+  STARTER_PRICING_1_BUTTON_URL: 'https://tangly1024.lemonsqueezy.com/checkout/buy/c1a38a65-362e-44c5-8065-733fee39eb54',
 
   STARTER_PRICING_2_TAG: '推荐',
   STARTER_PRICING_2_TITLE: '基础版',
@@ -227,7 +244,7 @@ NotionNext不提供电商购买相关服务，这里的价格链接可以借助�
   STARTER_PRICING_2_HEADER: '功能点',
   STARTER_PRICING_2_FEATURES: '包含入门版,项目源码,内部社群,技术咨询,SEO优化', // 英文逗号隔开
   STARTER_PRICING_2_BUTTON_TEXT: '立即购买',
-  STARTER_PRICING_2_BUTTON_URL: 'https://bukeba.lemonsqueezy.com/checkout/buy/590ad70a-c3b7-4caf-94ec-9ca27bde06d4',
+  STARTER_PRICING_2_BUTTON_URL: 'https://tangly1024.lemonsqueezy.com/checkout/buy/590ad70a-c3b7-4caf-94ec-9ca27bde06d4',
 
   STARTER_PRICING_3_TITLE: '高级版',
   STARTER_PRICING_3_PRICE: '59.9',
@@ -236,7 +253,7 @@ NotionNext不提供电商购买相关服务，这里的价格链接可以借助�
   STARTER_PRICING_3_HEADER: '功能点',
   STARTER_PRICING_3_FEATURES: '包含基础版,功能定制开发', // 英文逗号隔开
   STARTER_PRICING_3_BUTTON_TEXT: '立即购买',
-  STARTER_PRICING_3_BUTTON_URL: 'https://bukeba.lemonsqueezy.com/checkout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
+  STARTER_PRICING_3_BUTTON_URL: 'https://tangly1024.lemonsqueezy.com/checkout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
 ```
 
 
@@ -269,7 +286,7 @@ STARTER_TESTIMONIALS_TITLE: '用户反馈',
       STARTER_TESTIMONIALS_ITEM_URL: 'https://asenkits.top/'
     },
     {
-      STARTER_TESTIMONIALS_ITEM_TEXT: '呜呜呜，经过一个下午的努力，终于把博客部署好啦，非常感谢bukeba大佬的框架和教程，这是我有生之年用过的最好用的博客框架┭┮﹏┭┮。从今之后，我就可以在自己的博客里bb啦，( •̀ ω •́ )y ',
+      STARTER_TESTIMONIALS_ITEM_TEXT: '呜呜呜，经过一个下午的努力，终于把博客部署好啦，非常感谢Tangly1024大佬的框架和教程，这是我有生之年用过的最好用的博客框架┭┮﹏┭┮。从今之后，我就可以在自己的博客里bb啦，( •̀ ω •́ )y ',
       STARTER_TESTIMONIALS_ITEM_AVATAR: 'https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6c096b44-beb9-48ee-8f92-1efdde47f3a3%2F338962f1-d352-49c7-9a1b-746e35a7005c%2Fhf.png?table=block&id=ce5a48a9-d77a-4843-a3d9-a78cd4f794ce&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'DWIND',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '且听风吟 站长',
@@ -335,12 +352,12 @@ STARTER_TESTIMONIALS_TITLE: '用户反馈',
 ```JavaScript
 STARTER_TEAM_TITLE: '团队成员',
   STARTER_TEAM_TEXT_1: '我们的开发者团队',
-  STARTER_TEAM_TEXT_2: 'NotionNext 由众多开源技术爱好者们共同合作完成，感谢每一位&lt;a className="underline" href="https://github.com/bukeba/NotionNext/graphs/contributors"&gt;贡献者&lt;/a&gt;',
+  STARTER_TEAM_TEXT_2: 'NotionNext 由众多开源技术爱好者们共同合作完成，感谢每一位&lt;a className="underline" href="https://github.com/tangly1024/NotionNext/graphs/contributors"&gt;贡献者&lt;/a&gt;',
 
   // 这里不支持CONFIG和环境变量，需要一一修改此处代码。
   STARTER_TEAM_ITEMS: [
     {
-      STARTER_TEAM_ITEM_AVATAR: 'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa06c61bb-980e-4180-bc18-c15f92c78bb4%2Fbukeba.jpg?table=collection&id=8e7acf17-de09-4fa1-abde-b5b80ad4a813&t=8e7acf17-de09-4fa1-abde-b5b80ad4a813&width=100&cache=v2',
+      STARTER_TEAM_ITEM_AVATAR: 'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa06c61bb-980e-4180-bc18-c15f92c78bb4%2Ftangly1024.jpg?table=collection&id=8e7acf17-de09-4fa1-abde-b5b80ad4a813&t=8e7acf17-de09-4fa1-abde-b5b80ad4a813&width=100&cache=v2',
       STARTER_TEAM_ITEM_NICKNAME: 'Tangly',
       STARTER_TEAM_ITEM_DESCRIPTION: 'Developer'
     },
@@ -391,7 +408,7 @@ STARTER_TEAM_TITLE: '团队成员',
   STARTER_CONTACT_LOCATION_TITLE: '我们的位置',
   STARTER_CONTACT_LOCATION_TEXT: '中国，福建',
   STARTER_CONTACT_EMAIL_TITLE: '我们如何帮助您？',
-  STARTER_CONTACT_EMAIL_TEXT: 'mail@bukeba.com',
+  STARTER_CONTACT_EMAIL_TEXT: 'mail@tangly1024.com',
 
   // 嵌入外部表单
   STARTER_CONTACT_MSG_EXTERNAL_URL: 'https://noteforms.com/forms/yfctc7', // 基于NoteForm (https://noteforms.com/) 创建，将留言数据存在Notion中
@@ -512,7 +529,7 @@ const CONFIG = {
   STARTER_404_BACK: '回到主页',
 
   STARTER_POST_REDIRECT_ENABLE: true, // 默認開啟重定向
-  STARTER_POST_REDIRECT_URL: 'https://blog.bukeba.com', // 重定向域名
+  STARTER_POST_REDIRECT_URL: 'https://blog.tangly1024.com', // 重定向域名
   STARTER_NEWSLETTER: process.env.NEXT_PUBLIC_THEME_STARTER_NEWSLETTER || false // 是否开启邮件订阅 请先配置mailchimp功能 /user-guide/plugins/mailchimp
 }
 export default CONFIG
@@ -526,16 +543,16 @@ export default CONFIG
 加入了一个便于嵌入的网页模式，在url中拼接`?lite=true`，这样显示的网页会隐藏页头页脚、导航按钮以及其它信息、便于内嵌。
 
 预览效果如下，第一个是默认，第二个是lite版本
-[https://www.bukeba.com/archive](https://www.bukeba.com/archive)
+[https://www.tangly1024.com/archive](https://www.tangly1024.com/archive)
 
-[https://www.bukeba.com/archive?lite=true](https://www.bukeba.com/archive?lite=true)
+[https://www.tangly1024.com/archive?lite=true](https://www.tangly1024.com/archive?lite=true)
 
 其它页面也都支持：
 
-[https://www.bukeba.com/tag/NotionNext](https://www.bukeba.com/tag/NotionNext)
+[https://www.tangly1024.com/tag/NotionNext](https://www.tangly1024.com/tag/NotionNext)
 
-[https://www.bukeba.com/tag/NotionNext?lite=true](https://www.bukeba.com/tag/NotionNext?lite=true)
+[https://www.tangly1024.com/tag/NotionNext?lite=true](https://www.tangly1024.com/tag/NotionNext?lite=true)
 
 ## 原文链接
 
-https://docs.bukeba.com/article/notionnext-starter
+https://docs.tangly1024.com/article/notionnext-starter

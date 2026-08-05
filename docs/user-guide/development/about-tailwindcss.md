@@ -1,5 +1,5 @@
 # 基础教程-Tailwind CSS
-> 迁移自：[基础教程-Tailwind CSS](https://docs.bukeba.com/article/about-tailwindcss)
+> 迁移自：[基础教程-Tailwind CSS](https://docs.tangly1024.com/article/about-tailwindcss)
 > 发布日期：2021-6-18
 > 最后编辑：2024-9-12
 > 原栏目：⌨ 开发教程
@@ -185,7 +185,7 @@ Customizing the default color palette for your project.
 
 ### 以example 主题为例：
 
-如何修改example主题的背景色？在/themes/example/index.js 中 ,找到[ theme-example的这行](https://github.com/bukeba/NotionNext/blob/e6c69dbbaecb1419f0ca3fa0a15b44cf24be0df0/themes/example/index.js#L65)：
+如何修改example主题的背景色？在/themes/example/index.js 中 ,找到[ theme-example的这行](https://github.com/tangly1024/NotionNext/blob/e6c69dbbaecb1419f0ca3fa0a15b44cf24be0df0/themes/example/index.js#L65)：
 
 ```JavaScript
 &lt;div id='theme-example' className={`${siteConfig('FONT_STYLE')} dark:text-gray-300  bg-white dark:bg-black scroll-smooth`} &gt;
@@ -244,4 +244,4 @@ This was originally posted as a thread on Twitter, but I thought I'd republish i
 
 ## 原文链接
 
-https://docs.bukeba.com/article/about-tailwindcss
+https://docs.tangly1024.com/article/about-tailwindcss

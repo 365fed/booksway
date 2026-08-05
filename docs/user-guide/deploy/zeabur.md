@@ -1,5 +1,5 @@
 # Zeabur云部署
-> 迁移自：[Zeabur云部署](https://docs.bukeba.com/article/deploy-notion-next-with-zeabur)
+> 迁移自：[Zeabur云部署](https://docs.tangly1024.com/article/deploy-notion-next-with-zeabur)
 > 发布日期：2023-6-29
 > 最后编辑：2026-5-2
 > 原栏目：🚀 安装部署
@@ -15,7 +15,7 @@ Zeabur是一款优秀的、国人自研的托管平台，部署效果预览：
 
 - 绑定个性域名
 
-[Notion Blog | 一个NotionNext搭建的博客](https://zeabur-tangly.bukeba.com/)
+[Notion Blog | 一个NotionNext搭建的博客](https://zeabur-tangly.tangly1024.com/)
 
 一个NotionNext搭建的博客
 
@@ -89,4 +89,4 @@ Zeabur: Deploy your service with one click.
 
 ## 原文链接
 
-https://docs.bukeba.com/article/deploy-notion-next-with-zeabur
+https://docs.tangly1024.com/article/deploy-notion-next-with-zeabur

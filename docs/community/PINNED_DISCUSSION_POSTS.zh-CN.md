@@ -20,13 +20,13 @@ NotionNext 已由个人仓库移交至组织 **[notionnext-org](https://github.c
 
 | 我想… | 去哪里 |
 | --- | --- |
-| 学部署、改配置 | [使用说明文档站](https://notionnext.bukeba.com) |
+| 学部署、改配置 | [使用说明文档站](https://notionnext.tangly1024.com) |
 | 提问、交流经验 | 本区 **「使用问答」** 发 Discussion（比 Issue 更合适） |
 | 改教程、纠错 | 文档页底 **「在 GitHub 上维护此页」** → 提 PR |
 | 修 Bug、做功能 | [Contributing](https://github.com/notionnext-org/NotionNext/blob/main/CONTRIBUTING.zh-CN.md) → Fork → PR |
 | 长期维护、加入组织 | 先合并 1～2 个 PR，再发 **「组织成员申请」** 讨论（见模板） |
 
-完整路径见：**[参与社区指南](https://notionnext.bukeba.com/user-guide/community-participate)**
+完整路径见：**[参与社区指南](https://notionnext.tangly1024.com/user-guide/community-participate)**
 
 ### 当前最需要帮助
 
@@ -40,7 +40,7 @@ NotionNext 已由个人仓库移交至组织 **[notionnext-org](https://github.c
 - **安全漏洞** → [私密报告](https://github.com/notionnext-org/NotionNext/security/advisories/new)，勿公开 PoC
 - 维护者为志愿者，**无商业 SLA**；请保持友善，遵守 [行为准则](https://github.com/notionnext-org/NotionNext/blob/main/CODE_OF_CONDUCT.md)
 
-旧版 Notion 托管教程仍在 [docs.bukeba.com](/user-guide/intro)；新版以仓库 `docs/user-guide/` 为准。
+旧版 Notion 托管教程仍在 [docs.tangly1024.com](/user-guide/intro)；新版以仓库 `docs/user-guide/` 为准。
 
 感谢每一位 Contributor ❤️
 
@@ -63,7 +63,7 @@ NotionNext 已由个人仓库移交至组织 **[notionnext-org](https://github.c
 | 文档站 | `docs/user-guide/`、VitePress | 招募中 |
 | 内置主题 | `themes/<name>/` | 招募中（可在主题文档注明 `@维护者`） |
 | CI / 构建 | `.github/workflows/` | 招募中 |
-| 数据层 / Notion API | `lib/db/` 等 | [@bukeba](https://github.com/bukeba) 守门 |
+| 数据层 / Notion API | `lib/db/` 等 | [@tangly1024](https://github.com/tangly1024) 守门 |
 | 发版 / 组织 | tag、Secrets、成员邀请 | Org Admin |
 
 认领方式：合并若干 PR 后，用 **「组织成员申请」** 模板发帖，或在本帖回复负责域。

@@ -1,5 +1,5 @@
 # Cusdis
-> 迁移自：[Cusdis](https://docs.bukeba.com/article/notion-next-cusdis)
+> 迁移自：[Cusdis](https://docs.tangly1024.com/article/notion-next-cusdis)
 > 发布日期：2023-6-27
 > 最后编辑：2024-2-2
 > 原栏目：📩 评论插件
@@ -80,4 +80,4 @@ cusdis 评论区收到用户评论后会发一封邮件通知管理员，需要�
 
 ## 原文链接
 
-https://docs.bukeba.com/article/notion-next-cusdis
+https://docs.tangly1024.com/article/notion-next-cusdis

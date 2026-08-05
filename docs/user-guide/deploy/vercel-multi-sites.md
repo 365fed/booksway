@@ -1,5 +1,5 @@
 # Vercel部署多个Github网站
-> 迁移自：[Vercel部署多个Github网站](https://docs.bukeba.com/article/vercel-multi-sites)
+> 迁移自：[Vercel部署多个Github网站](https://docs.tangly1024.com/article/vercel-multi-sites)
 > 发布日期：2024-2-27
 > 最后编辑：2024-11-18
 > 原栏目：🚀 安装部署
@@ -68,10 +68,12 @@ Github仓库是可以建立无数个分支的，每个分支的代码完全独�
 点击new branch 创建新分支
 
 ![Untitled](/legacy/9c41531a60ea50d8.png)
-例如，我创建了 deploy/bukeba.com这个分支专门用来部署我的网页
+例如，我创建了 deploy/tangly1024.com这个分支专门用来部署我的网页
 ![Untitled](/legacy/211d8a7073c368c1.png)
 要修改这个分支代码，只要在左上角切换到此分支即可。
-> **💡** 创建多个分支不是必须步骤，例如我部署的多个项目绑定的都是同一个分支，只是在vercel中通过不同项目的环境变量即可修改网站内容，或者直接在notion_config中修改站点信息即可。
+::: tip 提示
+创建多个分支不是必须步骤，例如我部署的多个项目绑定的都是同一个分支，只是在vercel中通过不同项目的环境变量即可修改网站内容，或者直接在notion_config中修改站点信息即可。
+:::
 
 
 ## Vercel的多项目管理
@@ -95,4 +97,4 @@ vercel面板首页点击添加新项目
 
 ## 原文链接
 
-https://docs.bukeba.com/article/vercel-multi-sites
+https://docs.tangly1024.com/article/vercel-multi-sites

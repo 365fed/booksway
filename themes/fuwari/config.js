@@ -102,7 +102,7 @@ const CONFIG = {
   /** 正面右上角徽标 */
   FUWARI_CONTACT_FRONT_BADGE: 'Community',
   /** 跳转 URL（外链或站内路径） */
-  FUWARI_CONTACT_URL: 'https://docs.bukeba.com/article/chat-community',
+  FUWARI_CONTACT_URL: 'https://docs.tangly1024.com/article/chat-community',
   /** 正面行动文案（如「联系我们 →」） */
   FUWARI_CONTACT_TEXT: '查看',
   /** 是否使用正反面翻转卡片 */
@@ -131,7 +131,7 @@ const CONFIG = {
   FUWARI_ARTICLE_META: true,
   /** 分享条 */
   FUWARI_ARTICLE_SHARE: true,
-  /** 文末版权信息块 */
+  /** 文章版权声明：true 全部显示；false 全部关闭；custom 仅填写 copyright 时显示 */
   FUWARI_ARTICLE_COPYRIGHT: true,
   /** 文末评论区（需在 `blog.config.js` 配置任一种评论服务，如 COMMENT_GISCUS_REPO / COMMENT_TWIKOO_ENV_ID 等，否则不渲染） */
   FUWARI_ARTICLE_COMMENT: true,

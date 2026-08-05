@@ -139,13 +139,13 @@ function buildFeaturesSection(id, title, summary, keys) {
   md += `- **定位**：${summary || scene}\n`
   md += `- **适用场景**：${scene}\n`
   md += `- **配置前缀**：\`${prefix}_*\`（共 **${keys.length}** 项，见下方配置表）\n`
-  md += `- **在线预览**：[preview.bukeba.com/?theme=${id}](https://preview.bukeba.com/?theme=${id})\n\n`
+  md += `- **在线预览**：[preview.tangly1024.com/?theme=${id}](https://preview.tangly1024.com/?theme=${id})\n\n`
   return md
 }
 
 function buildFullDoc(id, title, summary, keys, notes) {
   let md = `# ${title} 主题\n\n`
-  md += `> 主题 ID：\`${id}\` · 预览：[preview.bukeba.com/?theme=${id}](https://preview.bukeba.com/?theme=${id})\n\n`
+  md += `> 主题 ID：\`${id}\` · 预览：[preview.tangly1024.com/?theme=${id}](https://preview.tangly1024.com/?theme=${id})\n\n`
   md += `## 简介\n\n${summary || scenes[id] || '见主题切换面板简介。'}\n\n`
   md += buildFeaturesSection(id, title, summary, keys)
   md += `## 适用场景\n\n${scenes[id] || '见 [主题全览](./THEMES_CATALOG.md) 选型表'}\n\n`

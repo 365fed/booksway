@@ -1,6 +1,6 @@
 # NotionNext 快速免费建站
 
-> 迁移自：[NotionNext-快速免费建站](https://docs.bukeba.com/about)
+> 迁移自：[NotionNext-快速免费建站](https://docs.tangly1024.com/about)
 > 发布日期：2021-12-4
 > 最后编辑：2026-5-10
 > 标签：Notion、NotionNext、建站
@@ -12,7 +12,7 @@ NotionNext 是一个基于 Notion 和 Next.js 的开源建站系统。你可以�
 <details>
 <summary>旧版升级提醒</summary>
 
-2026 年起 Notion 侧数据结构多次升级，过旧的 NotionNext 源码可能无法完整拉取页面。建议把站点代码同步到主线最新版本。当前仓库版本为 **4.10.0**，升级步骤见 [版本升级指引](./update.md)。
+2026 年起 Notion 侧数据结构多次升级，过旧的 NotionNext 源码可能无法完整拉取页面。建议把站点代码同步到主线最新版本。当前仓库版本为 **4.10.2**，升级步骤见 [版本升级指引](./update.md)。
 
 </details>
 
@@ -122,4 +122,4 @@ NotionNext 的源码、配置和主题都在你的仓库中。你可以通过 `b
 
 ## 原文链接
 
-https://docs.bukeba.com/about
+https://docs.tangly1024.com/about

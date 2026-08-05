@@ -1,16 +1,16 @@
 # NotionNext定时发布文章
-> 迁移自：[NotionNext定时发布文章](https://docs.bukeba.com/article/notionnext-scheduled-article-release)
+> 迁移自：[NotionNext定时发布文章](https://docs.tangly1024.com/article/notionnext-scheduled-article-release)
 > 发布日期：2025-1-5
 > 最后编辑：2025-1-5
 > 原栏目：✒ Notion教程
 
-> **💡**
->
+::: tip 提示
 可以给文章设置一个发布时间，在这个时间后用户才能看到；
+:::
 
-> **💡**
->
+::: tip 提示
 此功能不适用于纯静态部署方案
+:::
 
 
 ## 开关
@@ -42,4 +42,4 @@
 
 ## 原文链接
 
-https://docs.bukeba.com/article/notionnext-scheduled-article-release
+https://docs.tangly1024.com/article/notionnext-scheduled-article-release

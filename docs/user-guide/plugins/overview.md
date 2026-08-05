@@ -1,6 +1,6 @@
 # 外部插件说明
 
-> 迁移自：[外部插件说明](https://docs.bukeba.com/article/notion-next-plugins)
+> 迁移自：[外部插件说明](https://docs.tangly1024.com/article/notion-next-plugins)
 > 发布日期：2023-6-27
 > 最后编辑：2024-9-7
 > 原栏目：🧷 外部扩展
@@ -32,4 +32,4 @@ NotionNext 预支持了一些第三方功能脚本插件。除了评论插件，
 
 ## 原文链接
 
-https://docs.bukeba.com/article/notion-next-plugins
+https://docs.tangly1024.com/article/notion-next-plugins

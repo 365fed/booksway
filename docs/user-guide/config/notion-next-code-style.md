@@ -1,5 +1,5 @@
 # 代码块风格
-> 迁移自：[代码块风格](https://docs.bukeba.com/article/notion-next-code-style)
+> 迁移自：[代码块风格](https://docs.tangly1024.com/article/notion-next-code-style)
 > 发布日期：2023-7-30
 > 最后编辑：2024-1-31
 > 原栏目：🛠 站点配置
@@ -41,4 +41,4 @@ CODE_COLLAPSE: process.env.NEXT_PUBLIC_CODE_COLLAPSE || true, // 是否折叠代
 
 ## 原文链接
 
-https://docs.bukeba.com/article/notion-next-code-style
+https://docs.tangly1024.com/article/notion-next-code-style

@@ -1,5 +1,5 @@
 # 基础教程-NextJs是什么
-> 迁移自：[基础教程-NextJs是什么](https://docs.bukeba.com/article/next-js)
+> 迁移自：[基础教程-NextJs是什么](https://docs.tangly1024.com/article/next-js)
 > 发布日期：2023-7-9
 > 最后编辑：2024-9-12
 > 原栏目：⌨ 开发教程
@@ -119,4 +119,4 @@ export default MyApp
 
 ## 原文链接
 
-https://docs.bukeba.com/article/next-js
+https://docs.tangly1024.com/article/next-js

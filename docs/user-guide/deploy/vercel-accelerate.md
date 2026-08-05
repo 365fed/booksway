@@ -1,5 +1,5 @@
 # Vercel域名加速
-> 迁移自：[Vercel域名加速](https://docs.bukeba.com/article/vercel-accelerate)
+> 迁移自：[Vercel域名加速](https://docs.tangly1024.com/article/vercel-accelerate)
 > 发布日期：2024-12-24
 > 最后编辑：2024-12-24
 > 原栏目：🚀 安装部署
@@ -15,8 +15,8 @@ A记录地址：`76.223.126.88` 或 `76.76.21.98` 等
 
 CNAME 记录地址：`cname-china.vercel-dns.com`
 
-> **💡**
->
+::: tip 提示
+:::
 
 ### A记录和CNAME的区别
 > A记录就是把一个域名解析到一个IP地址（Address，特指数字IP地址）；
@@ -54,4 +54,4 @@ CNAME 记录地址：`cname-china.vercel-dns.com`
 
 ## 原文链接
 
-https://docs.bukeba.com/article/vercel-accelerate
+https://docs.tangly1024.com/article/vercel-accelerate

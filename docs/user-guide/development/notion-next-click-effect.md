@@ -1,11 +1,13 @@
 # 实操案例-自定义鼠标特效
-> 迁移自：[实操案例-自定义鼠标特效](https://docs.bukeba.com/article/notion-next-click-effect)
+> 迁移自：[实操案例-自定义鼠标特效](https://docs.tangly1024.com/article/notion-next-click-effect)
 > 发布日期：2023-8-14
 > 最后编辑：2024-9-12
 > 原栏目：⌨ 开发教程
 > 摘要：一个开发示例，实现鼠标点击特效
 
-> **💡** 这是一个开发示例，通过本文您将学会，如何用NotionNext中的快速插入自定义功能，比如自定义的鼠标特效。
+::: tip 提示
+这是一个开发示例，通过本文您将学会，如何用NotionNext中的快速插入自定义功能，比如自定义的鼠标特效。
+:::
 
 按此教程，您的网页当鼠标点击后，指针点击处将浮现“社会主义核心价值观”的词条。
 
@@ -111,4 +113,4 @@ fnTextPopup(['❤富强❤', '❤民主❤', '❤文明❤', '❤和谐❤', '�
 
 ## 原文链接
 
-https://docs.bukeba.com/article/notion-next-click-effect
+https://docs.tangly1024.com/article/notion-next-click-effect

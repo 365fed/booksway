@@ -1,6 +1,6 @@
 ﻿# 文档静态网站
 
-教程与开发文档通过 **VitePress** 构建，发布到 [notionnext.bukeba.com](https://notionnext.bukeba.com)。
+教程与开发文档通过 **VitePress** 构建，发布到 [notionnext.tangly1024.com](https://notionnext.tangly1024.com)。
 
 ## 本地命令
 
@@ -9,10 +9,6 @@
 | `yarn docs:site:dev` | 本地开发预览 |
 | `yarn docs:site:build` | 构建 → `.vitepress/dist` |
 | `yarn docs:site:preview` | 预览构建结果 |
-
-## Cloudflare Pages
-
-详见 **[cloudflare-pages-docs.md](./deploy/cloudflare-pages-docs.md)**（组织仓库推荐 GitHub Actions，无需 CF 连 Git）。
 
 ## 在线站包含的目录
 

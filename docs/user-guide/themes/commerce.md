@@ -1,5 +1,5 @@
 # Commerce主题
-> 迁移自：[Commerce主题](https://docs.bukeba.com/article/notionnext-commerce)
+> 迁移自：[Commerce主题](https://docs.tangly1024.com/article/notionnext-commerce)
 > 发布日期：2024-3-24
 > 最后编辑：2024-9-12
 > 原栏目：⭐ 主题参数
@@ -35,8 +35,22 @@
 
 在/themes/commerce/config.js 中可以看到该主题支持的配置
 
+### Commerce 主题调色
+
+Commerce 支持通过语义色变量调整主色和页面背景：
+
+```js
+COMMERCE_COLOR_PRIMARY: '#D2232A',
+COMMERCE_COLOR_BG: '#f5f5f5'
+```
+
+主题工具中的调色板会展示当前值，并可直接复制配置项到 Notion Config。
+
 ```CSS
 const CONFIG = {
+  COMMERCE_COLOR_PRIMARY: '#D2232A',
+  COMMERCE_COLOR_BG: '#f5f5f5',
+
   // 封面大图开启
   COMMERCE_HOME_BANNER_ENABLE: true,
 
@@ -58,4 +72,4 @@ export default CONFIG
 
 ## 原文链接
 
-https://docs.bukeba.com/article/notionnext-commerce
+https://docs.tangly1024.com/article/notionnext-commerce

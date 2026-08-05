@@ -1,21 +1,21 @@
 # 小白学习-前端开发入门到精通
-> 迁移自：[小白学习-前端开发入门到精通](https://docs.bukeba.com/article/frontend-development-tutorial)
+> 迁移自：[小白学习-前端开发入门到精通](https://docs.tangly1024.com/article/frontend-development-tutorial)
 > 发布日期：2024-9-12
 > 最后编辑：2024-12-21
 > 原栏目：⌨ 开发教程
 
-> **💡**
->
+::: tip 提示
 无论是敲代码、写博客，还是录制视频，这些创作类的技能，如果你能将其中任意一种培养成长期的终身爱好，它都能成为你持续受益的源泉。
+:::
 
 
 ## 前言
 
 有不少朋友希望学习前端开发知识，能够自己开发页面，因此我在这里整理一下从入门到精通需要的所有知识。
 
-> **💡**
->
+::: tip 提示
 注意，我的前端水平一般，只能算勉强够用，我只是一个要用什么才学什么的体验派，并非专注技术研究的学者，这里提供的建议仅供参考。
+:::
 
 
 ## 知识体系
@@ -90,4 +90,4 @@ fly63前端教程网提供了HTML、CSS、Javascript、Vue、python等各种编�
 
 ## 原文链接
 
-https://docs.bukeba.com/article/frontend-development-tutorial
+https://docs.tangly1024.com/article/frontend-development-tutorial

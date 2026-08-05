@@ -1,5 +1,5 @@
 # 评论插件说明
-> 迁移自：[评论插件说明](https://docs.bukeba.com/article/notion-next-comment-plugin)
+> 迁移自：[评论插件说明](https://docs.tangly1024.com/article/notion-next-comment-plugin)
 > 发布日期：2024-7-11
 > 最后编辑：2024-7-11
 > 原栏目：📩 评论插件
@@ -13,6 +13,20 @@ NotionNext支持多种评论插件，通常只需要准备好对应的评论功�
 其中体验比较好的是Twikoo。它支持直接在页面上管理评论，而且能友好地根据用户评论时的邮箱展示头像，同时支持方便的邮箱通知配置。
 
 另外Valine/Waline也很不错，它们是很相似的一对评论插件，借助LeanCloud存储数据。
+
+### 评论、登录和会员能力的边界
+
+如果只是给博客、文档站或个人网站增加评论，优先选择现有评论插件。Twikoo、Waline、Artalk、Giscus、Cusdis 等方案已经覆盖了评论存储、审核、通知、反垃圾和迁移等常见需求，不需要把评论系统重新写进 NotionNext。
+
+如果站点需要登录、会员权限或“只有登录用户才能评论”，建议把登录身份、会员权限和评论存储拆开看：
+
+- 登录身份可以交给 Clerk 等认证服务。
+- Notion Integration 更适合作为站长可维护的低频权限后台，例如维护会员状态、角色、过期时间和可访问内容。
+- 评论数据可以继续使用现有评论插件；只有在确实需要与站点账号深度绑定时，再考虑启用一个轻量的 Notion 评论适配。
+
+不建议一开始把支付、订单、积分、复杂 RBAC 全塞进 NotionNext。Notion 适合当“站长可视化后台”和低频权限源，不适合当高并发交易数据库。评论如果流量较大，仍建议使用 Waline、Artalk、Twikoo 或自建数据库，并保留登录身份绑定。
+
+这类能力会尽量作为可选插件、适配器或示例存在，不影响博客站点的最简单使用路径。相关规划见 [会员、权限与评论可选集成路线图](../../developer/MEMBERSHIP_COMMENTS_ROADMAP.md)。
 
 
 ### 同时部署多个评论插件
@@ -54,4 +68,8 @@ NotionNext支持多种评论插件，通常只需要准备好对应的评论功�
 
 ## 原文链接
 
-https://docs.bukeba.com/article/notion-next-comment-plugin
+https://docs.tangly1024.com/article/notion-next-comment-plugin
+
+## NotionComments
+
+如果希望评论数据也保存在 Notion 中，可以使用 [NotionComments](./notion-comments.md)。它通过 Notion API 写入独立的评论数据库，访客不需要登录 Notion；支持昵称、回复、加载更多、Notion 手动审核和基础频率限制，但没有独立管理后台、邮件通知和完整垃圾评论过滤，更适合轻量站点。

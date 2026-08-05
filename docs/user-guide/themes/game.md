@@ -1,5 +1,5 @@
 # Game主题
-> 迁移自：[Game主题](https://docs.bukeba.com/article/notionnext-game)
+> 迁移自：[Game主题](https://docs.tangly1024.com/article/notionnext-game)
 > 发布日期：2024-3-24
 > 最后编辑：2024-11-5
 > 原栏目：⭐ 主题参数
@@ -9,9 +9,11 @@
 
 ![Game 主题预览](/images/themes-preview/game.webp)
 
-> **💡** 年龄大了，只能玩得动一点小游戏。
+::: tip 提示
+年龄大了，只能玩得动一点小游戏。
+:::
 
-可以搭建网页小游戏网站的主题。在线预览：[https://games.bukeba.com/](https://games.bukeba.com/)。
+可以搭建网页小游戏网站的主题。在线预览：[https://games.tangly1024.com/](https://games.tangly1024.com/)。
 
 对应示例数据库，完全开放可复制：
 
@@ -23,6 +25,18 @@ Play Fee Online Game on Game1024
 ## 开启方式
 
 更新代码至最新的4.4.1；并配置主题为game即可。
+
+### Game 主题调色
+
+Game 支持通过语义色变量调整页面背景、滚动条和主色：
+
+```js
+GAME_COLOR_BG: '#ffffff',
+GAME_COLOR_SCROLLBAR: '#4e4e4e',
+GAME_COLOR_PRIMARY: '#22c55e'
+```
+
+主题工具中的调色板会展示当前值，并可直接复制配置项到 Notion Config。
 
 
 ## Game 主题概要
@@ -78,7 +92,7 @@ Play Fee Online Game on Game1024
 
 访问此页面时加载路径中的` ``**?n=[外部域名]**`  会被当做一个iframe嵌入到页面中。通过装饰脚本页面的方式引入外部链接，可以方便后续**扩展做一些定制化**与**检测的功能**。
 
-直接访问** [站点]/games-external/common/index.htm?n=[一个域名] **，可以直接将一个外部网址当做iframe嵌入到项目。例如 [https://games.bukeba.com/games-external/common/index.htm?n=https://www.bukeba.com](https://games.bukeba.com/games-external/common/index.htm?n=https://www.bukeba.com)  ，就是将 www.bukeba.com这个网页当做iframe嵌入。
+直接访问** [站点]/games-external/common/index.htm?n=[一个域名] **，可以直接将一个外部网址当做iframe嵌入到项目。例如 [https://games.tangly1024.com/games-external/common/index.htm?n=https://www.tangly1024.com](https://games.tangly1024.com/games-external/common/index.htm?n=https://www.tangly1024.com)  ，就是将 www.tangly1024.com这个网页当做iframe嵌入。
 
 目前该脚本页面的唯一功能是：向嵌入的iframe添加了一个toggleFullscreen() 函数，便于我在NotionNext的文章详情页可以直接调用iframe的全屏功能:
 
@@ -193,16 +207,16 @@ function toggleFullScreen() {
 
 ### 游戏推荐
 
-- [拳皇97（风云再起）](https://games.bukeba.com/game/the-king-of-fighters-97-plus-bootleg)
+- [拳皇97（风云再起）](https://games.tangly1024.com/game/the-king-of-fighters-97-plus-bootleg)
 引入了retrogames的模拟器游戏，有趣的是支持创建房间、支持存档、联网对战,可以在游戏中设置键位，以及创建房间。
 ![Untitled](/legacy/4a4b86b33c1ea485.png)
 ![Untitled](/legacy/dbbdb7f4bba0b316.png)
 
-- [Block Post](https://games.bukeba.com/game/block-post)
+- [Block Post](https://games.tangly1024.com/game/block-post)
 一款像素风射击游戏。玩法丰富：炸弹模式、武器模式、团队死斗模式；体验流畅：游戏打开速度快、单局节奏快、对电脑配置要求低，对战的网速也不错。和CSGO这款老牌反恐枪战游戏有很多神似：peek闪身、预瞄、搜点、提前枪、爆头线、手雷道具、压枪、开箱子、各种皮肤武器在这里都能体验，老少皆宜。
 ![Untitled](/legacy/7a108c101b89957a.png)
 ![游戏中的开箱子画面](/legacy/c22a784c6c8ed702.png)
 
 ## 原文链接
 
-https://docs.bukeba.com/article/notionnext-game
+https://docs.tangly1024.com/article/notionnext-game

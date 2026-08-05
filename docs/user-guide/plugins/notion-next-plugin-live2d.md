@@ -1,5 +1,5 @@
 # Live2D宠物插件
-> 迁移自：[Live2D宠物插件](https://docs.bukeba.com/article/notion-next-plugin-live2d)
+> 迁移自：[Live2D宠物插件](https://docs.tangly1024.com/article/notion-next-plugin-live2d)
 > 发布日期：2023-6-30
 > 最后编辑：2024-9-7
 > 原栏目：🧷 外部扩展
@@ -17,7 +17,7 @@
 
 目前所有主题都支持宠物挂件。
 
-开启方式，源文件在[blog.config.js](https://github.com/bukeba/NotionNext/blob/8103e23aac7219789c77e412a1bc24dd2a2683b5/blog.config.js#L152C2-L158C1)中，默认是开状态
+开启方式，源文件在[blog.config.js](https://github.com/tangly1024/NotionNext/blob/8103e23aac7219789c77e412a1bc24dd2a2683b5/blog.config.js#L152C2-L158C1)中，默认是开状态
 
 ```JavaScript
 // 悬浮挂件
@@ -35,11 +35,13 @@
 
 `WIDGET_PET_LINK` 这个参数制定的是动画模型的加载地址，目前默认使用的是茶杯狗。
 
-> **💡** 由于每个动画模型的高度不同，可能需要您在[代码中](https://github.com/bukeba/NotionNext/blob/8103e23aac7219789c77e412a1bc24dd2a2683b5/components/Live2D.js#L38)修改模型的高度height，否则会很怪异。
->
+::: tip 提示
+由于每个动画模型的高度不同，可能需要您在[代码中](https://github.com/tangly1024/NotionNext/blob/8103e23aac7219789c77e412a1bc24dd2a2683b5/components/Live2D.js#L38)修改模型的高度height，否则会很怪异。
+
 ```HTML
-> &lt;canvas id="live2d" className='cursor-pointer' width="280" **height="250"** onClick={handleClick} alt='切换主题' title='切换主题' /&gt;
-> ```
+&lt;canvas id="live2d" className='cursor-pointer' width="280" **height="250"** onClick={handleClick} alt='切换主题' title='切换主题' /&gt;
+```
+:::
 
 
 ## 模型预览
@@ -359,4 +361,4 @@ The model library for live2d-widget.js. Contribute to xiazeyu/live2d-widget-mode
 
 ## 原文链接
 
-https://docs.bukeba.com/article/notion-next-plugin-live2d
+https://docs.tangly1024.com/article/notion-next-plugin-live2d
