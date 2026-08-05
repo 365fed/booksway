@@ -1,6 +1,6 @@
 # Example 主题
 
-> 主题 ID：`example` · 预览：[preview.tangly1024.com/?theme=example](https://preview.tangly1024.com/?theme=example)
+> 主题 ID：`example` · 预览：[preview.bukeba.com/?theme=example](https://preview.bukeba.com/?theme=example)
 
 ## 主题预览
 
@@ -15,7 +15,7 @@
 - **定位**：示例与演示向默认骨架。
 - **适用场景**：新主题开发骨架
 - **配置前缀**：`EXAMPLE_*`（共 **9** 项，见下方配置表）
-- **在线预览**：[preview.tangly1024.com/?theme=example](https://preview.tangly1024.com/?theme=example)
+- **在线预览**：[preview.bukeba.com/?theme=example](https://preview.bukeba.com/?theme=example)
 
 ## 适用场景
 

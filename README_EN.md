@@ -9,15 +9,15 @@ Build an independent website from Notion.
 Keep writing in Notion, and publish your content as a blog, portfolio, knowledge base, directory, or product website.
 
 <p>
-  <a href="https://preview.tangly1024.com/">Live Preview</a>
+  <a href="https://preview.bukeba.com/">Live Preview</a>
   ·
-  <a href="https://notionnext.tangly1024.com/user-guide/start-here">Get Started</a>
+  <a href="https://notionnext.bukeba.com/user-guide/start-here">Get Started</a>
   ·
-  <a href="https://notionnext.tangly1024.com/user-guide/themes/THEMES_CATALOG">Themes</a>
+  <a href="https://notionnext.bukeba.com/user-guide/themes/THEMES_CATALOG">Themes</a>
   ·
-  <a href="https://notionnext.tangly1024.com/user-guide/showcase">Showcase</a>
+  <a href="https://notionnext.bukeba.com/user-guide/showcase">Showcase</a>
   ·
-  <a href="https://notionnext.tangly1024.com/">Docs</a>
+  <a href="https://notionnext.bukeba.com/">Docs</a>
   ·
   <a href="https://github.com/notionnext-org/NotionNext/discussions">Discussions</a>
 </p>
@@ -53,11 +53,11 @@ It is useful for creators, indie hackers, designers, photographers, course autho
 
 | Goal | Recommended Entry | Best For |
 | --- | --- | --- |
-| Personal blog | [Get started](https://notionnext.tangly1024.com/user-guide/start-here) | Writers, developers, students |
-| Portfolio or personal brand | [Choose a theme by use case](https://notionnext.tangly1024.com/user-guide/themes/THEMES_CATALOG) | Designers, photographers, freelancers |
-| Product website or SaaS landing page | [Starter / Landing / Proxio](https://notionnext.tangly1024.com/user-guide/themes/THEMES_CATALOG) | Indie products, startups, small teams |
-| Knowledge base or docs site | [GitBook / Claude](https://notionnext.tangly1024.com/user-guide/themes/THEMES_CATALOG) | Open-source projects, course authors, teams |
-| Directory or resource hub | [Nav theme](https://notionnext.tangly1024.com/user-guide/themes/nav) | Curators and community operators |
+| Personal blog | [Get started](https://notionnext.bukeba.com/user-guide/start-here) | Writers, developers, students |
+| Portfolio or personal brand | [Choose a theme by use case](https://notionnext.bukeba.com/user-guide/themes/THEMES_CATALOG) | Designers, photographers, freelancers |
+| Product website or SaaS landing page | [Starter / Landing / Proxio](https://notionnext.bukeba.com/user-guide/themes/THEMES_CATALOG) | Indie products, startups, small teams |
+| Knowledge base or docs site | [GitBook / Claude](https://notionnext.bukeba.com/user-guide/themes/THEMES_CATALOG) | Open-source projects, course authors, teams |
+| Directory or resource hub | [Nav theme](https://notionnext.bukeba.com/user-guide/themes/nav) | Curators and community operators |
 
 ## Why NotionNext?
 
@@ -70,19 +70,19 @@ It is useful for creators, indie hackers, designers, photographers, course autho
 
 ## 20-Minute Deployment Path
 
-1. Open the [theme preview site](https://preview.tangly1024.com/) and choose the site style you want.
+1. Open the [theme preview site](https://preview.bukeba.com/) and choose the site style you want.
 2. Duplicate the official NotionNext Notion template.
 3. Fork this repository to your GitHub account.
-4. Deploy with [Vercel](https://notionnext.tangly1024.com/user-guide/deploy-vercel).
+4. Deploy with [Vercel](https://notionnext.bukeba.com/user-guide/deploy-vercel).
 5. Set `NOTION_PAGE_ID` and other required environment variables.
 6. After launch, configure your theme, domain, comments, analytics, and search as needed.
 
-New users should start with the [Get Started guide](https://notionnext.tangly1024.com/user-guide/start-here).
+New users should start with the [Get Started guide](https://notionnext.bukeba.com/user-guide/start-here).
 
 ## Themes
 
-- Live theme switcher: [preview.tangly1024.com](https://preview.tangly1024.com/)
-- Built-in themes: [Themes catalog](https://notionnext.tangly1024.com/user-guide/themes/THEMES_CATALOG)
+- Live theme switcher: [preview.bukeba.com](https://preview.bukeba.com/)
+- Built-in themes: [Themes catalog](https://notionnext.bukeba.com/user-guide/themes/THEMES_CATALOG)
 - Theme docs in this repository: [docs/user-guide/themes/](./docs/user-guide/themes/)
 
 | Use Case | Start With |
@@ -119,12 +119,12 @@ Common commands:
 
 | Content | Link |
 | --- | --- |
-| Docs site | [notionnext.tangly1024.com](https://notionnext.tangly1024.com) |
-| New user guide | [Get started](https://notionnext.tangly1024.com/user-guide/start-here) |
-| Use-case templates | [Choose by goal](https://notionnext.tangly1024.com/user-guide/templates) |
-| Configuration index | [Features and configuration](https://notionnext.tangly1024.com/user-guide/reference/features) |
-| Theme docs | [26 built-in themes](https://notionnext.tangly1024.com/user-guide/themes/THEMES_CATALOG) |
-| Showcase | [User websites](https://notionnext.tangly1024.com/user-guide/showcase): submit your site after launch |
+| Docs site | [notionnext.bukeba.com](https://notionnext.bukeba.com) |
+| New user guide | [Get started](https://notionnext.bukeba.com/user-guide/start-here) |
+| Use-case templates | [Choose by goal](https://notionnext.bukeba.com/user-guide/templates) |
+| Configuration index | [Features and configuration](https://notionnext.bukeba.com/user-guide/reference/features) |
+| Theme docs | [26 built-in themes](https://notionnext.bukeba.com/user-guide/themes/THEMES_CATALOG) |
+| Showcase | [User websites](https://notionnext.bukeba.com/user-guide/showcase): submit your site after launch |
 | Docs source | [docs/](./docs/) |
 
 ## Community

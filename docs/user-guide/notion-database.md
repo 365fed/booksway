@@ -1,5 +1,5 @@
 # Notion数据库的使用
-> 迁移自：[Notion数据库的使用](https://docs.tangly1024.com/article/start-to-write)
+> 迁移自：[Notion数据库的使用](https://docs.bukeba.com/article/start-to-write)
 > 发布日期：2023-6-27
 > 最后编辑：2024-9-4
 > 原栏目：✒ Notion教程
@@ -40,4 +40,4 @@ Notion是一个能让效率暴涨的生产力引擎，可以帮你书写文档�
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/start-to-write
+https://docs.bukeba.com/article/start-to-write

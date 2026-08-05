@@ -1,5 +1,5 @@
 # Notion模板的使用
-> 迁移自：[Notion模板的使用](https://docs.tangly1024.com/article/notion-template)
+> 迁移自：[Notion模板的使用](https://docs.bukeba.com/article/notion-template)
 > 发布日期：2024-3-19
 > 最后编辑：2024-9-4
 > 原栏目：✒ Notion教程
@@ -60,4 +60,4 @@ Notion数据库支持多视图功能，除了默认的这个table数据视图，
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notion-template
+https://docs.bukeba.com/article/notion-template

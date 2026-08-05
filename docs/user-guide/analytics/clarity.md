@@ -1,5 +1,5 @@
 # Clarity站点统计
-> 迁移自：[Clarity站点统计](https://docs.tangly1024.com/article/notion-next-clarity)
+> 迁移自：[Clarity站点统计](https://docs.bukeba.com/article/notion-next-clarity)
 > 发布日期：2024-1-31
 > 最后编辑：2024-1-31
 > 原栏目：📊 网站统计
@@ -73,10 +73,10 @@ Clarity is a free user behavior analytics tool that helps you understand how use
 
 ## 配置NotionNext
 
-对应的配置文件在[blog.config.js：356行](https://github.com/tangly1024/NotionNext/blob/eced20bfe7af015d69eef147af104df4c3ae88ee/blog.config.js#L356)，在NotionNext项目后台添加如下环境变量即可
+对应的配置文件在[blog.config.js：356行](https://github.com/bukeba/NotionNext/blob/eced20bfe7af015d69eef147af104df4c3ae88ee/blog.config.js#L356)，在NotionNext项目后台添加如下环境变量即可
 
 您可以在blog.config.js 或者在 vercel环境变量，或者直接在notion-config中配置
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notion-next-clarity
+https://docs.bukeba.com/article/notion-next-clarity

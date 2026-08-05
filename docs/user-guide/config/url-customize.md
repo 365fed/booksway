@@ -1,5 +1,5 @@
 # URL风格自定义
-> 迁移自：[URL风格自定义](https://docs.tangly1024.com/article/notion-next-url-customize)
+> 迁移自：[URL风格自定义](https://docs.bukeba.com/article/notion-next-url-customize)
 > 发布日期：2024-5-8
 > 最后编辑：2024-9-29
 > 原栏目：🛠 站点配置
@@ -57,7 +57,7 @@ POST_URL_PREFIX: process.env.NEXT_PUBLIC_POST_URL_PREFIX || 'article',
 
 ### 使用示例
 
-例如《[SEO指南](https://seo.tangly1024.com/)》 这个站点的url分格就是用的`分类`：访问文章的链接格式如下：[https://seo.tangly1024.com/一、SEO概念入门/what-is-google-seo](https://seo.tangly1024.com/%E4%B8%80%E3%80%81SEO%E6%A6%82%E5%BF%B5%E5%85%A5%E9%97%A8/what-is-google-seo)
+例如《[SEO指南](https://seo.bukeba.com/)》 这个站点的url分格就是用的`分类`：访问文章的链接格式如下：[https://seo.bukeba.com/一、SEO概念入门/what-is-google-seo](https://seo.bukeba.com/%E4%B8%80%E3%80%81SEO%E6%A6%82%E5%BF%B5%E5%85%A5%E9%97%A8/what-is-google-seo)
 
 ![Untitled](/legacy/a26d1153c677587f.png)
 
@@ -103,4 +103,4 @@ POST_URL_PREFIX 配置为： `%category%/%year%/%month%/%day%`
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notion-next-url-customize
+https://docs.bukeba.com/article/notion-next-url-customize

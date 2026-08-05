@@ -1,5 +1,5 @@
 # NotionNext项目运行原理
-> 迁移自：[NotionNext项目运行原理](https://docs.tangly1024.com/article/vercel-notionnext-notion)
+> 迁移自：[NotionNext项目运行原理](https://docs.bukeba.com/article/vercel-notionnext-notion)
 > 发布日期：2024-11-18
 > 最后编辑：2025-10-15
 > 原栏目：🚀 安装部署
@@ -229,4 +229,4 @@ NOTION_CONFIG中可以支持用户配置自己的装修样式和运行规则，�
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/vercel-notionnext-notion
+https://docs.bukeba.com/article/vercel-notionnext-notion

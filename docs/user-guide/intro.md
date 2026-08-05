@@ -1,6 +1,6 @@
 # NotionNext 快速免费建站
 
-> 迁移自：[NotionNext-快速免费建站](https://docs.tangly1024.com/about)
+> 迁移自：[NotionNext-快速免费建站](https://docs.bukeba.com/about)
 > 发布日期：2021-12-4
 > 最后编辑：2026-5-10
 > 标签：Notion、NotionNext、建站
@@ -122,4 +122,4 @@ NotionNext 的源码、配置和主题都在你的仓库中。你可以通过 `b
 
 ## 原文链接
 
-https://docs.tangly1024.com/about
+https://docs.bukeba.com/about

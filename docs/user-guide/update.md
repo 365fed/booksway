@@ -1,5 +1,5 @@
 # NotionNext-升级教程
-> 迁移自：[NotionNext-升级教程](https://docs.tangly1024.com/article/how-to-update-notionnext)
+> 迁移自：[NotionNext-升级教程](https://docs.bukeba.com/article/how-to-update-notionnext)
 > 发布日期：2022-6-2
 > 最后编辑：2025-1-21
 > 原栏目：✨ 更新日志
@@ -32,7 +32,7 @@
 
 本项目在长期维护更新中，不时将修复一些bug和增加新特性。新版本中对页面样式以及加载速度都做了大量的优化，因此推荐您更新到最新版。
 
-您可以在[NotionNext的Github仓库](https://github.com/tangly1024/NotionNext)右上角点击Star，以便关注项目动态，您将第一时间收到新版本发布的消息。
+您可以在[NotionNext的Github仓库](https://github.com/bukeba/NotionNext)右上角点击Star，以便关注项目动态，您将第一时间收到新版本发布的消息。
 
 ![Untitled](/legacy/5c03aa929431ec11.png)
 
@@ -161,16 +161,16 @@ NotionNext更新冲突？网上教程还要VS code和git?通通不需要，马�
 这是一种简答的更新notionNext版本的方法
 [手动 NotionNext 版本更新教程 | D_SUPER BLOG](https://www.dsuper.xyz/article/notionnext_update_221228)
 
-勤劳的 tangly1024 [ Github][ Blog] 大大又更新了 NotionNext 内容。之前的更新内容不涉及 blog.config.js 文件（配置博客唯一要更改的文件），可以直接 Fetch upstream → Fetch and merge 跟进版本。但是这次涉及到 blog.config.js 文件的修改，新旧内容冲突导致 Github 懵了，需要手动更新。数日前就看到需要更新，今天才得以抽空完成这一"大工程"（实在是懒）。 (1) 浏览器 [Github 已经 Fork 过 NotionNext 项目]; (2) Github desktop 客户端 [ 安装地址]; (3) Visual Studio Code - VS Code [ 安装地址].
+勤劳的 bukeba [ Github][ Blog] 大大又更新了 NotionNext 内容。之前的更新内容不涉及 blog.config.js 文件（配置博客唯一要更改的文件），可以直接 Fetch upstream → Fetch and merge 跟进版本。但是这次涉及到 blog.config.js 文件的修改，新旧内容冲突导致 Github 懵了，需要手动更新。数日前就看到需要更新，今天才得以抽空完成这一"大工程"（实在是懒）。 (1) 浏览器 [Github 已经 Fork 过 NotionNext 项目]; (2) Github desktop 客户端 [ 安装地址]; (3) Visual Studio Code - VS Code [ 安装地址].
 
 
 ## Github 自动化（高阶方法，需要一定知识）
 
-除了手动点击 `Fetch upstream` / `Sync fork` 按钮，仓库内置了一个 GitHub Actions workflow（[`.github/workflows/sync.yaml`](https://github.com/tangly1024/NotionNext/blob/main/.github/workflows/sync.yaml)），可以自动帮你完成每日同步上游最新代码的工作。
+除了手动点击 `Fetch upstream` / `Sync fork` 按钮，仓库内置了一个 GitHub Actions workflow（[`.github/workflows/sync.yaml`](https://github.com/bukeba/NotionNext/blob/main/.github/workflows/sync.yaml)），可以自动帮你完成每日同步上游最新代码的工作。
 
 ### 功能说明
 
-该 workflow 每天 UTC 0点（对应北京时间早上8点）自动运行一次，将上游仓库 `tangly1024/NotionNext` 的 `main` 分支同步合并到你 fork 仓库的 `main` 分支，不需要每天手动点击更新按钮。
+该 workflow 每天 UTC 0点（对应北京时间早上8点）自动运行一次，将上游仓库 `bukeba/NotionNext` 的 `main` 分支同步合并到你 fork 仓库的 `main` 分支，不需要每天手动点击更新按钮。
 
 关键配置如下：
 
@@ -186,7 +186,7 @@ jobs:
     steps:
       - uses: aormsby/Fork-Sync-With-Upstream-action@v3.4
         with:
-          upstream_sync_repo: tangly1024/NotionNext
+          upstream_sync_repo: bukeba/NotionNext
           upstream_sync_branch: main
           target_sync_branch: main
 ```
@@ -219,7 +219,7 @@ GitHub 出于安全考虑，**新 fork 的仓库默认关闭了 Actions（自动
 
 ### 建立一个专用部署分支
 
-您可以选择在Git仓库中，建立属于自己的分支，例如我建了一个 `deploy/tangly1024.com` 分支， 并在vercel中导入并选择使用该分支进行部署，`main`分支则用于提交更新最新的代码版本。
+您可以选择在Git仓库中，建立属于自己的分支，例如我建了一个 `deploy/bukeba.com` 分支， 并在vercel中导入并选择使用该分支进行部署，`main`分支则用于提交更新最新的代码版本。
 
 ![Untitled](/legacy/7095faf911737b2d.png)
 ![Untitled](/legacy/9330a22b133f9c00.png)
@@ -275,4 +275,4 @@ GitHub 出于安全考虑，**新 fork 的仓库默认关闭了 Actions（自动
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/how-to-update-notionnext
+https://docs.bukeba.com/article/how-to-update-notionnext

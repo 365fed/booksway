@@ -1,5 +1,5 @@
 # Facebook聊天插件[已失效]
-> 迁移自：[Facebook聊天插件[已失效]](https://docs.tangly1024.com/article/notion-next-facebook-chat-plugn)
+> 迁移自：[Facebook聊天插件[已失效]](https://docs.bukeba.com/article/notion-next-facebook-chat-plugn)
 > 发布日期：2023-8-4
 > 最后编辑：2024-9-21
 > 原栏目：🧷 外部扩展
@@ -43,7 +43,7 @@ FaceBook 官方提供的聊天插件，可以方便您与访客实时聊天。
 
 ## 配置方式
 
-在NotionNext后台添加两个环境变量即可开启FBChat插件 ， 对应配置文件路径 [blog.config.js](https://github.com/tangly1024/NotionNext/blob/70cc96d8f16e71abc8a21e777c4b984680ab5a4b/blog.config.js#L99-L100) 。
+在NotionNext后台添加两个环境变量即可开启FBChat插件 ， 对应配置文件路径 [blog.config.js](https://github.com/bukeba/NotionNext/blob/70cc96d8f16e71abc8a21e777c4b984680ab5a4b/blog.config.js#L99-L100) 。
 
 这两个参数如何获得，请阅读下方的注册方法部分。
 
@@ -130,7 +130,7 @@ facebook上创建一个公共主页很简单，按照步骤创建好主页后，
 
 至此，你已经获取到了`APP_ID`和`PAGE_ID`。
 
-在NotionNext后台添加两个环境变量即可开启FBChat插件 ， 对应配置文件路径 [blog.config.js](https://github.com/tangly1024/NotionNext/blob/70cc96d8f16e71abc8a21e777c4b984680ab5a4b/blog.config.js#L99-L100) 。
+在NotionNext后台添加两个环境变量即可开启FBChat插件 ， 对应配置文件路径 [blog.config.js](https://github.com/bukeba/NotionNext/blob/70cc96d8f16e71abc8a21e777c4b984680ab5a4b/blog.config.js#L99-L100) 。
 
 
 ## 关于Facebook后台设置
@@ -172,4 +172,4 @@ facebook上创建一个公共主页很简单，按照步骤创建好主页后，
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notion-next-facebook-chat-plugn
+https://docs.bukeba.com/article/notion-next-facebook-chat-plugn

@@ -1,5 +1,5 @@
 # V1.0 → V1.5.0
-> 迁移自：[V1.0 → V1.5.0](https://docs.tangly1024.com/article/v1.0)
+> 迁移自：[V1.0 → V1.5.0](https://docs.bukeba.com/article/v1.0)
 > 发布日期：2023-3-7
 > 最后编辑：2024-9-20
 > 原栏目：✨ 更新日志
@@ -108,4 +108,4 @@ DaoVoice 在线聊天组件
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/v1.0
+https://docs.bukeba.com/article/v1.0

@@ -1,5 +1,5 @@
 # Notion数据备份
-> 迁移自：[Notion数据备份](https://docs.tangly1024.com/article/notion-backup)
+> 迁移自：[Notion数据备份](https://docs.bukeba.com/article/notion-backup)
 > 发布日期：2024-10-4
 > 最后编辑：2024-10-4
 > 原栏目：✒ Notion教程
@@ -122,4 +122,4 @@ Notion每分钟自动备份一次，不需要担心突然停电或死机导致�
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notion-backup
+https://docs.bukeba.com/article/notion-backup

@@ -1,5 +1,5 @@
 # 1.社群守则
-> 迁移自：[1.社群守则](https://docs.tangly1024.com/article/how-to-question)
+> 迁移自：[1.社群守则](https://docs.bukeba.com/article/how-to-question)
 > 发布日期：2023-6-28
 > 最后编辑：2024-10-2
 > 原栏目：👨‍👦‍👦 获取帮助
@@ -76,7 +76,7 @@ NotionNext提供了博客文档，社群交流，评论留言、邮件等渠道�
 
 我希望切换站点的主题为`example`，因此我在 GitHub 上修改了配置文件 `blog.config.js` 的`THEME`这个参数的配置，但在网页上并没有看到生效，我使用的部署方案是 Vercel 。以下是相关信息，请帮我看一下，非常感谢！
 
-1. 【代码地址】 [https://github.com/tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) （这里贴你自己的仓库）
+1. 【代码地址】 [https://github.com/bukeba/NotionNext](https://github.com/bukeba/NotionNext) （这里贴你自己的仓库）
 
 1. 【NotionID】02ab3b8678004aa69e9e415905ef32a5 (这里可以贴你的页面ID)
 
@@ -112,4 +112,4 @@ NotionNext教程
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/how-to-question
+https://docs.bukeba.com/article/how-to-question

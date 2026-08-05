@@ -10,7 +10,7 @@
 
 - 新增 `cloudflare/notion-image-proxy` 最小 Worker 工程，默认只放行 `/image/` 和 `/images/`。
 - Worker 支持 Notion 签名图片跳转链路，并使用 `caches.default` 显式缓存响应，重复访问同一图片可观察到 `X-Notion-Image-Proxy-Cache: HIT`。
-- 示例配置使用 Cloudflare Custom Domain，生产示例域名为 `cdn.tangly1024.com`。
+- 示例配置使用 Cloudflare Custom Domain，生产示例域名为 `cdn.bukeba.com`。
 - 保持 NotionNext 侧接入方式不变：只需配置 `NEXT_PUBLIC_NOTION_HOST=https://你的CDN域名`。
 
 ### 文档
@@ -242,7 +242,7 @@
 
 ### 参与者
 
-- [@tangly1024](https://github.com/tangly1024)：33 个提交。
+- [@bukeba](https://github.com/bukeba)：33 个提交。
 - [@qianzhu](https://github.com/qianzhu) / Lucien：6 个提交。
 - [@dependabot](https://github.com/dependabot)：4 个提交。
 - [@88lin](https://github.com/88lin)：1 个提交。
@@ -328,4 +328,4 @@
 ## 历史版本全文
 
 - [V4 历史](./v4-history.md)
-- 源站：https://docs.tangly1024.com/article/latest
+- 源站：https://docs.bukeba.com/article/latest

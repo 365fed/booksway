@@ -1,5 +1,5 @@
 # Notion文章示例
-> 迁移自：[Notion文章示例](https://docs.tangly1024.com/article/example-1)
+> 迁移自：[Notion文章示例](https://docs.bukeba.com/article/example-1)
 > 发布日期：2021-11-5
 > 最后编辑：2024-10-28
 > 原栏目：✒ Notion教程
@@ -380,4 +380,4 @@ NotionNext-快速免费建站
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/example-1
+https://docs.bukeba.com/article/example-1

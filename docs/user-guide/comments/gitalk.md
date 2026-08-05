@@ -1,5 +1,5 @@
 # Gitalk
-> 迁移自：[Gitalk](https://docs.tangly1024.com/article/notion-next-gitalk)
+> 迁移自：[Gitalk](https://docs.bukeba.com/article/notion-next-gitalk)
 > 发布日期：2022-12-11
 > 最后编辑：2024-1-31
 > 原栏目：📩 评论插件
@@ -65,4 +65,4 @@ vercel后台需要添加5个变量
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notion-next-gitalk
+https://docs.bukeba.com/article/notion-next-gitalk

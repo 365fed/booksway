@@ -3,7 +3,7 @@
 > 与 `themes/` 目录及 `conf/themeSwitch.manifest.js` 同步 · 当前版本 **4.10.7**
 > 先按站点目标选主题，再进入单个主题文档看配置。
 
-预览：`https://preview.tangly1024.com/?theme=<id>`（`id` 为下表主题 ID，小写）。
+预览：`https://preview.bukeba.com/?theme=<id>`（`id` 为下表主题 ID，小写）。
 
 切换方式：`NEXT_PUBLIC_THEME=<id>`、Notion Config 的 `THEME`，或开启 `THEME_SWITCH` 挂件。
 
@@ -39,7 +39,7 @@
 
 常用入口：
 
-- [主题预览站](https://preview.tangly1024.com/)
+- [主题预览站](https://preview.bukeba.com/)
 - [主题总览说明](./overview.md)
 - [配置站点](../config-site.md)
 

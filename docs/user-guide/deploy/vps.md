@@ -1,5 +1,5 @@
 # VPS本地服务器
-> 迁移自：[VPS本地服务器](https://docs.tangly1024.com/article/deploy-notion-next-on-vps)
+> 迁移自：[VPS本地服务器](https://docs.bukeba.com/article/deploy-notion-next-on-vps)
 > 发布日期：2022-11-20
 > 最后编辑：2026-5-2
 > 原栏目：🚀 安装部署
@@ -56,7 +56,7 @@ yum install git -y
 <summary>执行效果</summary>
 
 ```Bash
-[root@tangly1024 ~]# yum install git -y
+[root@bukeba ~]# yum install git -y
 Loaded plugins: fastestmirror, langpacks
 Loading mirror speeds from cached hostfile
  * base: mirror.lzu.edu.cn
@@ -143,7 +143,7 @@ Complete!
 cd ~
 
 # 将Git上的代码下载到服务器中 ;
-git clone https://github.com/tangly1024/NotionNext &&
+git clone https://github.com/bukeba/NotionNext &&
 
 # 若您的服务器因为网络问题，无法访问github，可手动下载NotionNext代码 上传至服务器
 ```
@@ -358,7 +358,7 @@ yarn start
 <summary>执行效果记录</summary>
 
 ```Bash
-[root@tangly1024 NotionNext]# yarn
+[root@bukeba NotionNext]# yarn
 yarn install v1.22.19
 info No lockfile found.
 [1/4] Resolving packages...
@@ -384,7 +384,7 @@ warning "eslint-config-next &gt; @typescript-eslint/parser &gt; @typescript-esli
 [4/4] Building fresh packages...
 success Saved lockfile.
 Done in 214.69s.
-[root@tangly1024 NotionNext]# yarn build
+[root@bukeba NotionNext]# yarn build
 yarn run v1.22.19
 $ next build && next-sitemap --config next-sitemap.config.js
 info  - Loaded env from /root/NotionNext/.env.local
@@ -496,7 +496,7 @@ Page                                                          Size     First Loa
 
 Loaded env from /root/NotionNext/.env.local
 Done in 113.42s.
-[root@tangly1024 NotionNext]# yarn start
+[root@bukeba NotionNext]# yarn start
 yarn run v1.22.19
 $ next start
 ready - started server on 0.0.0.0:3000, url: http://localhost:3000
@@ -561,7 +561,7 @@ nohup yarn start &gt;/dev/null 2&gt;&1 &
 <summary>执行结果</summary>
 
 ```Bash
-[root@tangly1024 ~]# nohup yarn start &gt;/dev/null 2&gt;&1 &
+[root@bukeba ~]# nohup yarn start &gt;/dev/null 2&gt;&1 &
 [1] 5240
 # 会打印出后台 运行的进程号。
 ```
@@ -676,14 +676,14 @@ nohup yarn start &gt;/dev/null 2&gt;&1 &
 删除环境变量可用以下命令： `unset NOTION_PAGE_ID`
 :::
 
-- 支持环境变量的配置可参考[blog.config.js](https://github.com/tangly1024/NotionNext/blob/main/blog.config.js) 文件
+- 支持环境变量的配置可参考[blog.config.js](https://github.com/bukeba/NotionNext/blob/main/blog.config.js) 文件
 
 
 ### 2.修改代码
 
 - 如果修改blog.config.js或其他代码文件，NodeJS环境需要重新执行 `yarn build` 才可 生效，Docker环境重新执行前面的docker build 相关命令即可重新构建镜像。
 
-- 您可以在项目根目录的[`.env.local`](https://github.com/tangly1024/NotionNext/blob/main/.env.local)文件中配置您的环境变量
+- 您可以在项目根目录的[`.env.local`](https://github.com/bukeba/NotionNext/blob/main/.env.local)文件中配置您的环境变量
 
 - 重新编译后需要先关闭旧进程，再用 `yarn start` 重启服务 。
 
@@ -753,7 +753,7 @@ sudo systemctl reload nginx
 cd NotionNext
 
 # 从仓库更新拉取最新代码
-git pull https://github.com/tangly1024/NotionNext
+git pull https://github.com/bukeba/NotionNext
 
 # 编译新版代码
 yarn build
@@ -765,4 +765,4 @@ yarn start
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/deploy-notion-next-on-vps
+https://docs.bukeba.com/article/deploy-notion-next-on-vps

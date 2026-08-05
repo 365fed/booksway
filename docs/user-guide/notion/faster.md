@@ -1,5 +1,5 @@
 # Notion-faster加速Notion
-> 迁移自：[Notion-faster加速Notion](https://docs.tangly1024.com/article/notion-faster)
+> 迁移自：[Notion-faster加速Notion](https://docs.bukeba.com/article/notion-faster)
 > 发布日期：2022-6-30
 > 最后编辑：2024-9-4
 > 原栏目：✒ Notion教程
@@ -120,4 +120,4 @@ notion 中文化. Contribute to Reamd7/notion-zh_CN development by creating an a
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notion-faster
+https://docs.bukeba.com/article/notion-faster

@@ -1,5 +1,5 @@
 # 菜单管理-二级菜单
-> 迁移自：[菜单管理-二级菜单](https://docs.tangly1024.com/article/notion-next-secondary-menu)
+> 迁移自：[菜单管理-二级菜单](https://docs.bukeba.com/article/notion-next-secondary-menu)
 > 发布日期：2023-3-23
 > 最后编辑：2024-7-2
 > 原栏目：🛠 站点配置
@@ -8,7 +8,7 @@
 
 ## 菜单功能
 
-在NotionNext 3.12 之前的旧版本中，网站的[菜单栏由Page控制](https://docs.tangly1024.com/zh/features/singlePage)。
+在NotionNext 3.12 之前的旧版本中，网站的[菜单栏由Page控制](https://docs.bukeba.com/zh/features/singlePage)。
 
 > 类型为`Page`的文章，不会展示在博文列表，而是在导航栏中出现菜单入口。
 
@@ -92,7 +92,7 @@ Menu,SubMenu 这两个类型本质只是菜单，唯一功能是跳转到slug指
 
 ::: tip 提示
 **特别提醒：**
-在V3.13版本中 ，不要在您的数据库中添加多个视图，这将会导致您的菜单乱序。如需添加视图以便分类整理文章，建议另外新建一个视图单页，参考下文： [https://github.com/tangly1024/NotionNext/issues/1056](https://github.com/tangly1024/NotionNext/issues/1056)
+在V3.13版本中 ，不要在您的数据库中添加多个视图，这将会导致您的菜单乱序。如需添加视图以便分类整理文章，建议另外新建一个视图单页，参考下文： [https://github.com/bukeba/NotionNext/issues/1056](https://github.com/bukeba/NotionNext/issues/1056)
 :::
 
 在V4.0之后的新版本可以忽略此问题。
@@ -118,4 +118,4 @@ NotionNext为每一个页面都单独做了缓存，如果改动了菜单，即�
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notion-next-secondary-menu
+https://docs.bukeba.com/article/notion-next-secondary-menu

@@ -1,6 +1,6 @@
 # Nobelium 主题
 
-> 主题 ID：`nobelium` · 预览：[preview.tangly1024.com/?theme=nobelium](https://preview.tangly1024.com/?theme=nobelium)
+> 主题 ID：`nobelium` · 预览：[preview.bukeba.com/?theme=nobelium](https://preview.bukeba.com/?theme=nobelium)
 
 ## 主题预览
 
@@ -15,7 +15,7 @@
 - **定位**：致敬Nobelium,极简排版风格。
 - **适用场景**：极简博客
 - **配置前缀**：`NOBELIUM_*`（共 **11** 项，见下方配置表）
-- **在线预览**：[preview.tangly1024.com/?theme=nobelium](https://preview.tangly1024.com/?theme=nobelium)
+- **在线预览**：[preview.bukeba.com/?theme=nobelium](https://preview.bukeba.com/?theme=nobelium)
 
 ## 适用场景
 

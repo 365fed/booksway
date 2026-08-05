@@ -1,6 +1,6 @@
 # Fuwari 主题
 
-> 主题 ID：`fuwari` · 预览：[preview.tangly1024.com/?theme=fuwari](https://preview.tangly1024.com/?theme=fuwari)
+> 主题 ID：`fuwari` · 预览：[preview.bukeba.com/?theme=fuwari](https://preview.bukeba.com/?theme=fuwari)
 
 ## 主题预览
 
@@ -15,7 +15,7 @@
 - **定位**：日系轻量双栏与主题色板。
 - **适用场景**：日系双栏、色板定制
 - **配置前缀**：`FUWARI_*`（共 **50** 项，见下方配置表）
-- **在线预览**：[preview.tangly1024.com/?theme=fuwari](https://preview.tangly1024.com/?theme=fuwari)
+- **在线预览**：[preview.bukeba.com/?theme=fuwari](https://preview.bukeba.com/?theme=fuwari)
 
 ## 适用场景
 

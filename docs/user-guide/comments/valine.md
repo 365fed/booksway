@@ -1,5 +1,5 @@
 # Valine
-> 迁移自：[Valine](https://docs.tangly1024.com/article/notionnext-valine)
+> 迁移自：[Valine](https://docs.bukeba.com/article/notionnext-valine)
 > 发布日期：2022-5-27
 > 最后编辑：2024-1-31
 > 原栏目：📩 评论插件
@@ -102,7 +102,7 @@ valine没有自带后台，可以借助 [Valine-Admin](https://github.com/Desert
   - 可能是Vercel后台没有配置Valine/Waline的环境变量，配置后需要redeploy
 
 1. 评论出现 ‘Unexpected end of JSON input’
-配置的Waline地址有误，检查一下，参考此[issue](https://github.com/tangly1024/NotionNext/issues/308)的回答
+配置的Waline地址有误，检查一下，参考此[issue](https://github.com/bukeba/NotionNext/issues/308)的回答
 
 1. 评论出现错误提示 ‘fail to fetch’ 或者 ‘Network Error’
 可能是Vercel部署的Waline出现了跨域网络限制，按F12打开控制台，查看是否有打印“缺少CORS头“，相关的错误提示。
@@ -127,4 +127,4 @@ NotionNext添加Cusdis/Giscus/Gitalk/Utterance的步骤教程
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notionnext-valine
+https://docs.bukeba.com/article/notionnext-valine

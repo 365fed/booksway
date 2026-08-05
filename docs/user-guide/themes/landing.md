@@ -1,6 +1,6 @@
 # Landing 主题
 
-> 主题 ID：`landing` · 预览：[preview.tangly1024.com/?theme=landing](https://preview.tangly1024.com/?theme=landing)
+> 主题 ID：`landing` · 预览：[preview.bukeba.com/?theme=landing](https://preview.bukeba.com/?theme=landing)
 
 ## 主题预览
 
@@ -15,7 +15,7 @@
 - **定位**：单页着陆与分区滚动叙述。
 - **适用场景**：单页着陆分区
 - **配置前缀**：`LANDING_*`（共 **66** 项，见下方配置表）
-- **在线预览**：[preview.tangly1024.com/?theme=landing](https://preview.tangly1024.com/?theme=landing)
+- **在线预览**：[preview.bukeba.com/?theme=landing](https://preview.bukeba.com/?theme=landing)
 
 ## 适用场景
 

@@ -1,5 +1,5 @@
 # Ackee站点统计
-> 迁移自：[Ackee站点统计](https://docs.tangly1024.com/article/notion-next-ackee)
+> 迁移自：[Ackee站点统计](https://docs.bukeba.com/article/notion-next-ackee)
 > 发布日期：2023-8-1
 > 最后编辑：2024-1-31
 > 原栏目：📊 网站统计
@@ -114,4 +114,4 @@ Vercel 借助cloudFlare可以快速绑定解析自己的域名
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notion-next-ackee
+https://docs.bukeba.com/article/notion-next-ackee

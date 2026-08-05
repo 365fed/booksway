@@ -1,5 +1,5 @@
 # CloudFlarePage静态部署
-> 迁移自：[CloudFlarePage静态部署](https://docs.tangly1024.com/article/notion-next-cloud-flare)
+> 迁移自：[CloudFlarePage静态部署](https://docs.bukeba.com/article/notion-next-cloud-flare)
 > 发布日期：2023-3-13
 > 最后编辑：2026-5-10
 > 原栏目：🚀 安装部署
@@ -17,7 +17,7 @@ CloudFlare方案适用于站点访问量大，而文章更新不频繁的用户�
 
 部署效果预览
 
-[Notion Blog | 一个NotionNext搭建的博客](https://cloudflare.tangly1024.com/)
+[Notion Blog | 一个NotionNext搭建的博客](https://cloudflare.bukeba.com/)
 
 一个NotionNext搭建的博客
 
@@ -281,4 +281,4 @@ curl -X POST https://你的hook地址
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notion-next-cloud-flare
+https://docs.bukeba.com/article/notion-next-cloud-flare

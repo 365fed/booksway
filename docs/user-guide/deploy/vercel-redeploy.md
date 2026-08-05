@@ -1,5 +1,5 @@
 # Vercel快速重新部署项目
-> 迁移自：[Vercel快速重新部署项目](https://docs.tangly1024.com/article/vercel-redploy)
+> 迁移自：[Vercel快速重新部署项目](https://docs.bukeba.com/article/vercel-redploy)
 > 发布日期：2024-3-16
 > 最后编辑：2024-11-13
 > 原栏目：🚀 安装部署
@@ -70,4 +70,4 @@ hooks直译是“钩子”，在这里简单理解为vercel为项目创建一个
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/vercel-redploy
+https://docs.bukeba.com/article/vercel-redploy

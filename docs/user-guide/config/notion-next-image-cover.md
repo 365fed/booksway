@@ -1,5 +1,5 @@
 # 图片/封面管理
-> 迁移自：[图片/封面管理](https://docs.tangly1024.com/article/notion-next-image-cover)
+> 迁移自：[图片/封面管理](https://docs.bukeba.com/article/notion-next-image-cover)
 > 发布日期：2023-11-9
 > 最后编辑：2024-9-20
 > 原栏目：🛠 站点配置
@@ -118,4 +118,4 @@ NEXT_PUBLIC_RANDOM_IMAGE_NOT_REPLACE_TEXT=images.unsplash.com
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notion-next-image-cover
+https://docs.bukeba.com/article/notion-next-image-cover

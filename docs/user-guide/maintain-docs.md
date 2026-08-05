@@ -2,7 +2,7 @@
 
 > 第一次参与？先看 **[参与社区](./community-participate.md)**（提问、PR、维护者路径）。
 
-在线文档站：[https://notionnext.tangly1024.com](https://notionnext.tangly1024.com)
+在线文档站：[https://notionnext.bukeba.com](https://notionnext.bukeba.com)
 
 源码与 GitHub 上的 Markdown **一一对应**；改仓库 → 合并 `main` → 自动发布。
 
@@ -45,7 +45,7 @@ push main（docs/user-guide/ 等变更）
 
 ## 与旧版在线手册
 
-[docs.tangly1024.com](/user-guide/intro) 为历史 Notion 托管；**以 `docs/user-guide/` 与 notionnext.tangly1024.com 为准**。
+[docs.bukeba.com](/user-guide/intro) 为历史 Notion 托管；**以 `docs/user-guide/` 与 notionnext.bukeba.com 为准**。
 
 - slug 对照与旧站直达：[help/legacy-docs.md](./help/legacy-docs.md) · [ARTICLE_INDEX.md](./ARTICLE_INDEX.md)
 - 可选批量拉取旧文：`node scripts/migrate-legacy-docs.mjs --slug <slug>`（加 `--images` 下载图片到 `docs/public/legacy/`）

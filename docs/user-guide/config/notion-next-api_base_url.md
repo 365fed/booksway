@@ -1,5 +1,5 @@
 # API_BASE_URL
-> 迁移自：[API_BASE_URL](https://docs.tangly1024.com/article/notion-next-api_base_url)
+> 迁移自：[API_BASE_URL](https://docs.bukeba.com/article/notion-next-api_base_url)
 > 发布日期：2025-10-8
 > 最后编辑：2025-10-11
 > 原栏目：🛠 站点配置
@@ -8,7 +8,7 @@
 这是一个临时的配置，用于解决4.9.0→4.9.1版本由于notion接口变化产生站点无法编译的异常。并非每一个人都遇到，若你的站点能够正常部署，并且没有出现530异常，则可以忽略此文。
 :::
 
-相关提交与说明可参考：[https://github.com/tangly1024/NotionNext/pull/3632](https://github.com/tangly1024/NotionNext/pull/3632)
+相关提交与说明可参考：[https://github.com/bukeba/NotionNext/pull/3632](https://github.com/bukeba/NotionNext/pull/3632)
 
 
 ## 配置的作用
@@ -50,4 +50,4 @@ API_BASE_URL: process.env.API_BASE_URL || 'https://www.notion.so/api/v3', // API
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notion-next-api_base_url
+https://docs.bukeba.com/article/notion-next-api_base_url

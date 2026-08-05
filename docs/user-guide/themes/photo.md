@@ -1,6 +1,6 @@
 # Photo 主题
 
-> 主题 ID：`photo` · 预览：[preview.tangly1024.com/?theme=photo](https://preview.tangly1024.com/?theme=photo)
+> 主题 ID：`photo` · 预览：[preview.bukeba.com/?theme=photo](https://preview.bukeba.com/?theme=photo)
 
 ## 主题预览
 
@@ -15,7 +15,7 @@
 - **定位**：摄影作品与相册网格。
 - **适用场景**：摄影相册、侧栏推荐
 - **配置前缀**：`PHOTO_*`（共 **12** 项，见下方配置表）
-- **在线预览**：[preview.tangly1024.com/?theme=photo](https://preview.tangly1024.com/?theme=photo)
+- **在线预览**：[preview.bukeba.com/?theme=photo](https://preview.bukeba.com/?theme=photo)
 
 ## 适用场景
 

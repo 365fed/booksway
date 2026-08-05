@@ -48,6 +48,6 @@
 - [ ] 已更新 [ARTICLE_INDEX.md](https://github.com/notionnext-org/NotionNext/blob/main/docs/user-guide/ARTICLE_INDEX.md)（新 slug 或路径变更时）
 - [ ] 环境变量名与 `conf/*.config.js` 一致（若文档涉及配置）
 - [ ] 示例中无真实 Token、`.env`、私有 ID
-- [ ] 保留或更新了「原文链接」（若源自 docs.tangly1024.com）
+- [ ] 保留或更新了「原文链接」（若源自 docs.bukeba.com）
 
 文档说明（可选）：对应官方 slug / URL、是否与功能 PR 配套

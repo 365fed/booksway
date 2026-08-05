@@ -1,5 +1,5 @@
 # Waiting List
-> 迁移自：[Waiting List](https://docs.tangly1024.com/article/crowdfunding)
+> 迁移自：[Waiting List](https://docs.bukeba.com/article/crowdfunding)
 > 发布日期：2024-2-22
 > 最后编辑：2025-1-5
 > 原栏目：💪 支持我们
@@ -59,7 +59,7 @@ NotionNext轻量化地链接Notion的数据库，无感知地加入会员注册�
 
 #### Clerk体验
 
-目前还在测试方案阶段，例如我的官网[tangly1024.com ](https://www.tangly1024.com/)，已经接入了clerk方案，支持登录页面进行[注册](https://www.tangly1024.com/sign-up)和[登录](https://www.tangly1024.com/sign-in)交互（注册和登录页面若检测到用户已经登录则会自动跳转回首页）。另外，除了用页面交互，还支持弹框交互，点击右上角的Sign In 按钮即可体验注册与登录功能。
+目前还在测试方案阶段，例如我的官网[bukeba.com ](https://www.bukeba.com/)，已经接入了clerk方案，支持登录页面进行[注册](https://www.bukeba.com/sign-up)和[登录](https://www.bukeba.com/sign-in)交互（注册和登录页面若检测到用户已经登录则会自动跳转回首页）。另外，除了用页面交互，还支持弹框交互，点击右上角的Sign In 按钮即可体验注册与登录功能。
 
 ![clerk登录页面](/legacy/dbc422c15230cbed.png)
 
@@ -119,4 +119,4 @@ https://noteforms.com/forms/hgpdmq
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/crowdfunding
+https://docs.bukeba.com/article/crowdfunding

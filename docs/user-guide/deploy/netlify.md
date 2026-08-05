@@ -1,5 +1,5 @@
 # Netlify云函数部署
-> 迁移自：[Netlify云函数部署](https://docs.tangly1024.com/article/deploy-notion-next-with-netlify)
+> 迁移自：[Netlify云函数部署](https://docs.bukeba.com/article/deploy-notion-next-with-netlify)
 > 发布日期：2023-8-1
 > 最后编辑：2026-5-2
 > 原栏目：🚀 安装部署
@@ -44,4 +44,4 @@ Accelerate the time to deploy your websites and apps. Bring your integrations an
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/deploy-notion-next-with-netlify
+https://docs.bukeba.com/article/deploy-notion-next-with-netlify

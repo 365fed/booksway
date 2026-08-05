@@ -1,5 +1,5 @@
 # Hexo/Matery主题
-> 迁移自：[Hexo/Matery主题](https://docs.tangly1024.com/article/notion-next-greetings)
+> 迁移自：[Hexo/Matery主题](https://docs.bukeba.com/article/notion-next-greetings)
 > 发布日期：2023-6-27
 > 最后编辑：2024-9-12
 > 原栏目：⭐ 主题参数
@@ -168,4 +168,4 @@ GREETING_WORDS:  process.env.NEXT_PUBLIC_GREETING_WORDS || 'Hi，我是一个程
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notion-next-greetings
+https://docs.bukeba.com/article/notion-next-greetings

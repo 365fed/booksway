@@ -17,7 +17,7 @@
 
 NotionNext 文档站新增了「用户作品墙」：
 
-https://notionnext.tangly1024.com/user-guide/showcase
+https://notionnext.bukeba.com/user-guide/showcase
 
 如果你已经用 NotionNext 搭好了公开网站，欢迎在本帖回复你的站点。我们会把合适的站点整理到 Showcase 页面，让更多人看到社区成员的作品，也帮助新用户按真实案例选择主题。
 

@@ -1,6 +1,6 @@
 # ThoughtLite 主题
 
-> 主题 ID：`thoughtlite` · 预览：[preview.tangly1024.com/?theme=thoughtlite](https://preview.tangly1024.com/?theme=thoughtlite)
+> 主题 ID：`thoughtlite` · 预览：[preview.bukeba.com/?theme=thoughtlite](https://preview.bukeba.com/?theme=thoughtlite)
 
 ## 主题预览
 
@@ -15,7 +15,7 @@
 - **定位**：轻阅读向时间线与 Latest 卡片，单列列表与文章卡片排版。
 - **适用场景**：时间线首页、Latest 卡片
 - **配置前缀**：`THOUGHTLITE_*`（共 **18** 项，见下方配置表）
-- **在线预览**：[preview.tangly1024.com/?theme=thoughtlite](https://preview.tangly1024.com/?theme=thoughtlite)
+- **在线预览**：[preview.bukeba.com/?theme=thoughtlite](https://preview.bukeba.com/?theme=thoughtlite)
 
 ## 适用场景
 

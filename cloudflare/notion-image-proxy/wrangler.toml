@@ -3,5 +3,5 @@ main = "worker.mjs"
 compatibility_date = "2026-07-22"
 
 routes = [
-  { pattern = "cdn.tangly1024.com", custom_domain = true }
+  { pattern = "cdn.bukeba.com", custom_domain = true }
 ]

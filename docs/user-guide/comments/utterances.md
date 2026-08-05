@@ -1,5 +1,5 @@
 # Utterance
-> 迁移自：[Utterance](https://docs.tangly1024.com/article/notion-next-utterance)
+> 迁移自：[Utterance](https://docs.bukeba.com/article/notion-next-utterance)
 > 发布日期：2023-6-29
 > 最后编辑：2024-1-31
 > 原栏目：📩 评论插件
@@ -67,4 +67,4 @@ You can't perform that action at this time. You signed in with another tab or wi
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notion-next-utterance
+https://docs.bukeba.com/article/notion-next-utterance

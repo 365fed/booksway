@@ -5,12 +5,12 @@ body:
     attributes:
       value: |
         文档改进建议。若你已写好修改，可直接编辑 `docs/user-guide/` 并提 PR（页底「在 GitHub 上维护此页」）。
-        维护流程见 [maintain-docs.md](https://notionnext.tangly1024.com/user-guide/maintain-docs)。
+        维护流程见 [maintain-docs.md](https://notionnext.bukeba.com/user-guide/maintain-docs)。
   - type: textarea
     id: page
     attributes:
       label: 相关页面或 slug
-      placeholder: 例如 /user-guide/deploy-vercel 或 docs.tangly1024.com/article/...
+      placeholder: 例如 /user-guide/deploy-vercel 或 docs.bukeba.com/article/...
     validations:
       required: true
   - type: textarea

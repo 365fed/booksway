@@ -1,5 +1,5 @@
 # NotionNext将单页隐藏
-> 迁移自：[NotionNext将单页隐藏](https://docs.tangly1024.com/article/notionnext-hidden-page)
+> 迁移自：[NotionNext将单页隐藏](https://docs.bukeba.com/article/notionnext-hidden-page)
 > 发布日期：2022-6-17
 > 最后编辑：2024-9-12
 > 原栏目：✒ Notion教程
@@ -29,7 +29,7 @@ NotionNext 将 `status` 作为公开入口的基础开关。官方约定如下�
 
 ## 示例
 
-下图中的隐藏单页`slug` 值为`example-3`，因此在浏览器中访问链接：[https://preview.tangly1024.com/example-3](https://preview.tangly1024.com/example-3) ， 即可展示此页面内容。
+下图中的隐藏单页`slug` 值为`example-3`，因此在浏览器中访问链接：[https://preview.bukeba.com/example-3](https://preview.bukeba.com/example-3) ， 即可展示此页面内容。
 
 ![Untitled](/legacy/0f8b077321cda22d.png)
 
@@ -108,4 +108,4 @@ Notion是很灵活的，若只是想要为某个词句做简短的扩充说明�
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notionnext-hidden-page
+https://docs.bukeba.com/article/notionnext-hidden-page

@@ -1,5 +1,5 @@
 # Notion快捷键大全
-> 迁移自：[Notion快捷键大全](https://docs.tangly1024.com/article/notion-short-key)
+> 迁移自：[Notion快捷键大全](https://docs.bukeba.com/article/notion-short-key)
 > 发布日期：2021-7-2
 > 最后编辑：2024-9-4
 > 原栏目：✒ Notion教程
@@ -331,4 +331,4 @@ Note: You'll see cmd/ctrl used a lot below. This indicates command on Mac and co
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notion-short-key
+https://docs.bukeba.com/article/notion-short-key

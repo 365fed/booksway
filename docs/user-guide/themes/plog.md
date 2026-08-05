@@ -1,6 +1,6 @@
 # Plog 主题
 
-> 主题 ID：`plog` · 预览：[preview.tangly1024.com/?theme=plog](https://preview.tangly1024.com/?theme=plog)
+> 主题 ID：`plog` · 预览：[preview.bukeba.com/?theme=plog](https://preview.bukeba.com/?theme=plog)
 
 ## 主题预览
 
@@ -15,7 +15,7 @@
 - **定位**：偏图片与轻量图文化展示。
 - **适用场景**：图文轻博客
 - **配置前缀**：`NOBELIUM_*` / `PLOG_*`（共 **7** 项，见下方配置表）
-- **在线预览**：[preview.tangly1024.com/?theme=plog](https://preview.tangly1024.com/?theme=plog)
+- **在线预览**：[preview.bukeba.com/?theme=plog](https://preview.bukeba.com/?theme=plog)
 
 ## 适用场景
 

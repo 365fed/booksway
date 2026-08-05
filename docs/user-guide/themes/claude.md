@@ -1,6 +1,6 @@
 # Claude 主题
 
-> 主题 ID：`claude` · 预览：[preview.tangly1024.com/?theme=claude](https://preview.tangly1024.com/?theme=claude)
+> 主题 ID：`claude` · 预览：[preview.bukeba.com/?theme=claude](https://preview.bukeba.com/?theme=claude)
 
 ## 主题预览
 
@@ -15,7 +15,7 @@
 - **定位**：类 Claude Docs 的文档与终端氛围。
 - **适用场景**：文档风、GitHub 式首页
 - **配置前缀**：`CLAUDE_*`（共 **23** 项，见下方配置表）
-- **在线预览**：[preview.tangly1024.com/?theme=claude](https://preview.tangly1024.com/?theme=claude)
+- **在线预览**：[preview.bukeba.com/?theme=claude](https://preview.bukeba.com/?theme=claude)
 
 ## 适用场景
 

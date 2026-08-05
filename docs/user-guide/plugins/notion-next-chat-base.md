@@ -1,5 +1,5 @@
 # AI聊天机器人-ChatBase
-> 迁移自：[AI聊天机器人-ChatBase](https://docs.tangly1024.com/article/notion-next-chat-base)
+> 迁移自：[AI聊天机器人-ChatBase](https://docs.bukeba.com/article/notion-next-chat-base)
 > 发布日期：2023-7-18
 > 最后编辑：2024-9-7
 > 原栏目：🧷 外部扩展
@@ -23,7 +23,7 @@ Chatbase.co 是**一款为网站构建自定义ChatGPT 界面的工具**，用�
 
 ## 配置方法
 
-用环境变量或修改代码的方式，在[blog.config.js](https://github.com/tangly1024/NotionNext/blob/48cb3ee6779c117bcb6b61e5cb89fbd1c541a115/blog.config.js#L156)中添加您的chatbase-id即可。
+用环境变量或修改代码的方式，在[blog.config.js](https://github.com/bukeba/NotionNext/blob/48cb3ee6779c117bcb6b61e5cb89fbd1c541a115/blog.config.js#L156)中添加您的chatbase-id即可。
 
 ```YAML
 //   ********挂件组件相关********
@@ -106,4 +106,4 @@ Build an AI chatbot from your knowledge base and add it to your website.
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notion-next-chat-base
+https://docs.bukeba.com/article/notion-next-chat-base

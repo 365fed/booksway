@@ -1,5 +1,5 @@
 # NotionNext用配置调整样式
-> 迁移自：[NotionNext用配置调整样式](https://docs.tangly1024.com/article/custom-your-style)
+> 迁移自：[NotionNext用配置调整样式](https://docs.bukeba.com/article/custom-your-style)
 > 发布日期：2024-3-2
 > 最后编辑：2024-9-29
 > 原栏目：⌨ 开发教程
@@ -123,4 +123,4 @@ NotionConfig指的是您的Notion笔记数据库中，一个类型为CONFIG、�
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/custom-your-style
+https://docs.bukeba.com/article/custom-your-style

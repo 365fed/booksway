@@ -1,6 +1,6 @@
 # Matery 主题
 
-> 主题 ID：`matery` · 预览：[preview.tangly1024.com/?theme=matery](https://preview.tangly1024.com/?theme=matery)
+> 主题 ID：`matery` · 预览：[preview.bukeba.com/?theme=matery](https://preview.bukeba.com/?theme=matery)
 
 ## 主题预览
 
@@ -15,7 +15,7 @@
 - **定位**：卡片式列表与 Material 质感组件。
 - **适用场景**：Material 卡片封面列表
 - **配置前缀**：`MATERY_*`（共 **26** 项，见下方配置表）
-- **在线预览**：[preview.tangly1024.com/?theme=matery](https://preview.tangly1024.com/?theme=matery)
+- **在线预览**：[preview.bukeba.com/?theme=matery](https://preview.bukeba.com/?theme=matery)
 
 ## 适用场景
 

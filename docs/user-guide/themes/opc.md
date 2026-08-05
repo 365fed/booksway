@@ -1,6 +1,6 @@
 # Opc 主题
 
-> 主题 ID：`opc` · 预览：[preview.tangly1024.com/?theme=opc](https://preview.tangly1024.com/?theme=opc)
+> 主题 ID：`opc` · 预览：[preview.bukeba.com/?theme=opc](https://preview.bukeba.com/?theme=opc)
 
 ## 主题预览
 

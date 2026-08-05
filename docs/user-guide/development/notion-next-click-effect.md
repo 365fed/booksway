@@ -1,5 +1,5 @@
 # 实操案例-自定义鼠标特效
-> 迁移自：[实操案例-自定义鼠标特效](https://docs.tangly1024.com/article/notion-next-click-effect)
+> 迁移自：[实操案例-自定义鼠标特效](https://docs.bukeba.com/article/notion-next-click-effect)
 > 发布日期：2023-8-14
 > 最后编辑：2024-9-12
 > 原栏目：⌨ 开发教程
@@ -113,4 +113,4 @@ fnTextPopup(['❤富强❤', '❤民主❤', '❤文明❤', '❤和谐❤', '�
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notion-next-click-effect
+https://docs.bukeba.com/article/notion-next-click-effect

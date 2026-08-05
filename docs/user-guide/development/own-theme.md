@@ -1,5 +1,5 @@
 # NotionNext自建主题
-> 迁移自：[NotionNext自建主题](https://docs.tangly1024.com/article/your-own-theme)
+> 迁移自：[NotionNext自建主题](https://docs.bukeba.com/article/your-own-theme)
 > 发布日期：2023-7-6
 > 最后编辑：2024-9-12
 > 原栏目：⌨ 开发教程
@@ -160,4 +160,4 @@ const LayoutArchive = ()⇒ &lt;LayoutBase&gt;空白页面&lt;/LayoutBase&gt;
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/your-own-theme
+https://docs.bukeba.com/article/your-own-theme

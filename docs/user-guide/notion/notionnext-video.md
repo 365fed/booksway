@@ -1,5 +1,5 @@
 # Notion嵌入B站视频
-> 迁移自：[Notion嵌入B站视频](https://docs.tangly1024.com/article/notionnext-video)
+> 迁移自：[Notion嵌入B站视频](https://docs.bukeba.com/article/notionnext-video)
 > 发布日期：2024-3-4
 > 最后编辑：2024-9-4
 > 原栏目：✒ Notion教程
@@ -41,4 +41,4 @@ https://player.bilibili.com/player.html?aid=1700928875&bvid=BV1aK42187hF&cid=144
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notionnext-video
+https://docs.bukeba.com/article/notionnext-video

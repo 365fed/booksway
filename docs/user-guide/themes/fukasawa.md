@@ -1,6 +1,6 @@
 # Fukasawa 主题
 
-> 主题 ID：`fukasawa` · 预览：[preview.tangly1024.com/?theme=fukasawa](https://preview.tangly1024.com/?theme=fukasawa)
+> 主题 ID：`fukasawa` · 预览：[preview.bukeba.com/?theme=fukasawa](https://preview.bukeba.com/?theme=fukasawa)
 
 ## 主题预览
 
@@ -15,7 +15,7 @@
 - **定位**：深川式多栏与侧边信息密度较高。
 - **适用场景**：多栏高密度信息
 - **配置前缀**：`FUKASAWA_*`（共 **12** 项，见下方配置表）
-- **在线预览**：[preview.tangly1024.com/?theme=fukasawa](https://preview.tangly1024.com/?theme=fukasawa)
+- **在线预览**：[preview.bukeba.com/?theme=fukasawa](https://preview.bukeba.com/?theme=fukasawa)
 
 ## 适用场景
 

@@ -1,5 +1,5 @@
 # Artalk
-> 迁移自：[Artalk](https://docs.tangly1024.com/article/notion-next-artalk)
+> 迁移自：[Artalk](https://docs.bukeba.com/article/notion-next-artalk)
 > 发布日期：2023-8-8
 > 最后编辑：2024-1-31
 > 原栏目：📩 评论插件
@@ -110,4 +110,4 @@ docker exec -it artalk artalk admin
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notion-next-artalk
+https://docs.bukeba.com/article/notion-next-artalk

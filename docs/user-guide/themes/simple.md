@@ -1,5 +1,5 @@
 # Simple主题
-> 迁移自：[Simple主题](https://docs.tangly1024.com/article/notionnext-simple)
+> 迁移自：[Simple主题](https://docs.bukeba.com/article/notionnext-simple)
 > 发布日期：2024-3-19
 > 最后编辑：2025-7-7
 > 原栏目：⭐ 主题参数
@@ -84,4 +84,4 @@ SIMPLE_LOGO_DESCRIPTION: process.env.NEXT_PUBLIC_THEME_SIMPLE_LOGO_DESCRIPTION |
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notionnext-simple
+https://docs.bukeba.com/article/notionnext-simple

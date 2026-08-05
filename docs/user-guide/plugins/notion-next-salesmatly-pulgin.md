@@ -1,5 +1,5 @@
 # SaleSmartly聊天插件
-> 迁移自：[SaleSmartly聊天插件](https://docs.tangly1024.com/article/notion-next-salesmatly-pulgin)
+> 迁移自：[SaleSmartly聊天插件](https://docs.bukeba.com/article/notion-next-salesmatly-pulgin)
 > 发布日期：2024-5-10
 > 最后编辑：2024-9-21
 > 原栏目：🧷 外部扩展
@@ -103,4 +103,4 @@ SaleSmartly的免费版上线是一千个会话，即超过一千位客户咨询
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notion-next-salesmatly-pulgin
+https://docs.bukeba.com/article/notion-next-salesmatly-pulgin

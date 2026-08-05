@@ -1,5 +1,5 @@
 # Twikoo
-> 迁移自：[Twikoo](https://docs.tangly1024.com/article/notionnext-twikoo)
+> 迁移自：[Twikoo](https://docs.bukeba.com/article/notionnext-twikoo)
 > 发布日期：2022-12-20
 > 最后编辑：2024-7-31
 > 原栏目：📩 评论插件
@@ -155,7 +155,7 @@ Create Git Repository To ensure you can easily update your project after deployi
 
 上述部署完成后，您将获得一个vercel的twikoo后台页面，在vercel后台的domain中可以看到平台为您分配的默认域名，您可以选择像我一样自定义绑定域名，详情参考《vercel绑定自定义域名》这一章节
 
-[https://twikoo.tangly1024.com/](https://twikoo.tangly1024.com/)
+[https://twikoo.bukeba.com/](https://twikoo.bukeba.com/)
 
 
 ## 配置在NotionNext
@@ -205,4 +205,4 @@ COMMENT_TWIKOO_COUNT_ENABLE:
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notionnext-twikoo
+https://docs.bukeba.com/article/notionnext-twikoo

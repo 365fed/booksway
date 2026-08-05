@@ -1,5 +1,5 @@
 # 网站SEO推广
-> 迁移自：[网站SEO推广](https://docs.tangly1024.com/article/seo-course)
+> 迁移自：[网站SEO推广](https://docs.bukeba.com/article/seo-course)
 > 发布日期：2024-4-30
 > 最后编辑：2024-9-12
 > 原栏目：🔊 运营教程
@@ -32,10 +32,10 @@ NotionNext项目可以解决绝大多数的技术层面问题，而对于网站�
 通知：2024-05-26 起，此付费课程改为完全免费赠送🙈。
 :::
 
-[谷歌SEO学习指南 | 谷歌SEO培训指南](https://seo.tangly1024.com/about)
+[谷歌SEO学习指南 | 谷歌SEO培训指南](https://seo.bukeba.com/about)
 
 可用链接/about访问，不会在菜单栏显示
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/seo-course
+https://docs.bukeba.com/article/seo-course

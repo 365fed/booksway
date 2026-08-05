@@ -1,5 +1,5 @@
 # 站点图标favicon与Github图床
-> 迁移自：[站点图标favicon与Github图床](https://docs.tangly1024.com/article/use-github-as-image-hosting-service)
+> 迁移自：[站点图标favicon与Github图床](https://docs.bukeba.com/article/use-github-as-image-hosting-service)
 > 发布日期：2024-5-13
 > 最后编辑：2024-9-22
 > 原栏目：🛠 站点配置
@@ -97,4 +97,4 @@ Repository name可以随意填写，注意要选择为Public类型
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/use-github-as-image-hosting-service
+https://docs.bukeba.com/article/use-github-as-image-hosting-service

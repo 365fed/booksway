@@ -1,5 +1,5 @@
 # 4EverLand部署NotionNext-Web3.0方案
-> 迁移自：[4EverLand部署NotionNext-Web3.0方案](https://docs.tangly1024.com/article/notionnext-deploy-web3.0-4everland)
+> 迁移自：[4EverLand部署NotionNext-Web3.0方案](https://docs.bukeba.com/article/notionnext-deploy-web3.0-4everland)
 > 发布日期：2023-6-21
 > 最后编辑：2024-11-13
 > 原栏目：🚀 安装部署
@@ -84,7 +84,7 @@ Web3.0的核心是区块链技术，它是一种去中心化的分布式数据�
 
 ![Untitled](/legacy/6bcd237d664a84dd.png)
 
-添加你的域名：例如 [4everland.tangly1024.com](http://4everland.tangly1024.com/)，点击右侧Add
+添加你的域名：例如 [4everland.bukeba.com](http://4everland.bukeba.com/)，点击右侧Add
 
 ![Untitled](/legacy/0865b0d05f722da5.png)
 
@@ -99,7 +99,7 @@ Web3.0的核心是区块链技术，它是一种去中心化的分布式数据�
 
 ### 3.3访问效果
 
-[Tangly Blog | 记录过程，分享心得](https://4everland.tangly1024.com/)
+[Tangly Blog | 记录过程，分享心得](https://4everland.bukeba.com/)
 
 记录过程，分享心得
 
@@ -114,4 +114,4 @@ Web3.0的核心是区块链技术，它是一种去中心化的分布式数据�
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notionnext-deploy-web3.0-4everland
+https://docs.bukeba.com/article/notionnext-deploy-web3.0-4everland

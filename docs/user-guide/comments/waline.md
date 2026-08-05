@@ -1,5 +1,5 @@
 # Waline
-> 迁移自：[Waline](https://docs.tangly1024.com/article/notion-next-waline)
+> 迁移自：[Waline](https://docs.bukeba.com/article/notion-next-waline)
 > 发布日期：2023-6-29
 > 最后编辑：2026-5-12
 > 原栏目：📩 评论插件
@@ -51,12 +51,12 @@ Valine和Waline两个插件均要借助LeanCloud提供的云函数，云数据�
 我不确定是否你也会遇到相同的问题：
 用vercel部署的评论插件，在电脑端进行评论时会提示“网络请求错误，由于CORS跨域错误，不允许请求waline服务” 。查看Vercedl后台日志则显示“响应超时”；同时，在手机端评论也提示错误“ Failed to fetch”。
 产生的原因有两种
-    1. URL配置错误，[https://waline.tangly1024.com](https://waline.tangly1024.com/) 结尾不能有斜杆。
+    1. URL配置错误，[https://waline.bukeba.com](https://waline.bukeba.com/) 结尾不能有斜杆。
     1. `Vercel`或`域名服务商`的问题导致触发了跨域限制。
 ![Untitled](/legacy/460fce1846c6e668.png)
 
 </details>
-  - 1. 点**[此链接](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ftangly1024%2Fwaline&demo-title=WalineForNotionNext)**一键部署waline。
+  - 1. 点**[此链接](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fbukeba%2Fwaline&demo-title=WalineForNotionNext)**一键部署waline。
 <details>
 <summary>2. 配置环境变量 （点击展开）</summary>
 
@@ -67,7 +67,7 @@ Valine和Waline两个插件均要借助LeanCloud提供的云函数，云数据�
 ![Untitled](/legacy/476b942890765788.png)
 ::: tip 提示
 注意：
-如果你使用 LeanCloud 国内版，请额外配置 `LEAN_SERVER` 环境变量，值为你绑定好的域名。否则可能会提示错误：”`serverURL option is required for apps from CN region`“，[详见此ISSUE](https://github.com/tangly1024/NotionNext/issues/308#issuecomment-1157330084)。
+如果你使用 LeanCloud 国内版，请额外配置 `LEAN_SERVER` 环境变量，值为你绑定好的域名。否则可能会提示错误：”`serverURL option is required for apps from CN region`“，[详见此ISSUE](https://github.com/bukeba/NotionNext/issues/308#issuecomment-1157330084)。
     - 最后要`redeploy`这个项目使配置生效。
 ![Untitled](/legacy/4ef8e75bf93a31c6.png)
 :::
@@ -115,7 +115,7 @@ Valine和Waline两个插件均要借助LeanCloud提供的云函数，云数据�
 
 ### 部署完成
 
-Waline本身是一个独立的评论页面，可以嵌入到任何网页中，例如我部署好的waline服务，映射为二级域名后地址如下：`https://waline.tangly1024.com` 。
+Waline本身是一个独立的评论页面，可以嵌入到任何网页中，例如我部署好的waline服务，映射为二级域名后地址如下：`https://waline.bukeba.com` 。
 
 
 #### Waline其他自定义配置
@@ -151,4 +151,4 @@ Waline的网络请求稳定性不如Valine，而且Valine-Admin支持在LeanClou
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notion-next-waline
+https://docs.bukeba.com/article/notion-next-waline

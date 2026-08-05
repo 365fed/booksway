@@ -1,5 +1,5 @@
 # Mailchimp邮件订阅
-> 迁移自：[Mailchimp邮件订阅](https://docs.tangly1024.com/article/notion-next-mailchimp)
+> 迁移自：[Mailchimp邮件订阅](https://docs.bukeba.com/article/notion-next-mailchimp)
 > 发布日期：2023-7-4
 > 最后编辑：2024-9-12
 > 原栏目：🔊 运营教程
@@ -58,4 +58,4 @@ MailChimp 为您提供一个免费帐户，最多可拥有 2000 个电子邮件�
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notion-next-mailchimp
+https://docs.bukeba.com/article/notion-next-mailchimp

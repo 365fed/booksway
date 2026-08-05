@@ -1,5 +1,5 @@
 # 字体字号
-> 迁移自：[字体字号](https://docs.tangly1024.com/article/notion-next-web-font)
+> 迁移自：[字体字号](https://docs.bukeba.com/article/notion-next-web-font)
 > 发布日期：2023-7-30
 > 最后编辑：2024-6-17
 > 原栏目：🛠 站点配置
@@ -227,4 +227,4 @@ fontSize: {
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notion-next-web-font
+https://docs.bukeba.com/article/notion-next-web-font

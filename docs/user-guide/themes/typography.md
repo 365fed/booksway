@@ -1,5 +1,5 @@
 # Typography主题
-> 迁移自：[Typography主题](https://docs.tangly1024.com/article/notion-next-typography)
+> 迁移自：[Typography主题](https://docs.bukeba.com/article/notion-next-typography)
 > 发布日期：2025-7-7
 > 最后编辑：2026-4-30
 > 原栏目：⭐ 主题参数
@@ -21,7 +21,7 @@
 
 ![Typography 主题预览](/images/themes-preview/typography.webp)
 
-点此预览： [https://preview.tangly1024.com/en?theme=typography](https://preview.tangly1024.com/en?theme=typography)
+点此预览： [https://preview.bukeba.com/en?theme=typography](https://preview.bukeba.com/en?theme=typography)
 
 ![image.png](/legacy/b20c15283f5bfc1e.png)
 
@@ -68,4 +68,4 @@ export default CONFIG
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notion-next-typography
+https://docs.bukeba.com/article/notion-next-typography

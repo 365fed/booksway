@@ -1,6 +1,6 @@
 # Hexo 主题
 
-> 主题 ID：`hexo` · 预览：[preview.tangly1024.com/?theme=hexo](https://preview.tangly1024.com/?theme=hexo)
+> 主题 ID：`hexo` · 预览：[preview.bukeba.com/?theme=hexo](https://preview.bukeba.com/?theme=hexo)
 
 ## 主题预览
 
@@ -15,7 +15,7 @@
 - **定位**：类 Hexo 经典博客结构与侧边栏。
 - **适用场景**：类 Hexo 双栏博客
 - **配置前缀**：`HEXO_*`（共 **29** 项，见下方配置表）
-- **在线预览**：[preview.tangly1024.com/?theme=hexo](https://preview.tangly1024.com/?theme=hexo)
+- **在线预览**：[preview.bukeba.com/?theme=hexo](https://preview.bukeba.com/?theme=hexo)
 
 ## 适用场景
 

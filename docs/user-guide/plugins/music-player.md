@@ -1,5 +1,5 @@
 # 音乐播放器
-> 迁移自：[音乐播放器](https://docs.tangly1024.com/article/notion-next-plugin-music-player)
+> 迁移自：[音乐播放器](https://docs.bukeba.com/article/notion-next-plugin-music-player)
 > 发布日期：2023-8-4
 > 最后编辑：2024-9-7
 > 原栏目：🧷 外部扩展
@@ -44,4 +44,4 @@
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notion-next-plugin-music-player
+https://docs.bukeba.com/article/notion-next-plugin-music-player

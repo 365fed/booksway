@@ -1,5 +1,5 @@
 # Gitbook主题
-> 迁移自：[Gitbook主题](https://docs.tangly1024.com/article/notionnext-gitbook)
+> 迁移自：[Gitbook主题](https://docs.bukeba.com/article/notionnext-gitbook)
 > 发布日期：2023-6-27
 > 最后编辑：2024-9-12
 > 原栏目：⭐ 主题参数
@@ -74,4 +74,4 @@ export default CONFIG
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notionnext-gitbook
+https://docs.bukeba.com/article/notionnext-gitbook

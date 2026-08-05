@@ -1,5 +1,5 @@
 # 关于站点缓存
-> 迁移自：[关于站点缓存](https://docs.tangly1024.com/article/cache-of-notion-next)
+> 迁移自：[关于站点缓存](https://docs.bukeba.com/article/cache-of-notion-next)
 > 发布日期：2024-9-6
 > 最后编辑：2024-9-6
 > 原栏目：🛠 站点配置
@@ -69,4 +69,4 @@
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/cache-of-notion-next
+https://docs.bukeba.com/article/cache-of-notion-next

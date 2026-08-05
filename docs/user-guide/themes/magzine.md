@@ -1,5 +1,5 @@
 # Magzine主题
-> 迁移自：[Magzine主题](https://docs.tangly1024.com/article/notion-next-magzine)
+> 迁移自：[Magzine主题](https://docs.bukeba.com/article/notion-next-magzine)
 > 发布日期：2024-9-14
 > 最后编辑：2024-9-14
 > 原栏目：⭐ 主题参数
@@ -150,7 +150,7 @@ const CONFIG = {
     {
       name: '友情链接',
       menus: [
-        { title: 'tangly博客', href: 'https://blog.tangly1024.com' },
+        { title: 'tangly博客', href: 'https://blog.bukeba.com' },
         { title: '尘世の歌', href: 'https://chenge.ink' },
         { title: 'LUCEN', href: 'https://www.lucenczz.top/' }
       ]
@@ -158,7 +158,7 @@ const CONFIG = {
     {
       name: '开发者',
       menus: [
-        { title: 'Github', href: 'https://github.com/tangly1024/NotionNext' },
+        { title: 'Github', href: 'https://github.com/bukeba/NotionNext' },
         { title: '关于作者', href: '/about' }
       ]
     },
@@ -175,7 +175,7 @@ const CONFIG = {
     {
       name: '解决方案',
       menus: [
-        { title: '建站工具', href: 'https://www.tangly1024.com/' },
+        { title: '建站工具', href: 'https://www.bukeba.com/' },
         { title: 'NotionNext', href: '/user-guide/intro' }
       ]
     }
@@ -201,7 +201,7 @@ export default CONFIG
     {
       name: '友情链接',
       menus: [
-        { title: 'tangly博客', href: 'https://blog.tangly1024.com' },
+        { title: 'tangly博客', href: 'https://blog.bukeba.com' },
         { title: '尘世の歌', href: 'https://chenge.ink' },
         { title: 'LUCEN', href: 'https://www.lucenczz.top/' }
       ]
@@ -209,7 +209,7 @@ export default CONFIG
     {
       name: '开发者',
       menus: [
-        { title: 'Github', href: 'https://github.com/tangly1024/NotionNext' },
+        { title: 'Github', href: 'https://github.com/bukeba/NotionNext' },
         { title: '关于作者', href: '/about' }
       ]
     },
@@ -226,7 +226,7 @@ export default CONFIG
     {
       name: '解决方案',
       menus: [
-        { title: '建站工具', href: 'https://www.tangly1024.com/' },
+        { title: '建站工具', href: 'https://www.bukeba.com/' },
         { title: 'NotionNext', href: '/user-guide/intro' }
       ]
     }
@@ -253,11 +253,11 @@ export default CONFIG
         "menus": [
             {
                 "title": "Tangly博客",
-                "href": "https://blog.tangly1024.com"
+                "href": "https://blog.bukeba.com"
             },
             {
                 "title": "NotionNext",
-                "href": "https://tangly1024.com/"
+                "href": "https://bukeba.com/"
             }
         ]
     },
@@ -266,7 +266,7 @@ export default CONFIG
         "menus": [
             {
                 "title": "Github",
-                "href": "https://github.com/tangly1024/NotionNext"
+                "href": "https://github.com/bukeba/NotionNext"
             },
             {
                 "title": "开发帮助",
@@ -274,15 +274,15 @@ export default CONFIG
             },
             {
                 "title": "功能反馈",
-                "href": "https://github.com/tangly1024/NotionNext/issues/new/choose"
+                "href": "https://github.com/bukeba/NotionNext/issues/new/choose"
             },
             {
                 "title": "技术讨论",
-                "href": "https://github.com/tangly1024/NotionNext/discussions"
+                "href": "https://github.com/bukeba/NotionNext/discussions"
             },
             {
                 "title": "关于作者",
-                "href": "https://blog.tangly1024.com/about"
+                "href": "https://blog.bukeba.com/about"
             }
         ]
     },
@@ -307,7 +307,7 @@ export default CONFIG
             },
             {
                 "title": "SEO推广",
-                "href": "https://seo.tangly1024.com/"
+                "href": "https://seo.bukeba.com/"
             }
         ]
     },
@@ -316,7 +316,7 @@ export default CONFIG
         "menus": [
             {
                 "title": "建站工具",
-                "href": "https://www.tangly1024.com/"
+                "href": "https://www.bukeba.com/"
             },
             {
                 "title": "NotionNext",
@@ -344,4 +344,4 @@ export default CONFIG
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notion-next-magzine
+https://docs.bukeba.com/article/notion-next-magzine

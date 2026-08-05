@@ -1,5 +1,5 @@
 # Notion进阶教程
-> 迁移自：[Notion进阶教程](https://docs.tangly1024.com/article/notion-tutorial)
+> 迁移自：[Notion进阶教程](https://docs.bukeba.com/article/notion-tutorial)
 > 发布日期：2024-9-4
 > 最后编辑：2024-9-12
 > 原栏目：✒ Notion教程
@@ -134,4 +134,4 @@ _包揽 Notion 的全部学习周期，一套课程就够了_
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notion-tutorial
+https://docs.bukeba.com/article/notion-tutorial

@@ -1,6 +1,6 @@
 ﻿# NotionNext 开发者文档
 
-> 本目录 **不** 进入 [notionnext.tangly1024.com](https://notionnext.tangly1024.com)。  
+> 本目录 **不** 进入 [notionnext.bukeba.com](https://notionnext.bukeba.com)。  
 > 站长向教程见 [`../user-guide/`](../user-guide/) · 在线站说明见 [`../README.md`](../README.md)。
 
 中文 | [English](./README.en.md)

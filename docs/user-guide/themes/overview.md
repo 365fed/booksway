@@ -1,5 +1,5 @@
 # 主题功能说明
-> 迁移自：[主题功能说明](https://docs.tangly1024.com/article/notion-next-themes)
+> 迁移自：[主题功能说明](https://docs.bukeba.com/article/notion-next-themes)
 > 发布日期：2023-6-27
 > 最后编辑：2026-5-2
 > 原栏目：⭐ 主题参数
@@ -14,11 +14,11 @@ NotionNext会扫描/themes目录下的文件夹，并根据文件夹的名字生
 
 ## 主题预览
 
-内置主题以 GitHub 仓库 `[themes/](https://github.com/tangly1024/NotionNext/tree/main/themes)` 目录为准（会随版本迭代增减）。当前主线常见主题包括：`simple`（**新建仓库默认**，见 `blog.config.js` 的 `THEME`）、`next`、`medium`、`hexo`、`fukasawa`、`gitbook`、`matery`、`heo`、`nobelium`、`plog`、`landing`、`nav`、`starter`、`commerce`、`magzine`、`photo`、`movie`、`game`、`fuwari`、`claude`、`proxio`、`typography`、`example` 等。
+内置主题以 GitHub 仓库 `[themes/](https://github.com/bukeba/NotionNext/tree/main/themes)` 目录为准（会随版本迭代增减）。当前主线常见主题包括：`simple`（**新建仓库默认**，见 `blog.config.js` 的 `THEME`）、`next`、`medium`、`hexo`、`fukasawa`、`gitbook`、`matery`、`heo`、`nobelium`、`plog`、`landing`、`nav`、`starter`、`commerce`、`magzine`、`photo`、`movie`、`game`、`fuwari`、`claude`、`proxio`、`typography`、`example` 等。
 
 可按用途粗选：GitBook 偏文档；Nav 偏导航聚合；Landing / Starter 偏落地页；Plog、Photo 偏图集；更多说明见各主题子文档或源码中对应 `config.js`。
 
-点击 [预览站](https://preview.tangly1024.com/) 左下角挂件可在线切换主题。
+点击 [预览站](https://preview.bukeba.com/) 左下角挂件可在线切换主题。
 
 ![image.png](/legacy/3b8fc39f232c4fa7.png)
 ![image.png](/legacy/93ce46e019651e0a.png)
@@ -84,7 +84,7 @@ THEME: process.env.NEXT_PUBLIC_THEME || 'simple', // 与当前主仓库默认值
 
 ### 在线切换主题
 
-您可以像我的博客站一样，在页面上开启一个实时切换主题的按钮，以供预览；开启方式：在主仓库 `[conf/widget.config.js](https://github.com/tangly1024/NotionNext/blob/main/conf/widget.config.js)` 中调整（或在部署后台配置环境变量 `NEXT_PUBLIC_THEME_SWITCH`）：
+您可以像我的博客站一样，在页面上开启一个实时切换主题的按钮，以供预览；开启方式：在主仓库 `[conf/widget.config.js](https://github.com/bukeba/NotionNext/blob/main/conf/widget.config.js)` 中调整（或在部署后台配置环境变量 `NEXT_PUBLIC_THEME_SWITCH`）：
 
 ```JavaScript
 THEME_SWITCH: process.env.NEXT_PUBLIC_THEME_SWITCH || false, // 是否显示切换主题按钮；预览站常开便于体验
@@ -136,4 +136,4 @@ THEME_SWITCH: process.env.NEXT_PUBLIC_THEME_SWITCH || false, // 是否显示切�
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notion-next-themes
+https://docs.bukeba.com/article/notion-next-themes

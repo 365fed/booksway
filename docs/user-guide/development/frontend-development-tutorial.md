@@ -1,5 +1,5 @@
 # 小白学习-前端开发入门到精通
-> 迁移自：[小白学习-前端开发入门到精通](https://docs.tangly1024.com/article/frontend-development-tutorial)
+> 迁移自：[小白学习-前端开发入门到精通](https://docs.bukeba.com/article/frontend-development-tutorial)
 > 发布日期：2024-9-12
 > 最后编辑：2024-12-21
 > 原栏目：⌨ 开发教程
@@ -90,4 +90,4 @@ fly63前端教程网提供了HTML、CSS、Javascript、Vue、python等各种编�
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/frontend-development-tutorial
+https://docs.bukeba.com/article/frontend-development-tutorial

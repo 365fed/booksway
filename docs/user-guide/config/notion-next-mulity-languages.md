@@ -1,5 +1,5 @@
 # 多数据库：多语言/多板块
-> 迁移自：[多数据库：多语言/多板块](https://docs.tangly1024.com/article/notion-next-mulity-languages)
+> 迁移自：[多数据库：多语言/多板块](https://docs.bukeba.com/article/notion-next-mulity-languages)
 > 发布日期：2024-4-12
 > 最后编辑：2024-6-18
 > 原栏目：🛠 站点配置
@@ -33,8 +33,8 @@ xxxxxxx**,en:xxxxx,zh:xxxxx,blog:xxxxxx,product:xxxxx,docs:xxxxxx**
 ### 效果预览
 
 - 根据url路径不同访问到不同的数据库；例如
-[https://preview.tangly1024.com/](https://preview.tangly1024.com/)是中文站；
-[https://preview.tangly1024.com/en](https://preview.tangly1024.com/en#google_vignette)是英文站 ， 两个站点的数据库是独立隔离的。
+[https://preview.bukeba.com/](https://preview.bukeba.com/)是中文站；
+[https://preview.bukeba.com/en](https://preview.bukeba.com/en#google_vignette)是英文站 ， 两个站点的数据库是独立隔离的。
 ![Untitled](/legacy/33ab3cc22d1a940c.png)
 ![Untitled](/legacy/0287f598b771d396.png)
 
@@ -119,7 +119,7 @@ NOTION_PAGE_ID = 'xxJPxx,en:xxENxx,zh:xxZHxx,es:xxESxx'
 
 但是多语言的菜单处理会比较特殊，不能使用相对路径，例如  /en , /zh , /jp 这种作为菜单的slug，而是要用全路径。
 
-例如默认中文主页是 [https://preview.tangly1024.com/](https://preview.tangly1024.com/) ， 则要切换成英文，则需要创建一个菜单，slug是 [https://preview.tangly1024.com/en](https://preview.tangly1024.com/en)。 否则会切换异常。
+例如默认中文主页是 [https://preview.bukeba.com/](https://preview.bukeba.com/) ， 则要切换成英文，则需要创建一个菜单，slug是 [https://preview.bukeba.com/en](https://preview.bukeba.com/en)。 否则会切换异常。
 
 
 ## 其它
@@ -145,4 +145,4 @@ NOTION_PAGE_ID = 'xxJPxx,en:xxENxx,zh:xxZHxx,es:xxESxx'
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notion-next-mulity-languages
+https://docs.bukeba.com/article/notion-next-mulity-languages

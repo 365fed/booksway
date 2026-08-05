@@ -1,14 +1,14 @@
 const CONFIG = {
   OPC_NAME: 'Tangly · 个人公司', // 顶部名称
   OPC_KICKER: '一人公司 / 独立开发者', // 首屏标签
-  OPC_TITLE: 'Tangly1024', // 主标题
+  OPC_TITLE: 'bukeba', // 主标题
   OPC_SUBTITLE: '一人公司的 AI 任务流水线实验室', // 副标题
   OPC_DESCRIPTION:
     '我把 AI 当作能力入口，而不是模拟公司部门开会；用任务文件、产物路径和验收标准，运行内容、产品与交易实验。', // 主介绍
   OPC_PRIMARY_TEXT: '查看 NotionNext', // 主按钮文字
-  OPC_PRIMARY_URL: 'https://preview.tangly1024.com', // 主按钮链接
+  OPC_PRIMARY_URL: 'https://preview.bukeba.com', // 主按钮链接
   OPC_SECONDARY_TEXT: '阅读长期记录', // 副按钮文字
-  OPC_SECONDARY_URL: 'https://blog.tangly1024.com', // 副按钮链接
+  OPC_SECONDARY_URL: 'https://blog.bukeba.com', // 副按钮链接
   OPC_STATUS_TEXT: '持续公开构建', // 状态标签
   OPC_CARD_TITLE: '可验收的 AI 生产流水线', // 工作流卡片标题
   OPC_CARD_DESCRIPTION:

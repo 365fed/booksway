@@ -1,6 +1,6 @@
 # Next 主题
 
-> 主题 ID：`next` · 预览：[preview.tangly1024.com/?theme=next](https://preview.tangly1024.com/?theme=next)
+> 主题 ID：`next` · 预览：[preview.bukeba.com/?theme=next](https://preview.bukeba.com/?theme=next)
 
 ## 主题预览
 
@@ -15,7 +15,7 @@
 - **定位**：经典双栏布局，右侧栏与移动端悬浮目录。
 - **适用场景**：经典双栏 + 移动 TOC
 - **配置前缀**：`NEXT_*`（共 **29** 项，见下方配置表）
-- **在线预览**：[preview.tangly1024.com/?theme=next](https://preview.tangly1024.com/?theme=next)
+- **在线预览**：[preview.bukeba.com/?theme=next](https://preview.bukeba.com/?theme=next)
 
 ## 适用场景
 

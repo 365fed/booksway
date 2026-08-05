@@ -1,5 +1,5 @@
 # Vercel静态部署NotionNext
-> 迁移自：[Vercel静态部署NotionNext](https://docs.tangly1024.com/article/vercel-deploy-notion-next-static)
+> 迁移自：[Vercel静态部署NotionNext](https://docs.bukeba.com/article/vercel-deploy-notion-next-static)
 > 发布日期：2024-5-10
 > 最后编辑：2024-5-10
 > 原栏目：🚀 安装部署
@@ -43,4 +43,4 @@ Vercel的个人免费版足够普通的博客网站使用，但如果你的网�
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/vercel-deploy-notion-next-static
+https://docs.bukeba.com/article/vercel-deploy-notion-next-static

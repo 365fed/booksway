@@ -1,5 +1,5 @@
 # 站点统计相关
-> 迁移自：[站点统计相关](https://docs.tangly1024.com/article/notion-next-analytics)
+> 迁移自：[站点统计相关](https://docs.bukeba.com/article/notion-next-analytics)
 > 发布日期：2023-8-4
 > 最后编辑：2024-4-28
 > 原栏目：📊 网站统计
@@ -77,4 +77,4 @@ ANALYTICS_GOOGLE_ID: process.env.NEXT_PUBLIC_ANALYTICS_GOOGLE_ID || '', // 谷�
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notion-next-analytics
+https://docs.bukeba.com/article/notion-next-analytics

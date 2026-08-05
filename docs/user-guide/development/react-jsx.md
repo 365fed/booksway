@@ -1,5 +1,5 @@
 # 基础教程-简单理解React和JSX
-> 迁移自：[基础教程-简单理解React和JSX](https://docs.tangly1024.com/article/react-jsx)
+> 迁移自：[基础教程-简单理解React和JSX](https://docs.bukeba.com/article/react-jsx)
 > 发布日期：2023-7-9
 > 最后编辑：2025-4-25
 > 原栏目：⌨ 开发教程
@@ -158,4 +158,4 @@ React拥有庞大的生态系统，包括大量的第三方库和工具，可以
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/react-jsx
+https://docs.bukeba.com/article/react-jsx

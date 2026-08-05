@@ -53,7 +53,7 @@ event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-**mail@tangly1024.com** or via a private message to [@tangly1024](https://github.com/tangly1024)
+**mail@bukeba.com** or via a private message to [@bukeba](https://github.com/bukeba)
 on GitHub. You may also open a confidential report through GitHub if the situation
 involves repository access abuse.
 

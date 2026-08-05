@@ -1,5 +1,5 @@
 # AI聊天机器人-Coze
-> 迁移自：[AI聊天机器人-Coze](https://docs.tangly1024.com/article/notion-next-coze)
+> 迁移自：[AI聊天机器人-Coze](https://docs.bukeba.com/article/notion-next-coze)
 > 发布日期：2024-9-20
 > 最后编辑：2024-9-30
 > 原栏目：🧷 外部扩展
@@ -103,7 +103,7 @@ Coze is a next-generation AI application and chatbot developing platform for eve
 
 ::: tip 提示
 若插件太多，Bot可能会忙不过来，这里有一些比较进阶的知识，即AI工作流；
-它支持用图形拖拽、低代码编程的方式，让AI根据用户意图，自动选择合适的插件和流程进行工作；关于工作流，此文不做赘述。感兴趣可以参考这篇《[FastGPT工作流](https://blog.tangly1024.com/article/build-an-enterprise-AI-knowledge-base-using-FastGPT)》进行配置，FastGPT与Coze基本操作大同小异。
+它支持用图形拖拽、低代码编程的方式，让AI根据用户意图，自动选择合适的插件和流程进行工作；关于工作流，此文不做赘述。感兴趣可以参考这篇《[FastGPT工作流](https://blog.bukeba.com/article/build-an-enterprise-AI-knowledge-base-using-FastGPT)》进行配置，FastGPT与Coze基本操作大同小异。
 ![image.png](/legacy/350c05113d2bf451.png)
 :::
 
@@ -216,4 +216,4 @@ coze主页点击上方知识库标签，并点击右上角的创建知识库。
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notion-next-coze
+https://docs.bukeba.com/article/notion-next-coze

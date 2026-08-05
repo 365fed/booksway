@@ -1,6 +1,6 @@
 # Medium 主题
 
-> 主题 ID：`medium` · 预览：[preview.tangly1024.com/?theme=medium](https://preview.tangly1024.com/?theme=medium)
+> 主题 ID：`medium` · 预览：[preview.bukeba.com/?theme=medium](https://preview.bukeba.com/?theme=medium)
 
 ## 主题预览
 
@@ -15,7 +15,7 @@ Medium 风格阅读体验与排版。
 - **定位**：Medium 风格阅读体验与排版。
 - **适用场景**：Medium 风阅读列表
 - **配置前缀**：`MEDIUM_*`（共 **14** 项，见下方配置表）
-- **在线预览**：[preview.tangly1024.com/?theme=medium](https://preview.tangly1024.com/?theme=medium)
+- **在线预览**：[preview.bukeba.com/?theme=medium](https://preview.bukeba.com/?theme=medium)
 
 ## 适用场景
 

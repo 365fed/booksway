@@ -9,7 +9,7 @@
 
 | GitHub | 职责 |
 | --- | --- |
-| [@tangly1024](https://github.com/tangly1024) | 项目方向、组织与仓库资产、安全与法律风险、架构与发版守门 |
+| [@bukeba](https://github.com/bukeba) | 项目方向、组织与仓库资产、安全与法律风险、架构与发版守门 |
 
 ## 核心维护者（Core Maintainers）
 

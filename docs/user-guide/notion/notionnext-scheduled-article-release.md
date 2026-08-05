@@ -1,5 +1,5 @@
 # NotionNext定时发布文章
-> 迁移自：[NotionNext定时发布文章](https://docs.tangly1024.com/article/notionnext-scheduled-article-release)
+> 迁移自：[NotionNext定时发布文章](https://docs.bukeba.com/article/notionnext-scheduled-article-release)
 > 发布日期：2025-1-5
 > 最后编辑：2025-1-5
 > 原栏目：✒ Notion教程
@@ -42,4 +42,4 @@
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notionnext-scheduled-article-release
+https://docs.bukeba.com/article/notionnext-scheduled-article-release

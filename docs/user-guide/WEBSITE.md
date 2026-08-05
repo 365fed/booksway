@@ -1,6 +1,6 @@
 ﻿# 文档静态网站
 
-教程与开发文档通过 **VitePress** 构建，发布到 [notionnext.tangly1024.com](https://notionnext.tangly1024.com)。
+教程与开发文档通过 **VitePress** 构建，发布到 [notionnext.bukeba.com](https://notionnext.bukeba.com)。
 
 ## 本地命令
 

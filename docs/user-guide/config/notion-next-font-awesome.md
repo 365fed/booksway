@@ -1,5 +1,5 @@
 # 图标库-FontAwesome
-> 迁移自：[图标库-FontAwesome](https://docs.tangly1024.com/article/notion-next-font-awesome)
+> 迁移自：[图标库-FontAwesome](https://docs.bukeba.com/article/notion-next-font-awesome)
 > 发布日期：2023-8-2
 > 最后编辑：2025-4-12
 > 原栏目：🛠 站点配置
@@ -55,4 +55,4 @@ Search all of Font Awesome's free and Open Source icons. Then use them wherever 
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notion-next-font-awesome
+https://docs.bukeba.com/article/notion-next-font-awesome

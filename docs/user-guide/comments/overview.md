@@ -1,5 +1,5 @@
 # 评论插件说明
-> 迁移自：[评论插件说明](https://docs.tangly1024.com/article/notion-next-comment-plugin)
+> 迁移自：[评论插件说明](https://docs.bukeba.com/article/notion-next-comment-plugin)
 > 发布日期：2024-7-11
 > 最后编辑：2024-7-11
 > 原栏目：📩 评论插件
@@ -68,7 +68,7 @@ NotionNext支持多种评论插件，通常只需要准备好对应的评论功�
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notion-next-comment-plugin
+https://docs.bukeba.com/article/notion-next-comment-plugin
 
 ## NotionComments
 

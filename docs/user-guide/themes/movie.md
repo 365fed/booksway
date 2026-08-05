@@ -1,5 +1,5 @@
 # Movie主题
-> 迁移自：[Movie主题](https://docs.tangly1024.com/article/notionnext-movie)
+> 迁移自：[Movie主题](https://docs.bukeba.com/article/notionnext-movie)
 > 发布日期：2024-3-17
 > 最后编辑：2024-9-12
 > 原栏目：⭐ 主题参数
@@ -9,7 +9,7 @@
 
 ![Movie 主题预览](/images/themes-preview/movie.webp)
 
-可以搭建影视网站的主题。在线预览：[https://movie.tangly1024.com/](https://movie.tangly1024.com/) 。
+可以搭建影视网站的主题。在线预览：[https://movie.bukeba.com/](https://movie.bukeba.com/) 。
 
 对应示例数据库：
 
@@ -84,9 +84,9 @@ NotionNext项目内置了一个视频播放器，代码在/public/dplayer.htm中
 
 #### 示例
 
-例如： 站点是 https://[movie.tangly1024.com](http://movie.tangly1024.com) ,  视频地址是 `[https://yzzy.play-cdn2.com/20220407/8233_5a57bac6/index.m3u8](https://yzzy.play-cdn2.com/20220407/8233_5a57bac6/index.m3u8)`
+例如： 站点是 https://[movie.bukeba.com](http://movie.bukeba.com) ,  视频地址是 `[https://yzzy.play-cdn2.com/20220407/8233_5a57bac6/index.m3u8](https://yzzy.play-cdn2.com/20220407/8233_5a57bac6/index.m3u8)`
 
-此时，只要将这个地址嵌入Notion即可播放 [https://movie.tangly1024.com/dplayer.htm?n=https%3A%2F%2Fyzzy.play-cdn2.com%2F20220407%2F8233_5a57bac6%2Findex.m3u8](https://movie.tangly1024.com/dplayer.htm?n=https%3A%2F%2Fyzzy.play-cdn2.com%2F20220407%2F8233_5a57bac6%2Findex.m3u8)。
+此时，只要将这个地址嵌入Notion即可播放 [https://movie.bukeba.com/dplayer.htm?n=https%3A%2F%2Fyzzy.play-cdn2.com%2F20220407%2F8233_5a57bac6%2Findex.m3u8](https://movie.bukeba.com/dplayer.htm?n=https%3A%2F%2Fyzzy.play-cdn2.com%2F20220407%2F8233_5a57bac6%2Findex.m3u8)。
 
 ![Untitled](/legacy/1981d04882f53412.png)
 
@@ -99,4 +99,4 @@ NotionNext项目内置了一个视频播放器，代码在/public/dplayer.htm中
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notionnext-movie
+https://docs.bukeba.com/article/notionnext-movie

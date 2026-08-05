@@ -1,6 +1,6 @@
 # 旧版在线手册入口
 
-NotionNext 曾使用 Notion 托管的 **[docs.tangly1024.com](https://docs.tangly1024.com)**。自 **4.9.x** 起，官方教程以本仓库 Markdown 与 **[notionnext.tangly1024.com](https://notionnext.tangly1024.com)** 为准。
+NotionNext 曾使用 Notion 托管的 **[docs.bukeba.com](https://docs.bukeba.com)**。自 **4.9.x** 起，官方教程以本仓库 Markdown 与 **[notionnext.bukeba.com](https://notionnext.bukeba.com)** 为准。
 
 本页保留**旧站文章 slug → 新文档路径**对照，便于书签、搜索引擎与社区链接平滑过渡。带截图的完整旧版排版可继续打开旧站原文。
 
@@ -8,8 +8,8 @@ NotionNext 曾使用 Notion 托管的 **[docs.tangly1024.com](https://docs.tangl
 
 | 用途 | 链接 |
 | --- | --- |
-| **新版在线站** | [notionnext.tangly1024.com](https://notionnext.tangly1024.com) |
-| **旧版源站首页** | [docs.tangly1024.com/about](https://docs.tangly1024.com/about) |
+| **新版在线站** | [notionnext.bukeba.com](https://notionnext.bukeba.com) |
+| **旧版源站首页** | [docs.bukeba.com/about](https://docs.bukeba.com/about) |
 | **完整迁移索引表** | [ARTICLE_INDEX.md](../ARTICLE_INDEX.md) |
 | **迁移进度说明** | [MIGRATION_STATUS.md](../MIGRATION_STATUS.md) |
 | **GitHub 浏览 docs** | [notionnext-org/NotionNext/tree/main/docs](https://github.com/notionnext-org/NotionNext/tree/main/docs) |
@@ -18,7 +18,7 @@ NotionNext 曾使用 Notion 托管的 **[docs.tangly1024.com](https://docs.tangl
 ## 旧站 URL 格式
 
 ```text
-https://docs.tangly1024.com/article/<slug>
+https://docs.bukeba.com/article/<slug>
 ```
 
 将 `<slug>` 在下表中查找对应的新路径；若无本地全文，请打开旧站链接（含历史截图）。
@@ -27,14 +27,14 @@ https://docs.tangly1024.com/article/<slug>
 
 | slug | 新文档 | 旧站原文 |
 | --- | --- | --- |
-| `about` | [介绍](../intro.md) | [打开](https://docs.tangly1024.com/article/about) |
-| `vercel-deploy-notion-next` | [Vercel 部署](../deploy-vercel.md) | [打开](https://docs.tangly1024.com/article/vercel-deploy-notion-next) |
-| `how-to-config-notion-next` | [配置站点](../config-site.md) | [打开](https://docs.tangly1024.com/article/how-to-config-notion-next) |
-| `notion-next-themes` | [主题总览](../themes/overview.md) | [打开](https://docs.tangly1024.com/article/notion-next-themes) |
-| `notionnext-twikoo` | [Twikoo](../comments/twikoo.md) | [打开](https://docs.tangly1024.com/article/notionnext-twikoo) |
-| `example-1` | [Notion 文章示例](../notion/example-article.md) | [打开](https://docs.tangly1024.com/article/example-1) |
-| `latest` | [最新版本](../changelog/latest.md) | [打开](https://docs.tangly1024.com/article/latest) |
-| `v4.0` | [V4 历史](../changelog/v4-history.md) | [打开](https://docs.tangly1024.com/article/v4.0) |
+| `about` | [介绍](../intro.md) | [打开](https://docs.bukeba.com/article/about) |
+| `vercel-deploy-notion-next` | [Vercel 部署](../deploy-vercel.md) | [打开](https://docs.bukeba.com/article/vercel-deploy-notion-next) |
+| `how-to-config-notion-next` | [配置站点](../config-site.md) | [打开](https://docs.bukeba.com/article/how-to-config-notion-next) |
+| `notion-next-themes` | [主题总览](../themes/overview.md) | [打开](https://docs.bukeba.com/article/notion-next-themes) |
+| `notionnext-twikoo` | [Twikoo](../comments/twikoo.md) | [打开](https://docs.bukeba.com/article/notionnext-twikoo) |
+| `example-1` | [Notion 文章示例](../notion/example-article.md) | [打开](https://docs.bukeba.com/article/example-1) |
+| `latest` | [最新版本](../changelog/latest.md) | [打开](https://docs.bukeba.com/article/latest) |
+| `v4.0` | [V4 历史](../changelog/v4-history.md) | [打开](https://docs.bukeba.com/article/v4.0) |
 
 **完整列表**（含评论、统计、部署、开发等全部 slug）见 **[ARTICLE_INDEX.md](../ARTICLE_INDEX.md)**。
 

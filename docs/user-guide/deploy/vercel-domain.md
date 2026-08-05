@@ -1,5 +1,5 @@
 # Vercel绑定自定义域名
-> 迁移自：[Vercel绑定自定义域名](https://docs.tangly1024.com/article/vercel-domain)
+> 迁移自：[Vercel绑定自定义域名](https://docs.bukeba.com/article/vercel-domain)
 > 发布日期：2022-2-17
 > 最后编辑：2025-12-26
 > 原栏目：🚀 安装部署
@@ -42,7 +42,7 @@ NameSilo优点：
 Namesilo 域名本身价格就比较便宜，COM 域名 $8.99/年，除了一个一美元优惠码，基本没有其他大幅度促销活动，域名续费和首年购买价格一致。
 Namesilo 价格表：[Domain Pricing](https://www.namesilo.com/pricing.php?rid=fe5a225yc)
 ::: tip 提示
-填入我的优惠码 `tangly1024a` ** **可以享受 `**1$**`的 优惠。
+填入我的优惠码 `bukebaa` ** **可以享受 `**1$**`的 优惠。
 
 ![Untitled](/legacy/8fa25c54fde6c2d9.png)
 :::
@@ -132,7 +132,7 @@ CloudFlare具有Worker.js、全球免费CDN、SSL证书，网站DDoS防火墙等
 ![Untitled](/legacy/a695a6086d3c877b.png)
 
 - 按Vercel提示，添加一条CNAME记录值为Vercel的CNAME服务器：`cname-china.vercel-dns.com` ;（vercel默认推荐`cname.vercel-dns.com` ，但这个cname在大陆访问比较慢）
-下图是我的配置，这里举例使用的是二级域名 [hexo.tangly1024.com](http://hexo.tangly1024.com)
+下图是我的配置，这里举例使用的是二级域名 [hexo.bukeba.com](http://hexo.bukeba.com)
 ![Untitled](/legacy/545b4f0b07e11d0d.png)
 ![Untitled](/legacy/a75074b0c20cb0dd.png)
 ::: tip 提示
@@ -153,7 +153,7 @@ CloudFlare具有Worker.js、全球免费CDN、SSL证书，网站DDoS防火墙等
 
 ![image](/legacy/34a1cff175109f9e.png)
 
-> 接下来就可以通过设置的域名（如 [https://hexo.tangly1024.com](https://hexo.tangly1024.com) ）访问我们的网站了
+> 接下来就可以通过设置的域名（如 [https://hexo.bukeba.com](https://hexo.bukeba.com) ）访问我们的网站了
 
 
 ### 关于根域名的配置
@@ -174,7 +174,7 @@ CloudFlare具有Worker.js、全球免费CDN、SSL证书，网站DDoS防火墙等
 
 ![Untitled](/legacy/0e277245ea2470c4.png)
 
-添加根域名的时候，vercel会提示选择以下三种方案，针对个人博客而言，为了让域名简洁，我推荐选择第一种方案，  将www开头的二级域名也重定向到根域名tangly1024.com。
+添加根域名的时候，vercel会提示选择以下三种方案，针对个人博客而言，为了让域名简洁，我推荐选择第一种方案，  将www开头的二级域名也重定向到根域名bukeba.com。
 
 ![Untitled](/legacy/4dabe69fa62572f6.png)
 
@@ -191,4 +191,4 @@ CloudFlare具有Worker.js、全球免费CDN、SSL证书，网站DDoS防火墙等
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/vercel-domain
+https://docs.bukeba.com/article/vercel-domain

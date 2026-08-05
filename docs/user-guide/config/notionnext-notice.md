@@ -1,5 +1,5 @@
 # 网站公告
-> 迁移自：[网站公告](https://docs.tangly1024.com/article/notionnext-notice)
+> 迁移自：[网站公告](https://docs.bukeba.com/article/notionnext-notice)
 > 发布日期：2023-5-25
 > 最后编辑：2024-1-31
 > 原栏目：🛠 站点配置
@@ -69,4 +69,4 @@ NotionNext 3.10以后的版本开始支持网站公告，欢迎更新体验。
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notionnext-notice
+https://docs.bukeba.com/article/notionnext-notice

@@ -1,6 +1,6 @@
 # 官方文档迁移索引
 
-源站：https://docs.tangly1024.com
+源站：https://docs.bukeba.com
 
 本表由 `node scripts/import-legacy-docs.mjs` 从旧站导航和文章数据生成。正文已迁移到 `docs/user-guide/`，每篇文末保留旧站原文链接。
 

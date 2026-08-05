@@ -1,5 +1,5 @@
 # Notion文字添加超链接
-> 迁移自：[Notion文字添加超链接](https://docs.tangly1024.com/article/how-to-add-link-for-text-in-notion)
+> 迁移自：[Notion文字添加超链接](https://docs.bukeba.com/article/how-to-add-link-for-text-in-notion)
 > 发布日期：2022-6-16
 > 最后编辑：2024-9-4
 > 原栏目：✒ Notion教程
@@ -13,16 +13,16 @@ Notion支持在文本上添加链接，从而实现点击文字跳转到任意�
 点击跳转到我的另一篇文章 → 《‣》
 :::
 
-本篇将介绍如何使用内链和外链，在SEO中[内链和外链都是很重要的指标](https://seo.tangly1024.com/%E4%BA%8C%E3%80%81%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%8E%9F%E7%90%86/seo-backlinks)。
+本篇将介绍如何使用内链和外链，在SEO中[内链和外链都是很重要的指标](https://seo.bukeba.com/%E4%BA%8C%E3%80%81%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%8E%9F%E7%90%86/seo-backlinks)。
 
 
 ## Notion内链
 
 ::: tip 提示
-在 [v4.5.2](https://github.com/tangly1024/NotionNext/releases/tag/v4.5.2) 之前的版本中，添加博客文章的内链，需要在网页中打开你的博客并复制完整url，再粘贴到你的notion中。
+在 [v4.5.2](https://github.com/bukeba/NotionNext/releases/tag/v4.5.2) 之前的版本中，添加博客文章的内链，需要在网页中打开你的博客并复制完整url，再粘贴到你的notion中。
 :::
 
-例如：浏览器中复制 [https://blog.tangly1024.com/article/the-ai-era](https://blog.tangly1024.com/article/the-ai-era) ，然后将URL粘贴在Notion的文字上，从而实现文字点击跳转 →《[文字链接](https://blog.tangly1024.com/article/the-ai-era)》 。
+例如：浏览器中复制 [https://blog.bukeba.com/article/the-ai-era](https://blog.bukeba.com/article/the-ai-era) ，然后将URL粘贴在Notion的文字上，从而实现文字点击跳转 →《[文字链接](https://blog.bukeba.com/article/the-ai-era)》 。
 
 在4.5.2之后支持自动将Notion内部的Page链接转换成文章链接.
 
@@ -106,4 +106,4 @@ Notion支持在文本上添加链接，从而实现点击文字跳转到任意�
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/how-to-add-link-for-text-in-notion
+https://docs.bukeba.com/article/how-to-add-link-for-text-in-notion

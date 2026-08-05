@@ -1,5 +1,5 @@
 # 搜索引擎收录
-> 迁移自：[搜索引擎收录](https://docs.tangly1024.com/article/notion-next-search-engine-index)
+> 迁移自：[搜索引擎收录](https://docs.bukeba.com/article/notion-next-search-engine-index)
 > 发布日期：2024-3-18
 > 最后编辑：2024-5-9
 > 原栏目：📊 网站统计
@@ -74,7 +74,7 @@
 
 NotionNext搭建的网站自带一个站点地图 地址是您的 域名后加 /sitemap.xml
 
-例如域名是  https://blog.tangly1024.com, 则站点地图的地址 https://blog.tangly1024.com/sitemap.xml
+例如域名是  https://blog.bukeba.com, 则站点地图的地址 https://blog.bukeba.com/sitemap.xml
 
 ![Untitled](/legacy/2ba42bb2c6d133ff.png)
 
@@ -104,7 +104,7 @@ Google 会提示 未收录Google，此时我们点击请求编入索引即可
 
 这里涉及到SEO的知识，您可以参阅以下文章了解更多：
 
-[SEO怎么做，谷歌SEO优化教程，快速增加你的站点访问量 | Tangly的学习笔记](https://blog.tangly1024.com/article/seo)
+[SEO怎么做，谷歌SEO优化教程，快速增加你的站点访问量 | Tangly的学习笔记](https://blog.bukeba.com/article/seo)
 
 在这个以流量为王的时代，无数的流量媒体平台如谷歌、YouTube、Facebook、Bing、抖音、小红书和知乎等，为每个人提供了实现网络事业、走向财富自由的机会。
 
@@ -132,4 +132,4 @@ NotionNext如何在&lt;head&gt;标签中注入元素呢？由于很多第三方�
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notion-next-search-engine-index
+https://docs.bukeba.com/article/notion-next-search-engine-index

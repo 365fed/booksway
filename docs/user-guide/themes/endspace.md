@@ -1,6 +1,6 @@
 # Endspace 主题
 
-> 主题 ID：`endspace` · 预览：[preview.tangly1024.com/?theme=endspace](https://preview.tangly1024.com/?theme=endspace)
+> 主题 ID：`endspace` · 预览：[preview.bukeba.com/?theme=endspace](https://preview.bukeba.com/?theme=endspace)
 
 ## 主题预览
 
@@ -15,7 +15,7 @@
 - **定位**：轻工业终末风，侧栏导航、悬浮控件与加载动画。
 - **适用场景**：工业风加载与侧栏
 - **配置前缀**：`ENDSPACE_*`（共 **26** 项，见下方配置表）
-- **在线预览**：[preview.tangly1024.com/?theme=endspace](https://preview.tangly1024.com/?theme=endspace)
+- **在线预览**：[preview.bukeba.com/?theme=endspace](https://preview.bukeba.com/?theme=endspace)
 
 ## 适用场景
 

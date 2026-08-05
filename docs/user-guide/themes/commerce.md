@@ -1,5 +1,5 @@
 # Commerce主题
-> 迁移自：[Commerce主题](https://docs.tangly1024.com/article/notionnext-commerce)
+> 迁移自：[Commerce主题](https://docs.bukeba.com/article/notionnext-commerce)
 > 发布日期：2024-3-24
 > 最后编辑：2024-9-12
 > 原栏目：⭐ 主题参数
@@ -72,4 +72,4 @@ export default CONFIG
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/notionnext-commerce
+https://docs.bukeba.com/article/notionnext-commerce

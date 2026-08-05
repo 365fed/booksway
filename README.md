@@ -9,15 +9,15 @@
 继续在 Notion 写作，一键发布为博客、作品集、知识库、导航站或产品官网。
 
 <p>
-  <a href="https://preview.tangly1024.com/">在线预览</a>
+  <a href="https://preview.bukeba.com/">在线预览</a>
   ·
-  <a href="https://notionnext.tangly1024.com/user-guide/start-here">开始搭建</a>
+  <a href="https://notionnext.bukeba.com/user-guide/start-here">开始搭建</a>
   ·
-  <a href="https://notionnext.tangly1024.com/user-guide/themes/THEMES_CATALOG">主题全览</a>
+  <a href="https://notionnext.bukeba.com/user-guide/themes/THEMES_CATALOG">主题全览</a>
   ·
-  <a href="https://notionnext.tangly1024.com/user-guide/showcase">用户作品</a>
+  <a href="https://notionnext.bukeba.com/user-guide/showcase">用户作品</a>
   ·
-  <a href="https://notionnext.tangly1024.com/">文档站</a>
+  <a href="https://notionnext.bukeba.com/">文档站</a>
   ·
   <a href="https://github.com/notionnext-org/NotionNext/discussions">讨论区</a>
 </p>
@@ -53,11 +53,11 @@ NotionNext 是一个基于 **Next.js + Notion API** 的开源站点系统。你�
 
 | 目标 | 推荐入口 | 适合人群 |
 | --- | --- | --- |
-| 搭个人博客 | [从这里开始](https://notionnext.tangly1024.com/user-guide/start-here) | 内容创作者、独立开发者、学生 |
-| 做作品集或个人品牌站 | [按场景选主题](https://notionnext.tangly1024.com/user-guide/themes/THEMES_CATALOG#按场景选主题) | 设计师、摄影师、自由职业者 |
-| 做产品官网或 SaaS 落地页 | [Starter / Landing / Proxio](https://notionnext.tangly1024.com/user-guide/themes/THEMES_CATALOG#按场景选主题) | 创业者、独立产品、小团队 |
-| 做知识库或文档站 | [GitBook / Claude](https://notionnext.tangly1024.com/user-guide/themes/THEMES_CATALOG#按场景选主题) | 开源项目、课程作者、团队文档 |
-| 做导航站或资源聚合 | [Nav 主题](https://notionnext.tangly1024.com/user-guide/themes/nav) | 资源整理者、社群运营者 |
+| 搭个人博客 | [从这里开始](https://notionnext.bukeba.com/user-guide/start-here) | 内容创作者、独立开发者、学生 |
+| 做作品集或个人品牌站 | [按场景选主题](https://notionnext.bukeba.com/user-guide/themes/THEMES_CATALOG#按场景选主题) | 设计师、摄影师、自由职业者 |
+| 做产品官网或 SaaS 落地页 | [Starter / Landing / Proxio](https://notionnext.bukeba.com/user-guide/themes/THEMES_CATALOG#按场景选主题) | 创业者、独立产品、小团队 |
+| 做知识库或文档站 | [GitBook / Claude](https://notionnext.bukeba.com/user-guide/themes/THEMES_CATALOG#按场景选主题) | 开源项目、课程作者、团队文档 |
+| 做导航站或资源聚合 | [Nav 主题](https://notionnext.bukeba.com/user-guide/themes/nav) | 资源整理者、社群运营者 |
 
 ## 为什么选择 NotionNext？
 
@@ -70,19 +70,19 @@ NotionNext 是一个基于 **Next.js + Notion API** 的开源站点系统。你�
 
 ## 20 分钟部署路线
 
-1. 打开 [主题预览站](https://preview.tangly1024.com/) 看最终效果。
+1. 打开 [主题预览站](https://preview.bukeba.com/) 看最终效果。
 2. 复制 NotionNext 官方 Notion 模板。
 3. Fork 本仓库到自己的 GitHub 账号。
-4. 使用 [Vercel 部署 NotionNext](https://notionnext.tangly1024.com/user-guide/deploy-vercel)。
+4. 使用 [Vercel 部署 NotionNext](https://notionnext.bukeba.com/user-guide/deploy-vercel)。
 5. 在环境变量中填写 Notion 页面 ID 等配置。
 6. 部署成功后，按场景选择主题并补齐域名、评论、统计、搜索等功能。
 
-新手建议直接从文档站的 [从这里开始](https://notionnext.tangly1024.com/user-guide/start-here) 阅读。
+新手建议直接从文档站的 [从这里开始](https://notionnext.bukeba.com/user-guide/start-here) 阅读。
 
 ## 主题与预览
 
-- 在线切换主题：[preview.tangly1024.com](https://preview.tangly1024.com/)
-- 26 个内置主题：[主题全览](https://notionnext.tangly1024.com/user-guide/themes/THEMES_CATALOG)
+- 在线切换主题：[preview.bukeba.com](https://preview.bukeba.com/)
+- 26 个内置主题：[主题全览](https://notionnext.bukeba.com/user-guide/themes/THEMES_CATALOG)
 - 仓库内主题文档：[docs/user-guide/themes/](./docs/user-guide/themes/)
 
 | 场景 | 优先看 |
@@ -128,14 +128,14 @@ yarn dev
 
 | 内容 | 链接 |
 | --- | --- |
-| 在线文档站 | [notionnext.tangly1024.com](https://notionnext.tangly1024.com) |
-| 新手入口 | [从这里开始](https://notionnext.tangly1024.com/user-guide/start-here) |
-| 场景模板 | [按目标选择模板](https://notionnext.tangly1024.com/user-guide/templates) |
-| 配置索引 | [全站功能与配置索引](https://notionnext.tangly1024.com/user-guide/reference/features) |
-| 主题说明 | [26 个主题说明](https://notionnext.tangly1024.com/user-guide/themes/THEMES_CATALOG) |
-| 用户作品 | [Showcase](https://notionnext.tangly1024.com/user-guide/showcase)：已上线站点欢迎提交作品 |
+| 在线文档站 | [notionnext.bukeba.com](https://notionnext.bukeba.com) |
+| 新手入口 | [从这里开始](https://notionnext.bukeba.com/user-guide/start-here) |
+| 场景模板 | [按目标选择模板](https://notionnext.bukeba.com/user-guide/templates) |
+| 配置索引 | [全站功能与配置索引](https://notionnext.bukeba.com/user-guide/reference/features) |
+| 主题说明 | [26 个主题说明](https://notionnext.bukeba.com/user-guide/themes/THEMES_CATALOG) |
+| 用户作品 | [Showcase](https://notionnext.bukeba.com/user-guide/showcase)：已上线站点欢迎提交作品 |
 | 文档源码 | [docs/](./docs/) |
-| 旧版手册 | [docs.tangly1024.com](https://docs.tangly1024.com/) |
+| 旧版手册 | [docs.bukeba.com](https://docs.bukeba.com/) |
 
 ## 参与社区
 

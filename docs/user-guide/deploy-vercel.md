@@ -1,5 +1,5 @@
 # Vercel 部署 NotionNext
-> 迁移自：[Vercel部署NotionNext](https://docs.tangly1024.com/article/vercel-deploy-notion-next)
+> 迁移自：[Vercel部署NotionNext](https://docs.bukeba.com/article/vercel-deploy-notion-next)
 > 发布日期：2023-2-10
 > 最后编辑：2026-5-2
 > 原栏目：🚀 安装部署
@@ -8,7 +8,7 @@
 
 ## 前言
 
-遵循此教程您将在[Vercel](https://tangly1024.com/article/vercel)上免费搭建一个[NotionNext](/user-guide/intro)博客。
+遵循此教程您将在[Vercel](https://bukeba.com/article/vercel)上免费搭建一个[NotionNext](/user-guide/intro)博客。
 
 ::: info 问题
 [NotionNext](/user-guide/intro)是一个开源站点系统，可以把你的 Notion 内容发布为博客、作品集、知识库、导航站或产品官网。
@@ -16,11 +16,11 @@
 Vercel是一个来自国外的在线脚本托管平台，对于个人使用，其免费版已经完全足够，因此您无需购买服务器即可搭建自己的网站。
 :::
 
-站点效果预览→：[https://preview.tangly1024.com/](https://preview.tangly1024.com/) , 站点左下角图标点击可以体验主题切换：
+站点效果预览→：[https://preview.bukeba.com/](https://preview.bukeba.com/) , 站点左下角图标点击可以体验主题切换：
 
 ![image.png](/legacy/a83043dbc31d736e.png)
 
-想查看更多网站搭建效果，欢迎访问友情链接：[https://blog.tangly1024.com/links](https://blog.tangly1024.com/links)
+想查看更多网站搭建效果，欢迎访问友情链接：[https://blog.bukeba.com/links](https://blog.bukeba.com/links)
 
 
 ### 部署步骤
@@ -222,4 +222,4 @@ NotionNext会实时抓取Notion笔记内容
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/vercel-deploy-notion-next
+https://docs.bukeba.com/article/vercel-deploy-notion-next

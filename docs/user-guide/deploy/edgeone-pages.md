@@ -1,5 +1,5 @@
 # EdgeOne部署NotionNext
-> 迁移自：[EdgeOne部署NotionNext](https://docs.tangly1024.com/article/deploy-notion-next-with-edge-one)
+> 迁移自：[EdgeOne部署NotionNext](https://docs.bukeba.com/article/deploy-notion-next-with-edge-one)
 > 发布日期：2024-11-13
 > 最后编辑：2026-5-2
 > 原栏目：🚀 安装部署
@@ -118,11 +118,11 @@
 
 ![image.png](/legacy/b26d5257549bed4d.png)
 
-例如系统分配给我的CNAME是 `eo `→ `eo.tangly1024.com.dns.edgeone.app.` 。
+例如系统分配给我的CNAME是 `eo `→ `eo.bukeba.com.dns.edgeone.app.` 。
 
 我的域名托管在CloudFlare，因此我用CloudFlare来示例如何配置CNAME。
 
-点击DNS管理，添加记录，类型是CNAME，名称是eo，目标是我的`eo.tangly1024.com.dns.edgeone.app.` （注意这里填写你的，每个人不一样），然后将代理状态的橙色云暂时关闭。最后点击保存。
+点击DNS管理，添加记录，类型是CNAME，名称是eo，目标是我的`eo.bukeba.com.dns.edgeone.app.` （注意这里填写你的，每个人不一样），然后将代理状态的橙色云暂时关闭。最后点击保存。
 
 ![image.png](/legacy/9bfb2ea4eca4ff57.png)
 
@@ -147,7 +147,7 @@
 
 ### 访问站点
 
-[Tangly的学习笔记 | 取势、明道、优术](https://eo.tangly1024.com/)
+[Tangly的学习笔记 | 取势、明道、优术](https://eo.bukeba.com/)
 
 取势、明道、优术
 
@@ -159,4 +159,4 @@ EdgeOne在使用的过程中还有一些小BUG，例如部署后配置没有生�
 
 ## 原文链接
 
-https://docs.tangly1024.com/article/deploy-notion-next-with-edge-one
+https://docs.bukeba.com/article/deploy-notion-next-with-edge-one
